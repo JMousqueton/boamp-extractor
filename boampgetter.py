@@ -145,9 +145,9 @@ class boampGetter:
             rejectedWord is the list of word for reject offer
         """
         fileOut = open(fileName, 'w', encoding='utf-8')
-        header = '| Référence | Dénomination | Libellé | Montant | Deadline | Résumé |'
+        header = '| Référence | Dénomination | Libellé | Montant | Deadline | Résumé |\n'
         fileOut.write(header)
-        fileOut.write('|---|---|---|---|---|---|')
+        fileOut.write('|---|---|---|---|---|---|\n')
         for idweb, strList in self.__dicAd.items():
             if self.adIsReject(strList, rejectedWord):
                 if self.printAll:
