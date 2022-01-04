@@ -5,5 +5,6 @@ stockage NAS
 stockage SAN
 cybersecurite
 datacenter
-datacentre
+archivage des donnees
+sauvegarde
 
