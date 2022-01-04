@@ -171,7 +171,7 @@ class boampGetter:
             elif ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) > (datetime.now() + timedelta(days=20))):
                 champ5 = '🟢 {}'.format(strList[4])
             else:
-                champ5 = '🟠 {}'.format(strList[4])
+                champ5 = '🟡 {}'.format(strList[4])
             fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
         fileOut.write('\n\n_Dernière mise à jour : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + '_')
         if self.printAll == True:
