@@ -61,7 +61,6 @@ class boampGetter:
                     if self.printAll:
                         print(annonce['gestion']['reference']['idweb'])
                         print(dt_object)
-                        print('\n')
                     if dt_object > datetime.today():
                         arrayReturn.append(annonce)
             i+=1
@@ -141,3 +140,27 @@ class boampGetter:
             fileOut.write('URL : https://www.boamp.fr/avis/detail/{}\n'.format(idweb))
             fileOut.write('-------------------------------------------------\n')
  
+    def makeMarkdown(self, fileName, rejectedWord = []):
+        """Write all not rejected ad in filename and all rejected ad in fileNameReject.
+            rejectedWord is the list of word for reject offer
+        """
+        fileOut = open(fileName, 'w', encoding='utf-8')
+        header = '| Référence | Dénomination | Libellé | Montant | Deadline | Résumé |'
+        fileOut.write(header)
+        fileOut.write('|---|---|---|---|---|---|')
+        for idweb, strList in self.__dicAd.items():
+            if self.adIsReject(strList, rejectedWord):
+                if self.printAll:
+                    print(annonce['gestion']['reference']['idweb'] + ' rejected')
+            else:
+                if self.printAll:
+                    print(annonce['gestion']['reference']['idweb'] + ' added')
+            champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
+            champ2 = '{} \n'.format(strList[0])
+            champ3 = 'TODO'
+            champ6 = '{} \n'.format(strList[1])
+            if strList[1] == "None":
+                    champ6 = '{} \n'.format(strList[3])
+            champ4 = 'Valeur : {} € sur une durée de {} mois'.format(strList[2],strList[5])
+            champ5 = '{}'.format(strList[4]) 
+            fileOut.write('| '+ champ1 + ' | ' +  champ2 + ' | ' + champ3 + ' | ' + champ4 +  ' | ' +champ5 + ' | ' + champ6 + ' |\n')
