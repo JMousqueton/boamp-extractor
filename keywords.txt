@@ -1,13 +1,9 @@
 serveurs
 informatique
-firewall
 virtualisation
-pare-feu
-parefeu
 stockage NAS
 stockage SAN
 cybersecurite
-poste de travail 
-masterisation
-reseau WAN
-reseau LAN
+datacenter
+datacentre
+
