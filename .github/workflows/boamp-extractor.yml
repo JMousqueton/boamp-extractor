@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
       - name: run scraper
         run: |
-          python3 extractor.py -m 
+          python3 extractor.py -f -m 
       - name: save changes
         run: |
           git config --global user.email "bot-parser@users.noreply.github.com"
