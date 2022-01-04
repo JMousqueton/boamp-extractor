@@ -56,6 +56,8 @@ optional arguments:
 
 - Ajouter les compteurs
 
+- Afficher les mots clefs
+
 - Gérer les lots dans les AOs 
 
 - Trier les AO par deadline 
