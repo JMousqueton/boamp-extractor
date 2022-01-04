@@ -163,4 +163,4 @@ class boampGetter:
                     champ6 = '{} \n'.format(strList[3])
             champ4 = 'Valeur : {} € sur une durée de {} mois'.format(strList[2],strList[5])
             champ5 = '{}'.format(strList[4]) 
-            fileOut.write('| '+ champ1 + ' | ' +  champ2 + ' | ' + champ3 + ' | ' + champ4 +  ' | ' +champ5 + ' | ' + champ6 + ' |\n')
+            fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
