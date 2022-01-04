@@ -1,2 +1,2 @@
-- [Accueil](README.md)
-- [Auteur](INDEX.md)
+- [home](README.md)
+- [Author](INDEX.md)

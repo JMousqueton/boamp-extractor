@@ -162,5 +162,5 @@ class boampGetter:
             if strList[1] == "None":
                 champ6 = '{} \n'.format(strList[3])
             champ4 = '{} mois'.format(strList[5])
-            champ5 = '<code>{}</code>'.format(strList[4]) 
+            champ5 = '{}'.format(strList[4]) 
             fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
