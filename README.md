@@ -51,6 +51,8 @@ optional arguments:
 
 - ~~Utiliser Github-Page~~
 
+- Gérer les lots dans les AOs 
+
 
 ## Author
 
