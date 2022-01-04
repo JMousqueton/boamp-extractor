@@ -7,4 +7,4 @@
 * Twitter : [@JMousqueton](https://twitter.com/JMousqueton)
 * Github : [@JMousqueton](https://github.com/JMousqueton)
 
-> (https://github.com/jmousqueton/boamp-extractor#readme) Pour plus d'information allez voir le [ReadMe.md](https://github.com/jmousqueton/boamp-extractor#readme) du projet. 
+> Pour plus d'information allez voir le [README.md](https://github.com/jmousqueton/boamp-extractor#readme) du projet. 
