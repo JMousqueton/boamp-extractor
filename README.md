@@ -14,7 +14,7 @@ Le script ignore les appels d'offres dont la date limite de réponse est dépass
 ## Documentation
 
 ### En utilisant les fichiers de configuration 
-Renseignez les mots-clés de recherches dans le fichier `recherche.txt` avec un mot ou une expression par ligne.
+Renseignez les mots-clés de recherches dans le fichier `keywords.txt` avec un mot ou une expression par ligne.
 
 Il est possible d'exclure les appels d'offres contenants certains mots-clés.
 Pour cela, renseignez les mots interdits dans le fichier `exception.txt` avec un mot ou une expression par ligne.

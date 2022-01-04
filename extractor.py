@@ -45,7 +45,7 @@ if args.debug:
     boamp.printAll = True
 
 if args.list:
-    searchList = getWordList('recherche.txt')
+    searchList = getWordList('keywords.txt')
     try:
         rejectList = boamp.getWordList('exception.txt')
     except:
