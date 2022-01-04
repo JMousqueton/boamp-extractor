@@ -74,11 +74,11 @@ class boampGetter:
         """
         strList = []
         idweb = str(jsonDesc['gestion']['reference']['idweb'])
-        # List 0 
+        # List 0  : Donneur d'ordre 
         strList.append(str(jsonDesc['donnees']['identite']['denomination']))
-        # List 1 
+        # List 1 : Titre de l'AO 
         strList.append(str(jsonDesc['donnees']['objet'][0]['titremarche']))
-        # List 2 
+        # List 2 : Valeur de l'AO 
         try:
             strList.append(str(("{:,}".format(jsonDesc['donnees']['objet'][0]['caracteristiques']['valeurtotale']['value']))))
         except:
@@ -86,11 +86,11 @@ class boampGetter:
                 strList.append(str("{:,}".format(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['valeur']['value'])))
             except:
                 strList.append('N/C')
-        # List 3 
+        # List 3 : Objet de l'AO 
         strList.append(str(jsonDesc['donnees']['objet'][0]['objetcomplet']))
-        # List 4 
+        # List 4 : Date remise offre 
         strList.append(str(datetime.fromtimestamp(jsonDesc['donnees']['conditiondelai']['receptoffres']/1000)))
-        # List 5 
+        # List 5 : Durée 
         try:
             if (str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']) == 'None'): 
                 strList.append('N/C')
@@ -98,6 +98,8 @@ class boampGetter:
                 strList.append(str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']))
         except:
             strList.append('N/C')
+        # List 6 : Date de dépot AO 
+        strList.append(str(datetime.fromtimestamp(jsonDesc['gestion']['indexation']['datepublication']/1000)))
 
         if idweb not in self.__dicAd:
             self.__dicAd[idweb] = strList
@@ -158,8 +160,11 @@ class boampGetter:
                 if self.printAll:
                     print(idweb + ' added')
             champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
+            if ((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(hours=48)) > datetime.now()):
+                champ1 = '🔥 [{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
             if self.printAll == True: 
                 champ1 = '[{}](https://www.boamp.fr/avis/detail/{}) [⚙️](http://api.dila.fr/opendata/api-boamp/annonces/v230/{})'.format(idweb,idweb,idweb)
+            # print('Date : {}'.format(strList[6]))
             champ2 = '{}'.format(strList[0])
             champ3 = '{} €'.format(strList[2])
             champ6 = '{}'.format(strList[1])
