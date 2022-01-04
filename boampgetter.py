@@ -52,8 +52,7 @@ class boampGetter:
                     print(annonce['gestion']['reference']['idweb'])
             else:
                 try:
-                    dt_object = datetime.fromtimestamp(date/1000)
-                    
+                    dt_object = datetime.fromtimestamp(date/1000)   
                 except:
                     if self.printAll:
                         print(annonce['gestion']['reference']['idweb'])
@@ -96,11 +95,6 @@ class boampGetter:
             strList.append('N/C')
 
         if idweb not in self.__dicAd:
-            # print('New ad in list')
-            # print(strList[0])
-            # print(strList[1])
-            # print('Date limite: ' + strList[2])
-            # print('idWeb: ' + idweb + '\n')
             self.__dicAd[idweb] = strList
     
     def adIsReject(self, ad, rejectedWord = []):
@@ -162,5 +156,9 @@ class boampGetter:
             if strList[1] == "None":
                 champ6 = '{} \n'.format(strList[3])
             champ4 = '{} mois'.format(strList[5])
-            champ5 = '{}'.format(strList[4]) 
+
+            if strList[4] < (datetime.now() + + timedelta(days=15)):
+                champ5 = '🔴 {}'.format(strList[4])
+            elif strList[4] < (datetime.now() + + timedelta(days=30)):
+                champ5 = '🟢 {}'.format(strList[4])
             fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
