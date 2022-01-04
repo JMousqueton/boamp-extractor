@@ -32,6 +32,7 @@ parser.add_argument('-d','--debug', action='store_true',help='increase output ve
 parser.add_argument('-k','--keyword', action='store', type=str, metavar='<keyword>', dest='keyword', help='the keyword')
 parser.add_argument('-l','--list', action='store_true', help='use a list from file recherche.txt')
 parser.add_argument('-o','--output', action='store', type=str, metavar='<filename>', dest='outputfile',help='outputfile')
+parser.add_argument('-m','--markdown',action='store_true', help="export en markdown")
 args = parser.parse_args()
 outputfile=args.outputfile
 
@@ -58,5 +59,8 @@ for searchWord in searchList:
 	adList = boamp.extractValidAd()
 	for ad in adList:
 		boamp.pushAd(ad)
-		
-boamp.makeOutputFile(outputfile, 'annoncesrejetees.txt', rejectList)
+
+if (args.markdown == True):
+    boamp.makeMarkdown("doc/index.md", rejectList) 
+else: 
+    boamp.makeOutputFile(outputfile, 'annoncesrejetees.txt', rejectList)
