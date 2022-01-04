@@ -6,9 +6,9 @@ L'extraction se base sur des mots clefs
 Le script ignore les appels d'offres dont la date limite de réponse est dépassée.
 
 ## Badges
+[![boamp-extractor](https://github.com/JMousqueton/boamp-extractor/actions/workflows/boamp-extractor.yml/badge.svg)](https://github.com/JMousqueton/boamp-extractor/actions/workflows/boamp-extractor.yml)[![pages-build-deployment](https://github.com/JMousqueton/boamp-extractor/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JMousqueton/boamp-extractor/actions/workflows/pages/pages-build-deployment)
 
 [![Twitter: JMousqueton](https://img.shields.io/twitter/follow/JMousqueton.svg?style=social)](https://twitter.com/JMousqueton)
-
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 ## Documentation
@@ -26,6 +26,10 @@ Lancez le script `extractor.py` avec l'option `-k` suivi du mot clef recherché
 
 Le résultat sera généré dans le fichier `annonces.txt` (ou dans le fichier spécifié avec l'option `-o`)
 
+## En utilisant Github-Action 
+
+Voir le fichier [boamp-extractor](https://github.com/JMousqueton/boamp-extractor/blob/main/.github/workflows/boamp-extractor.yml)
+
 ## Usage
 
 ```
@@ -41,12 +45,11 @@ optional arguments:
                         outputfile
 ```
 
-
 ## Roadmap
 
-- Additional browser support
+- ~~Utiliser Github-Action~~ 
 
-- Add more integrations
+- ~~Utiliser Github-Page~~
 
 
 ## Author
