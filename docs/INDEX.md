@@ -1,6 +1,4 @@
-### Auteur 
-
-
+ 
 👤 **Julien Mousqueton**
 
 * CTO @ Computacenter

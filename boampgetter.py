@@ -1,6 +1,7 @@
 import requests
 import json
 from datetime import datetime
+from datetime import timedelta
 
 numerLineInAd = 4 # number of line for describe ad
 
@@ -90,7 +91,10 @@ class boampGetter:
         strList.append(str(datetime.fromtimestamp(jsonDesc['donnees']['conditiondelai']['receptoffres']/1000)))
         # List 5 
         try:
-            strList.append(str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']))
+            if (str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']) == 'None'): 
+                strList.append('N/C')
+            else:
+                strList.append(str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']))
         except:
             strList.append('N/C')
 
@@ -154,11 +158,10 @@ class boampGetter:
             champ3 = '{} €'.format(strList[2])
             champ6 = '{}'.format(strList[1])
             if strList[1] == "None":
-                champ6 = '{} \n'.format(strList[3])
+                champ6 = '{}'.format(strList[3])
             champ4 = '{} mois'.format(strList[5])
-
-            if strList[4] < (datetime.now() + + timedelta(days=15)):
+            if ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) < (datetime.now() + timedelta(days=10))):
                 champ5 = '🔴 {}'.format(strList[4])
-            elif strList[4] < (datetime.now() + + timedelta(days=30)):
+            elif ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) > (datetime.now() + timedelta(days=10))):
                 champ5 = '🟢 {}'.format(strList[4])
             fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
