@@ -60,6 +60,10 @@ optional arguments:
 
 - Trier les AO par deadline 
 
+- Ajouter "nouveau" pour les parutions de 24h et moins 
+
+- Mettre les montants au format US (avec virgule pour les milliers)
+
 ## Author
 
 👤 **Julien Mousqueton**
