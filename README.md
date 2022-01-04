@@ -58,6 +58,7 @@ optional arguments:
 
 - Gérer les lots dans les AOs 
 
+- Trier les AO par deadline 
 
 ## Author
 
