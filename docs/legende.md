@@ -4,4 +4,4 @@
 | 🟠 | Deadline < 20 jours |
 | 🟢 | DeadLine > 20 jours | 
 
-_Les données sont mises à jour toutes les `24` heures 
+_ ⚠️ Les données sont mises à jour toutes les `24` heures_

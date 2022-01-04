@@ -144,8 +144,8 @@ class boampGetter:
             rejectedWord is the list of word for reject offer
         """
         fileOut = open(fileName, 'w', encoding='utf-8')
-        fileOut.write('# Extraction du BOAMP')
-        fileOut.write('> **B**ulletin **o**fficiel des **a**nnonces de **m**archés **p**ublics')
+        fileOut.write('# Extraction du BOAMP\n')
+        fileOut.write('> **B**ulletin **o**fficiel des **a**nnonces de **m**archés **p**ublics\n\n')
         header = '| Référence | Dénomination | Montant | Durée | Deadline | Résumé |\n'
         fileOut.write(header)
         fileOut.write('|---|---|---|---|---|---|\n')
