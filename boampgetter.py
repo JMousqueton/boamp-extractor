@@ -158,7 +158,7 @@ class boampGetter:
                 if self.printAll:
                     print(annonce['gestion']['reference']['idweb'] + ' added')
             champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
-            if boamp.printAll == True: 
+            if self.printAll == True: 
                 champ1 = '[{}](https://www.boamp.fr/avis/detail/{}) [⚙️](http://api.dila.fr/opendata/api-boamp/annonces/v230/{})'.format(idweb,idweb,idweb)
             champ2 = '{}'.format(strList[0])
             champ3 = '{} €'.format(strList[2])
@@ -174,5 +174,5 @@ class boampGetter:
                 champ5 = '🟠 {}'.format(strList[4])
             fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
         fileOut.write('\n\n_Dernière mise à jour : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + '_')
-        if boamp.printAll == True:
+        if self.printAll == True:
             fileOut.write(' _[mode debug]_')
