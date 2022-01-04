@@ -7,4 +7,6 @@ cybersecurite
 datacenter
 archivage des donnees
 sauvegarde
-
+veeam
+vmware
+ESX

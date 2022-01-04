@@ -80,10 +80,10 @@ class boampGetter:
         strList.append(str(jsonDesc['donnees']['objet'][0]['titremarche']))
         # List 2 
         try:
-            strList.append(str(jsonDesc['donnees']['objet'][0]['caracteristiques']['valeurtotale']['value']))
+            strList.append(str(("{:,}".format(jsonDesc['donnees']['objet'][0]['caracteristiques']['valeurtotale']['value']))))
         except:
             try:
-                strList.append(str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['valeur']['value']))
+                strList.append(str("{:,}".format(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['valeur']['value'])))
             except:
                 strList.append('N/C')
         # List 3 
@@ -153,10 +153,10 @@ class boampGetter:
         for idweb, strList in self.__dicAd.items():
             if self.adIsReject(strList, rejectedWord):
                 if self.printAll:
-                    print(annonce['gestion']['reference']['idweb'] + ' rejected')
+                    print(idweb + ' rejected')
             else:
                 if self.printAll:
-                    print(annonce['gestion']['reference']['idweb'] + ' added')
+                    print(idweb + ' added')
             champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
             if self.printAll == True: 
                 champ1 = '[{}](https://www.boamp.fr/avis/detail/{}) [⚙️](http://api.dila.fr/opendata/api-boamp/annonces/v230/{})'.format(idweb,idweb,idweb)
