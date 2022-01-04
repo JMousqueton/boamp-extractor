@@ -111,6 +111,7 @@ class boampGetter:
         return 0
         
     def makeOutputFile(self, fileName, fileNameReject, rejectedWord = []):
+        cmpt = 0 
         """Write all not rejected ad in filename and all rejected ad in fileNameReject.
             rejectedWord is the list of word for reject offer
         """
@@ -162,6 +163,8 @@ class boampGetter:
             champ4 = '{} mois'.format(strList[5])
             if ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) < (datetime.now() + timedelta(days=10))):
                 champ5 = '🔴 {}'.format(strList[4])
-            elif ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) > (datetime.now() + timedelta(days=10))):
+            elif ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) > (datetime.now() + timedelta(days=20))):
                 champ5 = '🟢 {}'.format(strList[4])
+            else:
+                champ5 = '🟠 {}'.format(strList[4])
             fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
