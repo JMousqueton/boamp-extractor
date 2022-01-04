@@ -1,3 +1,3 @@
 - [Extraction](README.md)
-- [Legende](legende.md)
-- [Auteur](INDEX.md)
+- [Légende](legende.md)
+- [A propos](INDEX.md)
