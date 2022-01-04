@@ -157,8 +157,8 @@ class boampGetter:
             else:
                 if self.printAll:
                     print(annonce['gestion']['reference']['idweb'] + ' added')
-            champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
-            champ2 = '###{}'.format(strList[0])
+            champ1 = '[{}](https://www.boamp.fr/avis/detail/{}) [⚙️](http://api.dila.fr/opendata/api-boamp/annonces/v230)/{})'.format(idweb,idweb,idweb)
+            champ2 = '{}'.format(strList[0])
             champ3 = '{} €'.format(strList[2])
             champ6 = '{}'.format(strList[1])
             if strList[1] == "None":
