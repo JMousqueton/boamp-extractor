@@ -2,6 +2,7 @@ import requests
 import json
 from datetime import datetime
 from datetime import timedelta
+import time
 
 numerLineInAd = 4 # number of line for describe ad
 
@@ -157,7 +158,7 @@ class boampGetter:
                 if self.printAll:
                     print(annonce['gestion']['reference']['idweb'] + ' added')
             champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
-            champ2 = '{}'.format(strList[0])
+            champ2 = '###{}'.format(strList[0])
             champ3 = '{} €'.format(strList[2])
             champ6 = '{}'.format(strList[1])
             if strList[1] == "None":
@@ -170,3 +171,4 @@ class boampGetter:
             else:
                 champ5 = '🟠 {}'.format(strList[4])
             fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
+        fileOut.write('\n\n_Dernière mise à jour : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + '_')

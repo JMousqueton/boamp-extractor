@@ -30,10 +30,12 @@ Le résultat sera généré dans le fichier `annonces.txt` (ou dans le fichier s
 
 Voir le fichier [boamp-extractor](https://github.com/JMousqueton/boamp-extractor/blob/main/.github/workflows/boamp-extractor.yml)
 
+et l'option `-m` ou `--markdown` pour générer les fichiers au format markdown dans le répertoire `/docs/`
+
 ## Usage
 
 ```
-usage: extractor.py [-h] [-d] [-k <keyword>] [-l] [-o <filename>]
+usage: extractor.py [-h] [-d] [-k <keyword>] [-l] [-o <filename>] [-m]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -43,6 +45,7 @@ optional arguments:
   -l, --list            use a list from file recherche.txt
   -o <filename>, --output <filename>
                         outputfile
+  -m, --markdown        export en markdown
 ```
 
 ## Roadmap
@@ -50,6 +53,8 @@ optional arguments:
 - ~~Utiliser Github-Action~~ 
 
 - ~~Utiliser Github-Page~~
+
+- Ajouter les compteurs
 
 - Gérer les lots dans les AOs 
 
