@@ -61,6 +61,6 @@ for searchWord in searchList:
 		boamp.pushAd(ad)
 
 if (args.markdown == True):
-    boamp.makeMarkdown("doc/index.md", rejectList) 
+    boamp.makeMarkdown("docs/index.md", rejectList) 
 else: 
     boamp.makeOutputFile(outputfile, 'annoncesrejetees.txt', rejectList)
