@@ -145,7 +145,7 @@ class boampGetter:
             rejectedWord is the list of word for reject offer
         """
         fileOut = open(fileName, 'w', encoding='utf-8')
-        header = '| Référence | Dénomination | Libellé | Montant | Deadline | Résumé |\n'
+        header = '| Référence | Dénomination | Montant | Durée | Deadline | Résumé |\n'
         fileOut.write(header)
         fileOut.write('|---|---|---|---|---|---|\n')
         for idweb, strList in self.__dicAd.items():
@@ -156,11 +156,11 @@ class boampGetter:
                 if self.printAll:
                     print(annonce['gestion']['reference']['idweb'] + ' added')
             champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
-            champ2 = '{} \n'.format(strList[0])
-            champ3 = 'TODO'
-            champ6 = '{} \n'.format(strList[1])
+            champ2 = '{}'.format(strList[0])
+            champ3 = '{} €'.format(strList[2])
+            champ6 = '{}'.format(strList[1])
             if strList[1] == "None":
-                    champ6 = '{} \n'.format(strList[3])
-            champ4 = 'Valeur : {} € sur une durée de {} mois'.format(strList[2],strList[5])
-            champ5 = '{}'.format(strList[4]) 
+                champ6 = '{} \n'.format(strList[3])
+            champ4 = '{} mois'.format(strList[5])
+            champ5 = '<code>{}</code>'.format(strList[4]) 
             fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
