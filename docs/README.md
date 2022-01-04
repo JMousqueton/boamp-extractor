@@ -1,4 +1,4 @@
-| Référence | Dénomination | Montant | Durée | Deadline | Résumé |
+# Extraction du BOAMP> **B**ulletin **o**fficiel des **a**nnonces de **m**archés **p**ublics| Référence | Dénomination | Montant | Durée | Deadline | Résumé |
 |---|---|---|---|---|---|
 | [21-154918](https://www.boamp.fr/avis/detail/21-154918) | Informatique CDC | 480000 € | 48 mois | 🔴 2022-01-04 12:00:00 | ACQUISITION DE MAINTENANCE HORS GARANTIE OU EXTENSION DE GARANTIE DE SERVEURS HP ET LENOVO X86 FAISANT PARTIE DU PARC EXISTANT D'ICDC ET AUTRES PRESTATIONS ASSOCIEES |
 | [21-154866](https://www.boamp.fr/avis/detail/21-154866) | Ville de Saint Sébastien sur Loire | 400000 € | 60 mois | 🔴 2022-01-12 12:00:00 | MARCHE DE RENOUVELLEMENT ET MAINTIEN EN CONDITION OPERATIONNELLE DE L'INFRASTRUCTURE SERVEUR DU SYSTÈME D'INFORMATION |
