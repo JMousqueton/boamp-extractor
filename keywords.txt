@@ -5,6 +5,7 @@ stockage NAS
 stockage SAN
 cybersecurite
 datacenter
+centre de donnees
 archivage des donnees
 sauvegarde
 veeam

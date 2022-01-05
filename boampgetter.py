@@ -1,16 +1,32 @@
+#!/usr/bin/python3 
+# -*- coding: utf-8 -*-
+##################################################
+## Class boampGetter  
+##################z###############################
+## License : MIT 
+##################################################
+## Author: #JMousqueton (Julien Mousqueton)
+## Copyright: Copyright 2022
+## Version: Pre-3.0
+## Maintainer: #JMousqueton (Julien Mousqueton)
+## Email: julien_at_mousqueton.io 
+##################################################
+# Generic/Built-in 
+
 import requests
 import json
 from datetime import datetime
 from datetime import timedelta
 import time
 
-numerLineInAd = 4 # number of line for describe ad
-
 class boampGetter:
     def __init__(self):
         self.__searchResponse = {}
         self.__dicAd = {}
         self.printAll = 0
+        self.DLRed = 10
+        self.DLYellow = 20 
+        self.NewFor = 48
 
     def __searchSize(self):
         """Return the number of ad send by Boamp.
@@ -139,7 +155,7 @@ class boampGetter:
                     print(idweb + ' added')
             compteurtotal += 1
             champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
-            if ((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(hours=48)) > datetime.now()):
+            if ((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(hours=self.NewFor)) > datetime.now()):
                 champ1 = '🔥 [{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
                 compteurnew += 1
             if self.printAll == True: 
@@ -151,10 +167,10 @@ class boampGetter:
             if strList[1] == "None":
                 champ6 = '{}'.format(strList[3])
             champ4 = '{} mois'.format(strList[5])
-            if ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) < (datetime.now() + timedelta(days=10))):
+            if ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) < (datetime.now() + timedelta(days=self.DLRed))):
                 champ5 = '🔴 {}'.format(strList[4])
                 compteurred += 1
-            elif ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) > (datetime.now() + timedelta(days=20))):
+            elif ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) > (datetime.now() + timedelta(days=self.DLYellow))):
                 champ5 = '🟢 {}'.format(strList[4])
                 compteurgreen += 1
             else:
@@ -171,30 +187,29 @@ class boampGetter:
         fileCounter.write('# Statistiques\n')
         fileCounter.write('\n\n_Dernière mise à jour : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + ' (UTC)_ \n\n')
         fileCounter.write('Il y a `' + str(compteurtotal) + '`Appels d\'Offre référencés sur les mots clefs choisis\n\n')
-        if (compteurnew == 1):
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières `24` heures\n')
-        elif (compteurnew > 1):
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `24` heures\n')
+        
+        if (compteurnew > 1):
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
         else:
-            fileCounter.write('- 🔥 `aucun` nouvel Appel d\'Offre dans les dernières `24` heures\n')
-        if (compteurred == 1): 
-            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appel d\'Offre expire dans moins de `10` jours\n')
-        elif (compteurred > 1):
-            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appels d\'Offre expirent dans moins de `10` jours\n')
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
+        
+
+        if (compteurred > 1): 
+            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appel d\'Offre expire dans moins de `'+ str(self.DLRed) + '` jours\n')
         else:
-            fileCounter.write('- 🔴  `aucun` Appel d\'Offre expire dans moins de `10` jours\n')
-        if (compteuryellow == 1): 
-            fileCounter.write('- 🟡  `' + str(compteuryellow) + '` Appel d\'Offre expire dans moins de `20` jours\n')
-        elif (compteuryellow > 1):
-            fileCounter.write('- 🟡  `' + str(compteuryellow) + '` Appels d\'Offre expirent dans moins de `20` jours\n')
+            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appel d\'Offre expire dans moins de `'+ str(self.DLRed) + '` jours\n')
+        
+        if (compteuryellow > 1): 
+            fileCounter.write('- 🟡  `' + str(compteuryellow) + '` Appels d\'Offre expirent dans moins de `'+ str(self.DLYellow) + '` jours\n')
         else:
-            fileCounter.write('- 🟡  `aucun` Appel d\'Offre expire dans moins de `20` jours\n')
-        if (compteurgreen == 1): 
-            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appel d\'Offre expire dans plus de `20` jours\n')
-        elif (compteurgreen > 1):
-            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de `20` jours\n')
+            fileCounter.write('- 🟡  `' + str(compteuryellow) + '` Appel d\'Offre expire dans moins de `'+ str(self.DLYellow) + '` jours\n')
+        
+
+        if (compteurgreen > 1): 
+            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de `'+ str(self.DLYellow) + '` jours\n')
         else:
-            fileCounter.write('- 🟢  `aucun` Appel d\'Offre expire dans plus de `20` jours\n')
+            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de `'+ str(self.DLYellow) + '` jours\n')
+
 
         """
         Fichier de statistiques

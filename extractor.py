@@ -1,5 +1,23 @@
+#!/usr/bin/python3 
+# -*- coding: utf-8 -*-
+##################################################
+## BOAMP Extractor 
+##################################################
+## License : MIT 
+##################################################
+## Author: #JMousqueton (Julien Mousqueton)
+## Copyright: Copyright 2022, 
+## Version: Pre-3.0
+## Maintainer: #JMousqueton (Julien Mousqueton)
+## Email: julien_at_mousqueton.io 
+##################################################
+# Generic/Built-in 
 import boampgetter as boamp
 import argparse
+
+# Other Libs
+from configparser import ConfigParser
+
 
 def getWordList(fileNme):
     """Return list of line writen in file and skip '\n' '\r'
@@ -17,6 +35,13 @@ def getWordList(fileNme):
             lineOut.append(line)
     return lineOut
    
+
+
+config = ConfigParser(interpolation=None)
+config.read('config.cfg')
+boamp.DLRed = config.get('Deadline','DeadlineRed')
+boamp.DLYellow = config.get('Deadline','DeadlineYellow')
+boamp.NewFor = config.get('New','NewFor')
 
 ### MAIN 
 keyword = ''
