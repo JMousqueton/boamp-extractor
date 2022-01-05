@@ -77,6 +77,7 @@ optional arguments:
 |---|---|
 | ✅ | Réalisé |
 | 🛠 | En cours |
+| 🟢 | Priorité forte | 
 | 🟡 | Priorité moyenne |
 | 🔴 | Priorité faible |
 
