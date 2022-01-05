@@ -1,3 +1,6 @@
 - [Extraction](README.md)
+- [Changelog](changelog.md)
+- [Statistiques](stats.md)
 - [Légende](legende.md)
 - [A propos](INDEX.md)
+- [Roadmap](https://github.com/jmousqueton/boamp-extractor#roadmap)

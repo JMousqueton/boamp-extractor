@@ -54,7 +54,7 @@ optional arguments:
 
 - ~~Utiliser Github-Page~~
 
-- Ajouter les compteurs
+- ~~Ajouter les statistiques~~
 
 - Afficher les mots-clés
 
