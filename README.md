@@ -51,7 +51,7 @@ optional arguments:
 - ~~Mettre les montants au format US (avec virgule pour les milliers)~~
 - Suivi des modifications 
   > Une page de changelog est mise à jour à chaque extraction 
-- ~~MNettoyer le code pour supprimer l'écrire dans un fichier texte~~
+- ~~Nettoyer le code pour supprimer l'écrire dans un fichier texte~~
 - Corriger les issues de chez [SonarCloud](https://sonarcloud.io/project/overview?id=JMousqueton_boamp-extractor)
 
 ## Author
