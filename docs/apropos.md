@@ -17,4 +17,4 @@
 
 ## Mots-clés
 
-> Les mots-clés utilisés se trouvent dans le fichier [keywords.txt](https://github.com/jmousqueton/keyword.txt) du projet.
+> Les mots-clés utilisés se trouvent dans le fichier [keywords.txt](https://github.com/JMousqueton/boamp-extractor/blob/main/keywords.txt) du projet.
