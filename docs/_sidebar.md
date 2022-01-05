@@ -5,4 +5,4 @@
 - [A propos](apropos.md)
 - [Roadmap](https://github.com/jmousqueton/boamp-extractor#roadmap)
 
-Developeur : [Julien Mousqueton](https://github.com/JMousqueton)
+© 2022 [Julien Mousqueton](https://github.com/JMousqueton)
