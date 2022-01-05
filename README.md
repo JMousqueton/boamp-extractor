@@ -49,7 +49,7 @@ optional arguments:
 - ~~Ajouter "nouveau" pour les parutions de 24h et moins~~
   > les nouveaux AOs sont affichés avec une 🔥 
 - ~~Mettre les montants au format US (avec virgule pour les milliers)~~
-- Suivi des modifications 
+- ~~Suivi des modifications~~ 
   > Une page de changelog est mise à jour à chaque extraction 
 - ~~Nettoyer le code pour supprimer l'écrire dans un fichier texte~~
 - Corriger les issues de chez [SonarCloud](https://sonarcloud.io/project/overview?id=JMousqueton_boamp-extractor)
