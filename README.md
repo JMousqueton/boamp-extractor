@@ -1,5 +1,5 @@
 
-# BOAMP Extractor 
+# BOAMP Extractor ![Version](https://img.shields.io/badge/version-3.2-blue.svg)
 
 > BOAMP-Extractor permet d'extraire les offres de marchés publics publiées au bulletin officiel des annonces des marchés publics (BOAMP).
 L'extraction se base sur des mots clefs
