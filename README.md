@@ -73,6 +73,7 @@ optional arguments:
   > Version 3.1 
 - ~~Rendre la date de début de recherche dynamique et configurable~~
   > Version 3.2 
+- Rendre la légende dynamique
 
 ## Author
 
