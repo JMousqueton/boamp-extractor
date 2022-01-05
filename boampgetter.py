@@ -150,9 +150,9 @@ class boampGetter:
         fileCounter.write('Il y a `' + str(compteurtotal) + '`Appels d\'Offre référencés sur les mots clefs choisis\n\n')
         
         if (compteurnew > 1):
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `'+ str(self.NewFor) + '` jours\n')
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les derniers `'+ str(self.NewFor) + '` jours\n')
         else:
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières `'+ str(self.NewFor) + '` jours\n')
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les derniers `'+ str(self.NewFor) + '` jours\n')
 
         if (compteurred > 1): 
             fileCounter.write('- 🔴  `' + str(compteurred) + '` Appels d\'Offre expirent dans moins de `'+ str(self.DLRed) + '` jours\n')

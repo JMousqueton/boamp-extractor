@@ -1,9 +1,7 @@
-informatique
 serveur
 virtualisation
 stockage NAS
 stockage SAN
-cybersecurite
 datacenter
 centre de donnees
 archivage des donnees
@@ -12,3 +10,5 @@ veeam
 vmware
 ESX
 x86
+informatique
+cybersecurite

@@ -13,6 +13,7 @@ Le script ignore les appels d'offres dont la date limite de réponse est dépass
 ## Documentation 📖 
 
 ### En utilisant les fichiers de configuration 
+
 Renseignez les mots-clés de recherches dans le fichier `keywords.txt` avec un mot ou une expression par ligne.
 
 Il est possible d'exclure les appels d'offres contenants certains mots-clés.
@@ -42,7 +43,7 @@ Modifiez la configuration en fonction des besoins dans le fichier [config.cfg](h
 ## Usage
 
 ```
-usage: extractor.py [-h] [-d] [-k <keyword>] [-l] [-o <filename>] [-m]
+usage: extractor.py [-h] [-d] [-k <keyword>]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -84,5 +85,6 @@ optional arguments:
 
 ## Acknowledgements
 
- - [fr-boamp-api-extractor](https://github.com/bastien313/fr-boamp-api-extractor) pour l'inspiration 
- - [Guillaume Cresta](https://www.linkedin.com/in/guillaume-cresta-88185234) pour l'idée et les axes d'amélioration
+ - [fr-boamp-api-extractor](https://github.com/bastien313/fr-boamp-api-extractor) pour l'inspiration 💡
+ - [Guillaume Cresta](https://www.linkedin.com/in/guillaume-cresta-88185234) pour l'idée et les axes d'amélioration 📈
+ - [Guillaume Zeja](https://twitter.com/guzefr) pour le support sur python et les encouragements 🍻
