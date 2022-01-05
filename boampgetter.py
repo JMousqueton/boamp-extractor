@@ -191,11 +191,11 @@ class boampGetter:
         if (compteurnew > 1):
             fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
         else:
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
         
 
         if (compteurred > 1): 
-            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appel d\'Offre expire dans moins de `'+ str(self.DLRed) + '` jours\n')
+            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appels d\'Offre expirent dans moins de `'+ str(self.DLRed) + '` jours\n')
         else:
             fileCounter.write('- 🔴  `' + str(compteurred) + '` Appel d\'Offre expire dans moins de `'+ str(self.DLRed) + '` jours\n')
         
@@ -208,7 +208,7 @@ class boampGetter:
         if (compteurgreen > 1): 
             fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de `'+ str(self.DLYellow) + '` jours\n')
         else:
-            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de `'+ str(self.DLYellow) + '` jours\n')
+            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appel d\'Offre expire dans plus de `'+ str(self.DLYellow) + '` jours\n')
 
 
         """
