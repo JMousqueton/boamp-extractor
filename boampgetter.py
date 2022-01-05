@@ -169,14 +169,14 @@ class boampGetter:
         """
         fileCounter = open('docs/stats.md', 'w', encoding='utf-8')
         fileCounter.write('# Statistiques\n')
-        fileCounter.write('\n\n_Dernière mise à jour : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + '_ \n\n')
+        fileCounter.write('\n\n_Dernière mise à jour : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + ' (UTC)_ \n\n')
         fileCounter.write('Il y a `' + str(compteurtotal) + '`Appels d\'Offre référencés sur les mots clefs choisis\n\n')
         if (compteurnew == 1):
             fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières `24` heures\n')
         elif (compteurnew > 1):
             fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `24` heures\n')
         else:
-            fileCounter.write('- 🔥 `aucun` nouvel Appels d\'Offre dans les dernières `24` heures\n')
+            fileCounter.write('- 🔥 `aucun` nouvel Appel d\'Offre dans les dernières `24` heures\n')
         if (compteurred == 1): 
             fileCounter.write('- 🔴  `' + str(compteurred) + '` Appel d\'Offre expire dans moins de `10` jours\n')
         elif (compteurred > 1):
