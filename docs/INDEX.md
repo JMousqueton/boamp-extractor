@@ -3,7 +3,7 @@
 
 👤 **Julien Mousqueton**
 
-* CTO @ <confidentiel>
+* CTO @ *confidential*
 * Blog : <https://www.julienmousqueton.fr>
 * LinkedIn : [Julien Mousqueton](https://linkedin.com/in/julienmousqueton)
 * Twitter : [@JMousqueton](https://twitter.com/JMousqueton)
