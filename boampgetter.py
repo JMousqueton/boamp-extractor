@@ -27,6 +27,7 @@ class boampGetter:
         self.DLRed = 10
         self.DLYellow = 20 
         self.NewFor = 48
+        self.ShowKeyword = False
 
     def __searchSize(self):
         """Return the number of ad send by Boamp.
@@ -82,55 +83,8 @@ class boampGetter:
                         arrayReturn.append(annonce)
             i+=1
         return arrayReturn;
-
-
-    def pushAd(self, jsonDesc):
-        """Push add in dicAd.
-            jsonDesc is ad description supply by boamp in json format.
-        """
-        strList = []
-        idweb = str(jsonDesc['gestion']['reference']['idweb'])
-        # List 0  : Donneur d'ordre 
-        strList.append(str(jsonDesc['donnees']['identite']['denomination']))
-        # List 1 : Titre de l'AO 
-        strList.append(str(jsonDesc['donnees']['objet'][0]['titremarche']))
-        # List 2 : Valeur de l'AO 
-        try:
-            strList.append(str(("{:,}".format(jsonDesc['donnees']['objet'][0]['caracteristiques']['valeurtotale']['value']))))
-        except:
-            try:
-                strList.append(str("{:,}".format(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['valeur']['value'])))
-            except:
-                strList.append('N/C')
-        # List 3 : Objet de l'AO 
-        strList.append(str(jsonDesc['donnees']['objet'][0]['objetcomplet']))
-        # List 4 : Date remise offre 
-        strList.append(str(datetime.fromtimestamp(jsonDesc['donnees']['conditiondelai']['receptoffres']/1000)))
-        # List 5 : Durée 
-        try:
-            if (str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']) == 'None'): 
-                strList.append('N/C')
-            else:
-                strList.append(str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']))
-        except:
-            strList.append('N/C')
-        # List 6 : Date de dépot AO 
-        strList.append(str(datetime.fromtimestamp(jsonDesc['gestion']['indexation']['datepublication']/1000)))
-
-        if idweb not in self.__dicAd:
-            self.__dicAd[idweb] = strList
-    
-    def adIsReject(self, ad, rejectedWord = []):
-        """Check if ad must be reject or valid.
-            Return 1 if ad must be reject.
-        """
-        for word in rejectedWord:
-            if word in ad[0] or word in ad[1]:
-                return 1
-        return 0
         
 
- 
     def makeMarkdown(self, fileName, rejectedWord = []):
         """Write all not rejected ad in filename and all rejected ad in fileNameReject.
             rejectedWord is the list of word for reject offer
@@ -166,6 +120,8 @@ class boampGetter:
             champ6 = '{}'.format(strList[1])
             if strList[1] == "None":
                 champ6 = '{}'.format(strList[3])
+            if (len(champ6) < 10 ):
+                champ6 = '{}'.format(strList[3])
             champ4 = '{} mois'.format(strList[5])
             if ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) < (datetime.now() + timedelta(days=self.DLRed))):
                 champ5 = '🔴 {}'.format(strList[4])
@@ -192,7 +148,6 @@ class boampGetter:
             fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
         else:
             fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
-        
 
         if (compteurred > 1): 
             fileCounter.write('- 🔴  `' + str(compteurred) + '` Appels d\'Offre expirent dans moins de `'+ str(self.DLRed) + '` jours\n')
@@ -209,15 +164,20 @@ class boampGetter:
             fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de `'+ str(self.DLYellow) + '` jours\n')
         else:
             fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appel d\'Offre expire dans plus de `'+ str(self.DLYellow) + '` jours\n')
-
-
         """
         Fichier de statistiques
         """
         fileCounter = open('docs/changelog.md', 'a', encoding='utf-8')
         fileCounter.write('|' + time.strftime('%d/%m/%Y %H:%M:%S') + ' | ' + str(compteurtotal) + ' | '+ str(compteurnew) + '| \n')
 
-
+    def adIsReject(self, ad, rejectedWord = []):
+        """Check if ad must be reject or valid.
+            Return 1 if ad must be reject.
+        """
+        for word in rejectedWord:
+            if word in ad[0] or word in ad[1]:
+                return 1
+        return 0
 
 
     def AnalyzeAO(self, jsonDesc,keyword):

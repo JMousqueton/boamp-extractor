@@ -40,6 +40,8 @@ config.read('config.cfg')
 boamp.DLRed = config.get('Deadline','DeadlineRed')
 boamp.DLYellow = config.get('Deadline','DeadlineYellow')
 boamp.NewFor = config.get('New','NewFor')
+boamp.ShowKeyword = config.get('Affichage','Keywords')
+
 
 ### MAIN 
 keyword = ''

@@ -63,11 +63,12 @@
 | [21-167327](https://www.boamp.fr/avis/detail/21-167327) | Ville de Clamart | N/C € | N/C mois | 🟡 2022-01-21 12:00:00 | Travaux de construction du Centre Technique Municipal de la Ville de Clamart | *informatique*|
 | [21-168023](https://www.boamp.fr/avis/detail/21-168023) | ESID de Metz | N/C € | N/C mois | 🟢 2022-02-15 16:00:00 | Belfort (90) - quartier de maud'huy - bâtiment 0034 - création d'un espace atlaslot 1 : gros oeuvre - plâtrerie - menuiserieslot 2 : plomberie - sanitaire - chauffage - ventilationlot 3 : électricité, éclairage, courants forts et faibles | *informatique*|
 | [21-157412](https://www.boamp.fr/avis/detail/21-157412) | Commune de La Fontaine Saint Martin | N/C € | N/C mois | 🔴 2022-01-07 15:00:00 | Réhabilitation et Extension de la mairie | *informatique*|
-| [21-165926](https://www.boamp.fr/avis/detail/21-165926) | Université de Lorraine | N/C € | 48 mois | 🟡 2022-01-21 16:00:00 | 21A45 | *informatique*|
+| [21-165926](https://www.boamp.fr/avis/detail/21-165926) | Université de Lorraine | N/C € | 48 mois | 🟡 2022-01-21 16:00:00 | Prestation de maintenance des équipements de réseaux et/ou des infrastructures systèmes | *informatique*|
 | [21-157579](https://www.boamp.fr/avis/detail/21-157579) | Opéra de Lille | 600,000 € | 48 mois | 🔴 2022-01-12 12:00:00 | Fourniture et livraison de titres restaurant dématérialisés | *informatique*|
 | [21-163587](https://www.boamp.fr/avis/detail/21-163587) | INSA de Toulouse | N/C € | 16 mois | 🟢 2022-01-26 12:00:00 | FOURNITURE ET INSTALLATION DE PLUSIEURS EQUIPEMENTS SCIENTIFIQUES DANS LE CADRE DU PROJET QUET 31 | *informatique*|
 | [21-167202](https://www.boamp.fr/avis/detail/21-167202) | Ville de Saint-Joseph | N/C € | N/C mois | 🟢 2022-01-31 15:00:00 | Mise à niveau des équipements informatiques des écoles primaires pour la généralisation du numérique éducatif | *informatique*|
 | [21-158180](https://www.boamp.fr/avis/detail/21-158180) | CNFPT | 420,000 € | 48 mois | 🟡 2022-01-21 23:00:00 | Réalisation D'Actions De Formation Sur La Specialite 'C4 - Culture' Organisées Pour Le Compte De La Delegation Ile De France | *informatique*|
+| [21-165326](https://www.boamp.fr/avis/detail/21-165326) | Union des Groupements d'Achats Publics | 44,241,048 € | 36 mois | 🟢 2022-01-28 17:30:00 | Système de stérilisation et exécution des prestations associées | *informatique*|
 | [21-167166](https://www.boamp.fr/avis/detail/21-167166) | Groupe CCIR Paris Ile-de-France | 12,000,000 € | 12 mois | 🟢 2022-01-31 12:00:00 | Fourniture de matériels, de périphériques informatiques et de prestations associées pour le GIE CCI Paris Ile-de-France et ses adhérents | *informatique*|
 | [21-167432](https://www.boamp.fr/avis/detail/21-167432) | COMMUNAUTE D AGGL BEZIERS MEDITERRANEE | 5,368,000 € | 48 mois | 🟢 2022-02-01 17:00:00 | Location et maintenance du parc de bacs roulants des déchets ménagers et services associés | *informatique*|
 | [21-165476](https://www.boamp.fr/avis/detail/21-165476) | Commune de Rousset | N/C € | N/C mois | 🔴 2022-01-14 17:00:00 | Abonnements téléphoniques, services associés & maintenance infrastructure réseau de la commune de Rousset | *informatique*|
@@ -90,7 +91,7 @@
 | [21-170707](https://www.boamp.fr/avis/detail/21-170707) | Cté d'Agglomération Cap Excellence | N/C € | N/C mois | 🟢 2022-01-28 12:00:00 | Prestations d'assurances pour les besoins de la Communauté d'Agglomération de Cap Excellence (Assurances Dommages aux biens, Risques Informatiques et annexes) | *informatique*|
 | [21-170170](https://www.boamp.fr/avis/detail/21-170170) | Ville de Sens | N/C € | 24 mois | 🟢 2022-01-28 16:00:00 | Acquisition de matériels et consommables informatiques | *informatique*|
 | [21-161289](https://www.boamp.fr/avis/detail/21-161289) | CA SAUMUR VAL DE LOIRE | N/C € | 180 mois | 🔴 2022-01-14 12:00:00 | Déploiement et maintenance d'un réseau de connectivité LoRaWAN avec service de télérelève de compteurs d'eau | *informatique*|
-| [21-171753](https://www.boamp.fr/avis/detail/21-171753) | Centre Pompidou | N/C € | 12 mois | 🟢 2022-01-31 17:00:00 | 2112058 | *informatique*|
+| [21-171753](https://www.boamp.fr/avis/detail/21-171753) | Centre Pompidou | N/C € | 12 mois | 🟢 2022-01-31 17:00:00 | Prestations d'installation de câblage informatique du Centre Pompidou et de ses bâtiments annexes | *informatique*|
 | [21-167143](https://www.boamp.fr/avis/detail/21-167143) | DEPARTEMENT DE LA CORREZE | 50,000 € | 12 mois | 🟡 2022-01-24 12:00:00 | Achat de fournitures de bureau, papier, enveloppes, papier logo et timbres personnalisés pour le Conseil Départemental de la Corrèze | *informatique*|
 | [21-161434](https://www.boamp.fr/avis/detail/21-161434) | CPAM du Var | 1,050,000 € | 12 mois | 🔴 2022-01-14 16:00:00 | Marche de nettoyage et dentretien des sites de la CPAM du var | *informatique*|
 | [21-148885](https://www.boamp.fr/avis/detail/21-148885) | CHU de Martinique | N/C € | 48 mois | 🔴 2022-01-11 12:00:00 | Acquisition d'une solution Dossier Patient Informatique de Territoire (DPIT) avec maintenance, support, développements spécifiques et prestations associées | *informatique*|
@@ -127,4 +128,4 @@
 | [21-162772](https://www.boamp.fr/avis/detail/21-162772) | Dracénie Provence Verdon Agglomération | N/C € | N/C mois | 🔴 2022-01-06 12:00:00 | Acquisition de licences et maintenance de l'applicatif OpenXchange | *vmware*|
 
 
-_Dernière mise à jour : Wednesday 05/01/2022 21:20:45_
+_Dernière mise à jour : Wednesday 05/01/2022 22:02:36_

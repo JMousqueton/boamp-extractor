@@ -55,7 +55,7 @@ optional arguments:
 - ~~Utiliser Github-Action~~ 
 - ~~Utiliser Github-Page~~
 - ~~Ajouter les statistiques~~
-- Afficher les mots-clés
+- ~~Afficher les mots-clés~~ 🍾
 - Gérer les lots dans les AOs 
 - Trier les AO par deadline 
 - ~~Ajouter "nouveau" pour les parutions de 24h et moins~~
@@ -67,6 +67,7 @@ optional arguments:
 - Corriger les issues de chez [SonarCloud](https://sonarcloud.io/project/overview?id=JMousqueton_boamp-extractor)
 - ~~Faire un fichier de configuration~~
   > Utilisation de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg)
+  - ~~Utiliser la description longue si le titre est trop court~~
 
 ## Author
 
