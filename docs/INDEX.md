@@ -3,7 +3,7 @@
 
 👤 **Julien Mousqueton**
 
-* CTO @ [Computacenter](https://www.computacenter.com)
+* CTO @ <confidentiel>
 * Blog : <https://www.julienmousqueton.fr>
 * LinkedIn : [Julien Mousqueton](https://linkedin.com/in/julienmousqueton)
 * Twitter : [@JMousqueton](https://twitter.com/JMousqueton)

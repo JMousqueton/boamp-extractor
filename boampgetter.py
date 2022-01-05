@@ -28,7 +28,7 @@ class boampGetter:
         print('Boamp search: \'{}\' after \'{}\''.format(strSearch,dateparution))
         lineOut = 'http://api.dila.fr/opendata/api-boamp/annonces/search?criterion=dateparution>{} ET {}'.format(dateparution,strSearch)
         self.__searchResponse = requests.get(lineOut).json()
-        print('{} Response found'.format(self.__searchSize()))
+        print('{} Responses found'.format(self.__searchSize()))
 
     def saveJsonFile(self, idweb):
         """Get ad represented by idweb(str) and save it in json file

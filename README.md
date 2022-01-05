@@ -56,7 +56,7 @@ optional arguments:
 
 - Ajouter les compteurs
 
-- Afficher les mots clefs
+- Afficher les mots-clés
 
 - Gérer les lots dans les AOs 
 
@@ -66,6 +66,8 @@ optional arguments:
   > les nouveaux AOs sont affichés avec une 🔥 
 
 - ~~Mettre les montants au format US (avec virgule pour les milliers)~~
+
+- Nettoyer le code pour supprimer l'écrire dans un fichier texte
 
 ## Author
 
