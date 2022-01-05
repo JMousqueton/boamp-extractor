@@ -1,9 +1,10 @@
 | Symbole | Signification |
 |---|---|
-| 🔴 | Deadline < 10 jours |
-| 🟡 | Deadline < 20 jours |
-| 🟢 | DeadLine > 20 jours | 
+| 🔴 | Deadline dans moins de  `10` jours |
+| 🟡 | Deadline dans moins de `20` jours |
+| 🟢 | DeadLine dans plus de `20` jours |
 |  |  |
-| 🔥 | Nouvel AO < 5 jours |
+| 🔥 | Nouvel AO < `5` jours |
 
- ⚠️ Les données sont mises à jour toutes les `24` heures
+
+⚠️ Les données sont mises à jour toutes les `24` heures

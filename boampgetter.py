@@ -176,6 +176,19 @@ class boampGetter:
         """
         fileCounter = open('docs/changelog.md', 'a', encoding='utf-8')
         fileCounter.write('|' + time.strftime('%d/%m/%Y %H:%M:%S') + ' | ' + str(compteurtotal) + ' | '+ str(compteurnew) + '| ' +  str(self.cptKeyword) + '|\n')
+        """
+        Fichier Légende
+        """
+        filelegende = open('docs/legende.md', 'w', encoding='utf-8')
+        filelegende.write('| Symbole | Signification |\n')
+        filelegende.write('|---|---|\n')
+        filelegende.write('| 🔴 | Deadline dans moins de  `' + str(self.DLRed) + '` jours |\n')
+        filelegende.write('| 🟡 | Deadline dans moins de `' + str(self.DLYellow) + '` jours |\n')
+        filelegende.write('| 🟢 | DeadLine dans plus de `' + str(self.DLYellow) + '` jours |\n')
+        filelegende.write('|  |  |\n')
+        filelegende.write('| 🔥 | Nouvel AO < `' + str(self.NewFor) + '` jours |\n')
+        filelegende.write('\n\n⚠️ Les données sont mises à jour toutes les `24` heures')
+
 
     def adIsReject(self, ad, rejectedWord = []):
         """Check if ad must be reject or valid.
