@@ -1,4 +1,4 @@
-serveurs
+serveur
 informatique
 virtualisation
 stockage NAS
@@ -10,3 +10,4 @@ sauvegarde
 veeam
 vmware
 ESX
+x86
