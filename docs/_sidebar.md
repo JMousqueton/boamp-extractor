@@ -6,3 +6,5 @@
 - [Roadmap](https://github.com/jmousqueton/boamp-extractor#roadmap)
 
 © 2022 [Julien Mousqueton](https://github.com/JMousqueton)
+
+![Version](https://img.shields.io/badge/version-3.2-blue.svg)
