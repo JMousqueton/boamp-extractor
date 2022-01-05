@@ -34,8 +34,6 @@ def getWordList(fileNme):
         if line != '':
             lineOut.append(line)
     return lineOut
-   
-
 
 config = ConfigParser(interpolation=None)
 config.read('config.cfg')
@@ -75,7 +73,7 @@ for searchWord in searchList:
 	boamp.search('2021/11/01',searchWord)
 	adList = boamp.extractValidAd()
 	for ad in adList:
-		boamp.pushAd(ad)
-
+		boamp.AnalyzeAO(ad,searchWord)
+# boamp.pushAd(ad)      
 boamp.makeMarkdown("docs/README.md", rejectList) 
 

@@ -143,9 +143,9 @@ class boampGetter:
         fileOut = open(fileName, 'w', encoding='utf-8')
         fileOut.write('# Extraction du BOAMP\n')
         fileOut.write('> **B**ulletin **o**fficiel des **a**nnonces de **m**archés **p**ublics\n\n')
-        header = '| Référence | Dénomination | Montant | Durée | Deadline | Résumé |\n'
+        header = '| Référence | Dénomination | Montant | Durée | Deadline | Résumé | Mot clé|\n'
         fileOut.write(header)
-        fileOut.write('|---|---|---|---|---|---|\n')
+        fileOut.write('|---|---|---|---|---|---|---|\n')
         for idweb, strList in self.__dicAd.items():
             if self.adIsReject(strList, rejectedWord):
                 if self.printAll:
@@ -176,7 +176,7 @@ class boampGetter:
             else:
                 champ5 = '🟡 {}'.format(strList[4])
                 compteuryellow += 1
-            fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' |\n')
+            fileOut.write('| '+ champ1.rstrip() + ' | ' +  champ2.rstrip() + ' | ' + champ3.rstrip() + ' | ' + champ4.rstrip() +  ' | ' + champ5.rstrip() + ' | ' + champ6.rstrip() + ' | *' + str(strList[7]) + '*|\n')
         fileOut.write('\n\n_Dernière mise à jour : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + '_')
         if self.printAll == True:
             fileOut.write(' _[mode debug]_')
@@ -216,3 +216,43 @@ class boampGetter:
         """
         fileCounter = open('docs/changelog.md', 'a', encoding='utf-8')
         fileCounter.write('|' + time.strftime('%d/%m/%Y %H:%M:%S') + ' | ' + str(compteurtotal) + ' | '+ str(compteurnew) + '| \n')
+
+
+
+
+    def AnalyzeAO(self, jsonDesc,keyword):
+            """Push add in dicAd.
+                jsonDesc is ad description supply by boamp in json format.
+            """
+            strList = []
+            idweb = str(jsonDesc['gestion']['reference']['idweb'])
+            # List 0  : Donneur d'ordre 
+            strList.append(str(jsonDesc['donnees']['identite']['denomination']))
+            # List 1 : Titre de l'AO 
+            strList.append(str(jsonDesc['donnees']['objet'][0]['titremarche']))
+            # List 2 : Valeur de l'AO 
+            try:
+                strList.append(str(("{:,}".format(jsonDesc['donnees']['objet'][0]['caracteristiques']['valeurtotale']['value']))))
+            except:
+                try:
+                    strList.append(str("{:,}".format(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['valeur']['value'])))
+                except:
+                    strList.append('N/C')
+            # List 3 : Objet de l'AO 
+            strList.append(str(jsonDesc['donnees']['objet'][0]['objetcomplet']))
+            # List 4 : Date remise offre 
+            strList.append(str(datetime.fromtimestamp(jsonDesc['donnees']['conditiondelai']['receptoffres']/1000)))
+            # List 5 : Durée 
+            try:
+                if (str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']) == 'None'): 
+                    strList.append('N/C')
+                else:
+                    strList.append(str(jsonDesc['donnees']['objet'][0]['lots']['lot'][0]['dureemois']))
+            except:
+                strList.append('N/C')
+            # List 6 : Date de dépot AO 
+            strList.append(str(datetime.fromtimestamp(jsonDesc['gestion']['indexation']['datepublication']/1000)))
+            # List 7  : keyword 
+            strList.append(str(keyword))
+            if idweb not in self.__dicAd:
+                self.__dicAd[idweb] = strList
