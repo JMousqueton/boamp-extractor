@@ -2,5 +2,5 @@
 - [Changelog](changelog.md)
 - [Statistiques](stats.md)
 - [Légende](legende.md)
-- [A propos](INDEX.md)
+- [A propos](apropos.md)
 - [Roadmap](https://github.com/jmousqueton/boamp-extractor#roadmap)

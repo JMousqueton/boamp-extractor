@@ -13,3 +13,8 @@
 ## boamp-extractor 
 
 > Pour plus d'information allez voir le [README.md](https://github.com/jmousqueton/boamp-extractor#readme) du projet. 
+
+
+## Mots-clés
+
+> Les mots-clés utilisés se trouvent dans le fichier [keywords.txt](https://github.com/jmousqueton/keyword.txt) du projet.
