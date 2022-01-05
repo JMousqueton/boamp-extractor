@@ -1,5 +1,5 @@
 # Changelog Extraction du BOAMP
-> **B**ulletin **o**fficiel des **a**nnonces de **m**archés **p**ublics\n\n')
+> **B**ulletin **o**fficiel des **a**nnonces de **m**archés **p**ublics
 
 | 📅 Date | 📝 Nombre d'AO référencés | 🔥 Nouveaux AO |
 |---|---|---|
