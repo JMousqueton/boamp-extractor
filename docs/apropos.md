@@ -12,7 +12,7 @@
 
 ## boamp-extractor 
 
-Version `3.1`
+Version `3.2`
 
 > Pour plus d'information allez voir le [README.md](https://github.com/jmousqueton/boamp-extractor#readme) du projet. 
 

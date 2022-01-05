@@ -26,8 +26,9 @@ class boampGetter:
         self.printAll = 0
         self.DLRed = 10
         self.DLYellow = 20 
-        self.NewFor = 48
+        self.NewFor = 5
         self.ShowKeyword = False
+        self.cptKeyword = 0 
 
     def __searchSize(self):
         """Return the number of ad send by Boamp.
@@ -109,12 +110,16 @@ class boampGetter:
                     print(idweb + ' added')
             compteurtotal += 1
             champ1 = '[{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
-            if ((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(hours=self.NewFor)) > datetime.now()):
+            if ((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(days=int(self.NewFor))) > datetime.now()):
                 champ1 = '🔥 [{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
                 compteurnew += 1
             if self.printAll == True: 
                 champ1 = '[{}](https://www.boamp.fr/avis/detail/{}) [⚙️](http://api.dila.fr/opendata/api-boamp/annonces/v230/{})'.format(idweb,idweb,idweb)
-            # print('Date : {}'.format(strList[6]))
+                print('\nDate AO : {}'.format(strList[6]))
+                print('Date Now : {}'.format(datetime.now()))
+                print('Date Cible : {}'.format((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(days=int(self.NewFor)))))
+                print('Date Delta : {}'.format(self.NewFor))
+                print('Condition : {}'.format((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(days=int(self.NewFor))) > datetime.now()))
             champ2 = '{}'.format(strList[0])
             champ3 = '{} €'.format(strList[2])
             champ6 = '{}'.format(strList[1])
@@ -123,10 +128,10 @@ class boampGetter:
             if (len(champ6) < 10 ):
                 champ6 = '{}'.format(strList[3])
             champ4 = '{} mois'.format(strList[5])
-            if ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) < (datetime.now() + timedelta(days=self.DLRed))):
+            if ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) < (datetime.now() + timedelta(days=int(self.DLRed)))):
                 champ5 = '🔴 {}'.format(strList[4])
                 compteurred += 1
-            elif ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) > (datetime.now() + timedelta(days=self.DLYellow))):
+            elif ((datetime.strptime(strList[4], '%Y-%m-%d %H:%M:%S')) > (datetime.now() + timedelta(days=int(self.DLYellow)))):
                 champ5 = '🟢 {}'.format(strList[4])
                 compteurgreen += 1
             else:
@@ -145,9 +150,9 @@ class boampGetter:
         fileCounter.write('Il y a `' + str(compteurtotal) + '`Appels d\'Offre référencés sur les mots clefs choisis\n\n')
         
         if (compteurnew > 1):
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières `'+ str(self.NewFor) + '` jours\n')
         else:
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières `'+ str(self.NewFor) + '` heures\n')
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières `'+ str(self.NewFor) + '` jours\n')
 
         if (compteurred > 1): 
             fileCounter.write('- 🔴  `' + str(compteurred) + '` Appels d\'Offre expirent dans moins de `'+ str(self.DLRed) + '` jours\n')
@@ -164,11 +169,13 @@ class boampGetter:
             fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de `'+ str(self.DLYellow) + '` jours\n')
         else:
             fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appel d\'Offre expire dans plus de `'+ str(self.DLYellow) + '` jours\n')
+        
+        fileCounter.write('\n- 🗝 `' + str(self.cptKeyword) + '` mots-clés')
         """
-        Fichier de statistiques
+        Fichier changelog 
         """
         fileCounter = open('docs/changelog.md', 'a', encoding='utf-8')
-        fileCounter.write('|' + time.strftime('%d/%m/%Y %H:%M:%S') + ' | ' + str(compteurtotal) + ' | '+ str(compteurnew) + '| \n')
+        fileCounter.write('|' + time.strftime('%d/%m/%Y %H:%M:%S') + ' | ' + str(compteurtotal) + ' | '+ str(compteurnew) + '| ' +  str(self.cptKeyword) + '|\n')
 
     def adIsReject(self, ad, rejectedWord = []):
         """Check if ad must be reject or valid.

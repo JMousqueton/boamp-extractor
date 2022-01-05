@@ -67,7 +67,11 @@ optional arguments:
 - Corriger les issues de chez [SonarCloud](https://sonarcloud.io/project/overview?id=JMousqueton_boamp-extractor)
 - ~~Faire un fichier de configuration~~
   > Utilisation de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg)
-  - ~~Utiliser la description longue si le titre est trop court~~
+  > Version 3.0 
+- ~~Utiliser la description longue si le titre est trop court~~
+  > Version 3.1 
+- ~~Rendre la date de début de recherche dynamique et configurable~~
+  > Version 3.2 
 
 ## Author
 

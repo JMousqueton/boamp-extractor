@@ -14,6 +14,10 @@
 # Generic/Built-in 
 import boampgetter as boamp
 import argparse
+# import datetime
+from datetime import datetime
+from datetime import timedelta
+#import time
 
 # Other Libs
 from configparser import ConfigParser
@@ -35,22 +39,22 @@ def getWordList(fileNme):
             lineOut.append(line)
     return lineOut
 
+
+boamp = boamp.boampGetter()
 config = ConfigParser(interpolation=None)
 config.read('config.cfg')
 boamp.DLRed = config.get('Deadline','DeadlineRed')
 boamp.DLYellow = config.get('Deadline','DeadlineYellow')
 boamp.NewFor = config.get('New','NewFor')
 boamp.ShowKeyword = config.get('Affichage','Keywords')
+History = config.get('Affichage','Historique')
 
 
 ### MAIN 
 keyword = ''
 uselist = False
 
-
-boamp = boamp.boampGetter()
 boamp.printAll = 0
-outputfile='annonces.txt'
 parser = argparse.ArgumentParser()
 parser.version = '1.0'
 parser.add_argument('-d','--debug', action='store_true',help='increase output verbosity')
@@ -71,11 +75,15 @@ else:
     except:
         rejectList = []
 
-for searchWord in searchList:
-	boamp.search('2021/11/01',searchWord)
-	adList = boamp.extractValidAd()
-	for ad in adList:
-		boamp.AnalyzeAO(ad,searchWord)
-# boamp.pushAd(ad)      
-boamp.makeMarkdown("docs/README.md", rejectList) 
+DateBegin = datetime.now() - timedelta(days=int(History))
+DateBegin = DateBegin.strftime("%Y/%m/%d")
 
+for searchWord in searchList:
+    boamp.cptKeyword += 1
+    boamp.search(DateBegin,searchWord)
+    adList = boamp.extractValidAd()
+    for ad in adList:
+        boamp.AnalyzeAO(ad,searchWord)
+# boamp.pushAd(ad)  
+# boamp.search('2022/01/01',searchWord)    
+boamp.makeMarkdown("docs/README.md", rejectList) 
