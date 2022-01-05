@@ -69,7 +69,9 @@ optional arguments:
 | ✅ |~~Faire un fichier de configuration~~| Utilisation de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) |  3.0 |
 | ✅ |~~Utiliser la description longue si le titre est trop court~~ | | 3.1 | 
 | ✅ |~~Rendre la date de début de recherche dynamique et configurable~~|   | 3.2 |
-| ✅ |~~Rendre la légende dynamique~~ | En utilisant les variables de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) | 3.3 | 
+| ✅ |~~Rendre la légende dynamique~~ | En utilisant les variables de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) | 3.3 |
+| ✅ |~~Inclus OepnGraph~~ |  | 3.3 |
+ 
 
 #### Légende
 
