@@ -12,8 +12,9 @@
 
 ## boamp-extractor 
 
-> Pour plus d'information allez voir le [README.md](https://github.com/jmousqueton/boamp-extractor#readme) du projet. 
+Version `Pre-3.0`
 
+> Pour plus d'information allez voir le [README.md](https://github.com/jmousqueton/boamp-extractor#readme) du projet. 
 
 ## Mots-clés
 
