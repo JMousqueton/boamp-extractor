@@ -71,7 +71,7 @@ optional arguments:
 | ✅ |~~Rendre la date de début de recherche dynamique et configurable~~|   | 3.2 |
 | ✅ |~~Rendre la légende dynamique~~ | En utilisant les variables de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) | 3.3 | 
 
-#### Legende
+#### Légende
 
 | Status | Description |
 |---|---|
@@ -81,7 +81,7 @@ optional arguments:
 | 🟡 | Priorité moyenne |
 | 🔴 | Priorité faible |
 
-## Author
+## Auteur
 
 👤 **Julien Mousqueton**
 
@@ -90,7 +90,7 @@ optional arguments:
 * Twitter: [@JMousqueton](https://twitter.com/JMousqueton)
 * Github: [@JMousqueton](https://github.com/JMousqueton)
 
-## Acknowledgements
+## Remerciements
 
  - [fr-boamp-api-extractor](https://github.com/bastien313/fr-boamp-api-extractor) pour l'inspiration 💡
  - [Guillaume Cresta](https://www.linkedin.com/in/guillaume-cresta-88185234) pour l'idée et les axes d'amélioration 📈
