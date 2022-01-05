@@ -24,13 +24,9 @@ Les appels d'offres exclus par ce biais seront tout de même inscrits dans le fi
 
 Lancez le script `extractor.py` avec l'option `-k` suivi du mot clef recherché 
 
-Le résultat sera généré dans le fichier `annonces.txt` (ou dans le fichier spécifié avec l'option `-o`)
-
 ## En utilisant Github-Action 
 
 Voir le fichier [boamp-extractor](https://github.com/JMousqueton/boamp-extractor/blob/main/.github/workflows/boamp-extractor.yml)
-
-et l'option `-m` ou `--markdown` pour générer les fichiers au format markdown dans le répertoire `/docs/`
 
 ## Usage
 
@@ -41,11 +37,6 @@ optional arguments:
   -h, --help            show this help message and exit
   -d, --debug           increase output verbosity
   -k <keyword>, --keyword <keyword>
-                        the keyword
-  -l, --list            use a list from file recherche.txt
-  -o <filename>, --output <filename>
-                        outputfile
-  -m, --markdown        export en markdown
 ```
 
 ## Roadmap
@@ -67,7 +58,7 @@ optional arguments:
 
 - ~~Mettre les montants au format US (avec virgule pour les milliers)~~
 
-- Nettoyer le code pour supprimer l'écrire dans un fichier texte
+- ~~MNettoyer le code pour supprimer l'écrire dans un fichier texte~~M
 
 ## Author
 

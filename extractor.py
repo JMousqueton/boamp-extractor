@@ -30,29 +30,21 @@ parser = argparse.ArgumentParser()
 parser.version = '1.0'
 parser.add_argument('-d','--debug', action='store_true',help='increase output verbosity')
 parser.add_argument('-k','--keyword', action='store', type=str, metavar='<keyword>', dest='keyword', help='the keyword')
-parser.add_argument('-l','--list', action='store_true', help='use a list from file recherche.txt')
-parser.add_argument('-o','--output', action='store', type=str, metavar='<filename>', dest='outputfile',help='outputfile')
-parser.add_argument('-m','--markdown',action='store_true', help="export en markdown")
 args = parser.parse_args()
-outputfile=args.outputfile
-
-if (args.list == False):
-    if (args.keyword == None):
-        parser.print_help()
-        parser.exit()
 
 if args.debug:
     boamp.printAll = True
 
-if args.list:
+
+if args.keyword:
+    searchList = [args.keyword]
+    rejectList = []
+else: 
     searchList = getWordList('keywords.txt')
     try:
         rejectList = boamp.getWordList('exception.txt')
     except:
         rejectList = []
-else:
-    searchList = [args.keyword]
-    rejectList = []
 
 for searchWord in searchList:
 	boamp.search('2021/11/01',searchWord)
@@ -60,7 +52,5 @@ for searchWord in searchList:
 	for ad in adList:
 		boamp.pushAd(ad)
 
-if (args.markdown == True):
-    boamp.makeMarkdown("docs/README.md", rejectList) 
-else: 
-    boamp.makeOutputFile(outputfile, 'annoncesrejetees.txt', rejectList)
+boamp.makeMarkdown("docs/README.md", rejectList) 
+

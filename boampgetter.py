@@ -113,34 +113,7 @@ class boampGetter:
                 return 1
         return 0
         
-    def makeOutputFile(self, fileName, fileNameReject, rejectedWord = []):
-        cmpt = 0 
-        """Write all not rejected ad in filename and all rejected ad in fileNameReject.
-            rejectedWord is the list of word for reject offer
-        """
 
-        fileValid = open(fileName, 'w', encoding='utf-8')
-        fileReject = open(fileNameReject, 'w', encoding='utf-8')
-        fileOut = 0
-        for idweb, strList in self.__dicAd.items():
-            if self.adIsReject(strList, rejectedWord):
-                fileOut = fileReject
-            else:
-                fileOut = fileValid
-            fileOut.write('{} \n'.format(strList[0]))
-            fileOut.write('Valeur : {} € sur une durée de {} mois\n'.format(strList[2],strList[5]))
-            if strList[1] == strList[3]:
-                fileOut.write('{} \n'.format(strList[1]))
-            else:
-                if strList[1] == "None":
-                    fileOut.write('{} \n'.format(strList[3]))
-                else:
-                    fileOut.write('{} \n'.format(strList[1]))
-                    fileOut.write('{} \n'.format(strList[3]))
-            fileOut.write('Date limite: {}\n'.format(strList[4]))
-            fileOut.write('idWeb: {}\n'.format(idweb))
-            fileOut.write('URL : https://www.boamp.fr/avis/detail/{}\n'.format(idweb))
-            fileOut.write('-------------------------------------------------\n')
  
     def makeMarkdown(self, fileName, rejectedWord = []):
         """Write all not rejected ad in filename and all rejected ad in fileNameReject.
@@ -199,29 +172,29 @@ class boampGetter:
         fileCounter.write('\n\n_Dernière mise à jour : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + '_ \n\n')
         fileCounter.write('Il y a `' + str(compteurtotal) + '`Appels d\'Offre référencés sur les mots clefs choisis\n\n')
         if (compteurnew == 1):
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières 24 heures\n')
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouvel Appel d\'Offre dans les dernières *24* heures\n')
         elif (compteurnew > 1):
-            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières 24 heures\n')
+            fileCounter.write('- 🔥 `' + str(compteurnew) + '` nouveaux Appels d\'Offre dans les dernières *24* heures\n')
         else:
-            fileCounter.write('- 🔥 `aucun` nouvel Appels d\'Offre dans les dernières 24 heures\n')
+            fileCounter.write('- 🔥 `aucun` nouvel Appels d\'Offre dans les dernières *24* heures\n')
         if (compteurred == 1): 
-            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appel d\'Offre expire dans moins de 10 jours\n')
+            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appel d\'Offre expire dans moins de *10* jours\n')
         elif (compteurred > 1):
-            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appels d\'Offre expirent dans moins de 10 jours\n')
+            fileCounter.write('- 🔴  `' + str(compteurred) + '` Appels d\'Offre expirent dans moins de *10* jours\n')
         else:
-            fileCounter.write('- 🔴  `aucun` Appel d\'Offre expire dans moins de 10 jours\n')
+            fileCounter.write('- 🔴  `aucun` Appel d\'Offre expire dans moins de *10* jours\n')
         if (compteuryellow == 1): 
-            fileCounter.write('- 🟡  `' + str(compteuryellow) + '` Appel d\'Offre expire dans moins de 20 jours\n')
+            fileCounter.write('- 🟡  `' + str(compteuryellow) + '` Appel d\'Offre expire dans moins de *20* jours\n')
         elif (compteuryellow > 1):
-            fileCounter.write('- 🟡  `' + str(compteuryellow) + '` Appels d\'Offre expirent dans moins de 20 jours\n')
+            fileCounter.write('- 🟡  `' + str(compteuryellow) + '` Appels d\'Offre expirent dans moins de *20* jours\n')
         else:
-            fileCounter.write('- 🟡  `aucun` Appel d\'Offre expire dans moins de 20 jours\n')
+            fileCounter.write('- 🟡  `aucun` Appel d\'Offre expire dans moins de *20* jours\n')
         if (compteurgreen == 1): 
-            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appel d\'Offre expire dans plus de 20 jours\n')
+            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appel d\'Offre expire dans plus de *20* jours\n')
         elif (compteurgreen > 1):
-            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de 20 jours\n')
+            fileCounter.write('- 🟢  `' + str(compteurgreen) + '` Appels d\'Offre expirent dans plus de *20* jours\n')
         else:
-            fileCounter.write('- 🟢  `aucun` Appel d\'Offre expire dans plus de 20 jours\n')
+            fileCounter.write('- 🟢  `aucun` Appel d\'Offre expire dans plus de *20* jours\n')
 
         """
         Fichier de statistiques
