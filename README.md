@@ -5,7 +5,6 @@
 L'extraction se base sur des mots clefs
 Le script ignore les appels d'offres dont la date limite de réponse est dépassée.
 
-## Badges
 [![boamp-extractor](https://github.com/JMousqueton/boamp-extractor/actions/workflows/boamp-extractor.yml/badge.svg)](https://github.com/JMousqueton/boamp-extractor/actions/workflows/boamp-extractor.yml)[![pages-build-deployment](https://github.com/JMousqueton/boamp-extractor/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JMousqueton/boamp-extractor/actions/workflows/pages/pages-build-deployment)
 
 [![Twitter: JMousqueton](https://img.shields.io/twitter/follow/JMousqueton.svg?style=social)](https://twitter.com/JMousqueton)
@@ -51,21 +50,16 @@ optional arguments:
 ## Roadmap
 
 - ~~Utiliser Github-Action~~ 
-
 - ~~Utiliser Github-Page~~
-
 - ~~Ajouter les statistiques~~
-
 - Afficher les mots-clés
-
 - Gérer les lots dans les AOs 
-
 - Trier les AO par deadline 
-
 - ~~Ajouter "nouveau" pour les parutions de 24h et moins~~
   > les nouveaux AOs sont affichés avec une 🔥 
-
 - ~~Mettre les montants au format US (avec virgule pour les milliers)~~
+- Suivi des modifications 
+  > Une page de changelog est mise à jour à chaque extraction 
 
 - Nettoyer le code pour supprimer l'écrire dans un fichier texte
 
