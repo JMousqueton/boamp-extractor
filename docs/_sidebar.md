@@ -7,4 +7,4 @@
 
 © 2022 [Julien Mousqueton](https://github.com/JMousqueton)
 
-    ![Version](https://img.shields.io/badge/version-3.3-blue.svg)
+![Version](https://img.shields.io/badge/version-3.3-blue.svg)
