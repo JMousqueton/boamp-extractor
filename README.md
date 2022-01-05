@@ -53,27 +53,32 @@ optional arguments:
 
 ## Roadmap
 
-- ~~Utiliser Github-Action~~ 
-- ~~Utiliser Github-Page~~
-- ~~Ajouter les statistiques~~
-- ~~Afficher les mots-clés~~ 🍾
-- Gérer les lots dans les AOs 
-- Trier les AO par deadline 
-- ~~Ajouter "nouveau" pour les parutions de 24h et moins~~
-  > les nouveaux AOs sont affichés avec une 🔥 
-- ~~Mettre les montants au format US (avec virgule pour les milliers)~~
-- ~~Suivi des modifications~~ 
-  > Une page de changelog est mise à jour à chaque extraction 
-- ~~Nettoyer le code pour supprimer l'écrire dans un fichier texte~~
-- Corriger les issues de chez [SonarCloud](https://sonarcloud.io/project/overview?id=JMousqueton_boamp-extractor)
-- ~~Faire un fichier de configuration~~
-  > Utilisation de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg)
-  > Version 3.0 
-- ~~Utiliser la description longue si le titre est trop court~~
-  > Version 3.1 
-- ~~Rendre la date de début de recherche dynamique et configurable~~
-  > Version 3.2 
-- Rendre la légende dynamique
+| Status | Tâche | Remarque | Version |
+|---|---|---|---|
+| ✅ |~~Utiliser Github-Action~~| | |
+| ✅ |~~Utiliser Github-Page~~| | |
+| ✅ |~~Ajouter les statistiques~~| | |
+| ✅ |~~Afficher les mots-clés~~| 🍾 | |
+| 🔴 |Gérer les lots dans les AOs |  |
+| 🔴 |Trier les AO par deadline  |  |
+| ✅ |~~Ajouter "nouveau" pour les parutions de 24h et moins~~| les nouveaux AOs sont affichés avec une 🔥  |  |
+| ✅ |~~Mettre les montants au format US (avec virgule pour les milliers)~~|  |
+| ✅ |~~Suivi des modifications~~| Une page de changelog est mise à jour à chaque extraction |   |
+| ✅ |~~Nettoyer le code pour supprimer l'écrire dans un fichier texte~~|  |  |
+| 🟡 |Corriger les issues de chez [SonarCloud](https://sonarcloud.io/project/overview?id=JMousqueton_boamp-extractor)| |  |
+| ✅ |~~Faire un fichier de configuration~~| Utilisation de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) |  3.0 |
+| ✅ |~~Utiliser la description longue si le titre est trop court~~ | | 3.1 | 
+| ✅ |~~Rendre la date de début de recherche dynamique et configurable~~|   | 3.2 |
+| 🛠 |Rendre la légende dynamique | En utilisant les variables de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) | 3.3 | 
+
+#### Legende
+
+| Status | Description |
+|---|---|
+| ✅ | Réalisé |
+| 🛠 | En cours |
+| 🟡 | Priorité moyenne |
+| 🔴 | Priorité faible |
 
 ## Author
 
