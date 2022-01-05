@@ -121,4 +121,4 @@
 | [21-162772](https://www.boamp.fr/avis/detail/21-162772) | Dracénie Provence Verdon Agglomération | N/C € | N/C mois | 🔴 2022-01-06 11:00:00 | Acquisition de licences et maintenance de l'applicatif OpenXchange |
 
 
-_Dernière mise à jour : Wednesday 05/01/2022 11:37:27_
+_Dernière mise à jour : Wednesday 05/01/2022 13:45:04_
