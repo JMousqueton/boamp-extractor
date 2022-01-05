@@ -186,7 +186,7 @@ class boampGetter:
         filelegende.write('| 🟡 | Deadline dans moins de `' + str(self.DLYellow) + '` jours |\n')
         filelegende.write('| 🟢 | DeadLine dans plus de `' + str(self.DLYellow) + '` jours |\n')
         filelegende.write('|  |  |\n')
-        filelegende.write('| 🔥 | Nouvel AO < `' + str(self.NewFor) + '` jours |\n')
+        filelegende.write('| 🔥 | Nouvel AO (moins de `' + str(self.NewFor) + '` jours) |\n')
         filelegende.write('\n\n⚠️ Les données sont mises à jour toutes les `24` heures')
 
 
