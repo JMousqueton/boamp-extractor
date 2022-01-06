@@ -21,3 +21,8 @@ BOAMP-Extractor permet d'extraire les offres de marchés publics publiées au bu
 ## Mots-clés
 
 > Les mots-clés utilisés se trouvent dans le fichier [keywords.txt](https://github.com/JMousqueton/boamp-extractor/blob/main/keywords.txt) du projet.
+
+## Configuration
+
+> la configuration de cette instance se trouve dans le fichier [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) du projet.
+
