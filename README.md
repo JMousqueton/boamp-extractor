@@ -18,7 +18,6 @@ Renseignez les mots-clés de recherches dans le fichier `keywords.txt` avec un m
 
 Il est possible d'exclure les appels d'offres contenants certains mots-clés.
 Pour cela, renseignez les mots interdits dans le fichier `exception.txt` avec un mot ou une expression par ligne.
-Les appels d'offres exclus par ce biais seront tout de même inscrits dans le fichier `annoncesrejetees.txt`.
 
 ### En ligne de commande 💻
 
