@@ -14,7 +14,7 @@
 
 Version `3.3`
 
-BOAMP-Extractor permet d'extraire les offres de marchés publics publiées au bulletin officiel des annonces des marchés publics (BOAMP) en se basant sur des mots-clés. La restituation est le présent [site](https://boamp.mousqueton.io)
+BOAMP-Extractor permet d'extraire les offres de marchés publics publiées au bulletin officiel des annonces des marchés publics (BOAMP) en se basant sur des mots-clés. La restitution est le présent [site](https://boamp.mousqueton.io)
 
 > Pour plus d'information allez voir le [README.md](https://github.com/jmousqueton/boamp-extractor#readme) du projet. 
 
