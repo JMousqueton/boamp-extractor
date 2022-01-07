@@ -22,11 +22,6 @@ import os
 # External/Other
 import pymsteams
 
-
-if os.getenv('MSTEAMS_WEBHOOK'):
-    print('Teams notification activated')
-    TeamsMessage = pymsteams.connectorcard(os.getenv('MSTEAMS_WEBHOOK'))
-
 class boampGetter:
     def __init__(self):
         self.__searchResponse = {}
@@ -121,10 +116,16 @@ class boampGetter:
             if ((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(days=int(self.NewFor))) > datetime.now()):
                 champ1 = '🔥 [{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
                 compteurnew += 1
-                TeamsTxt=('Un nouvel appel d\'offre de moins de {} jour(s) a été détecté\n Réf: {}\n URL: https://www.boamp.fr/avis/detail/{}\nAcheteur : {}\n').format(self.NewFor,idweb,idweb,strList[0])
-                TeamsMessage.text(str(TeamsTxt))
-                TeamsMessage.send()
-                print('Teams Notification sent')
+                if self.Teams == True: 
+                    if os.getenv('MSTEAMS_WEBHOOK'):
+                        print('Teams notification activated')
+                        TeamsMessage = pymsteams.connectorcard(os.getenv('MSTEAMS_WEBHOOK'))
+                        TeamsTxt=('Un nouvel appel d\'offre de moins de {} jour(s) basé sur le mot clef \'{}\' a été détecté\n Réf: {}\n URL: https://www.boamp.fr/avis/detail/{}\nAcheteur : {}\n').format(self.NewFor,strList[7],idweb,idweb,strList[0])
+                        TeamsMessage.text(str(TeamsTxt))
+                        TeamsMessage.send()
+                        print('Teams Notification sent')
+                    else:
+                        print('Pas de variable d\'environnement pour Teams')
             if self.printAll == True: 
                 champ1 = '[{}](https://www.boamp.fr/avis/detail/{}) [⚙️](http://api.dila.fr/opendata/api-boamp/annonces/v230/{})'.format(idweb,idweb,idweb)
                 print('\nDate AO : {}'.format(strList[6]))
