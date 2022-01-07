@@ -1,5 +1,5 @@
 
-# BOAMP Extractor ![Version](https://img.shields.io/badge/version-3.3-blue.svg)
+# BOAMP Extractor ![Version](https://img.shields.io/badge/version-3.5-blue.svg)
 
 > BOAMP-Extractor permet d'extraire les offres de marchés publics publiées au bulletin officiel des annonces des marchés publics (BOAMP).
 L'extraction se base sur des mots clefs
@@ -26,6 +26,10 @@ Lancez le script `extractor.py` avec l'option `-k` suivi du mot clef recherché
 ### En utilisant Github-Action ⚙️
 
 Voir le fichier [boamp-extractor](https://github.com/JMousqueton/boamp-extractor/blob/main/.github/workflows/boamp-extractor.yml)
+
+Pour les notifications Microsoft Teams : 
+Créer un WebHook sur Teams  
+Créer un environnement `CI` dans la configuration GitHub et une variable `MSTEAMS_WEBHOOK`
 
 ## Installation 💿
 
@@ -70,6 +74,8 @@ optional arguments:
 | ✅ |~~Rendre la date de début de recherche dynamique et configurable~~|   | 3.2 |
 | ✅ |~~Rendre la légende dynamique~~ | En utilisant les variables de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) | 3.3 |
 | ✅ |~~Inclus OepnGraph~~ |  | 3.3 |
+| ✅ |~~Notification Microsoft Teams~~ |  | 3.5 |
+
  
 
 #### Légende
