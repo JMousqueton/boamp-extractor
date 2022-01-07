@@ -11,5 +11,12 @@ veeam
 vmware
 ESX
 x86
-informatique
+multi-editeur
+microsoft
+logiciels informatiques
 cybersecurite
+firewall
+pare-feu
+parefeu
+antivirus
+informatique
