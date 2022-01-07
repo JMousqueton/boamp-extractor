@@ -132,4 +132,4 @@
 | [21-165636](https://www.boamp.fr/avis/detail/21-165636) | Bretagne Développement Innovation | N/C € | 6 mois | 🟡 2022-01-19 16:00:00 | MARCHE RELATIF A LA STRUCTURATION ET AU DEVELOPPEMENT D'UN ECOSYSTEME DE REFERENCE " CYBER SECURITE DES RESEAUX DE COMMUNICATION " EN BRETAGNE SUR LE TERRITOIRE DE LANNION | *cybersecurite*|
 
 
-_Dernière mise à jour : Friday 07/01/2022 11:39:52_
+_Dernière mise à jour : Friday 07/01/2022 12:07:06_
