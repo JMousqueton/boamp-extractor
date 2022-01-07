@@ -32,6 +32,7 @@ class boampGetter:
         self.NewFor = 5
         self.ShowKeyword = False
         self.cptKeyword = 0 
+        self.Teams = False
 
     def __searchSize(self):
         """Return the number of ad send by Boamp.
@@ -116,9 +117,10 @@ class boampGetter:
             if ((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(days=int(self.NewFor))) > datetime.now()):
                 champ1 = '🔥 [{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
                 compteurnew += 1
-                if self.Teams == True: 
+                if self.Teams:
+                    print('Teams Notification activated') 
                     if os.getenv('MSTEAMS_WEBHOOK'):
-                        print('Teams notification activated')
+                        print('Teams notification configured')
                         TeamsMessage = pymsteams.connectorcard(os.getenv('MSTEAMS_WEBHOOK'))
                         TeamsTxt=('Un nouvel appel d\'offre de moins de {} jour(s) basé sur le mot clef \'{}\' a été détecté\n Réf: {}\n URL: https://www.boamp.fr/avis/detail/{}\nAcheteur : {}\n').format(self.NewFor,strList[7],idweb,idweb,strList[0])
                         TeamsMessage.text(str(TeamsTxt))

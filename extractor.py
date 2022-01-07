@@ -39,7 +39,6 @@ def getWordList(fileNme):
             lineOut.append(line)
     return lineOut
 
-
 boamp = boamp.boampGetter()
 config = ConfigParser(interpolation=None)
 config.read('config.cfg')
@@ -50,12 +49,10 @@ boamp.ShowKeyword = config.get('Affichage','Keywords')
 History = config.get('Affichage','Historique')
 boamp.Teams = config.get('Notification','Teams')
 
-
 ### MAIN 
 keyword = ''
 uselist = False
 
-boamp.printAll = 0
 parser = argparse.ArgumentParser()
 parser.version = '1.0'
 parser.add_argument('-d','--debug', action='store_true',help='increase output verbosity')
