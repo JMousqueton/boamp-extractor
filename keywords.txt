@@ -1,4 +1,3 @@
-serveur
 infrastructures systemes
 virtualisation
 stockage NAS
@@ -6,6 +5,7 @@ stockage SAN
 datacenter
 centre de donnees
 archivage des donnees
+serveur
 sauvegarde
 veeam
 vmware
