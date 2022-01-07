@@ -20,11 +20,11 @@ jobs:
         run: |
           pip3 install -r requirements.txt
       - name: run scraper
-        run: |
-          python -c 'import os;print(os.environ)'
-# python3 extractor.py
         env:
           MSTEAMS_WEBHOOK: ${{ secrets.MSTEAMS_WEBHOOOK }} 
+        run: |
+        echo KEY: '${MSTEAMS_WEBHOOK}'
+# python3 extractor.py
       - name: save changes
         run: |
           git config --global user.email "bot-parser@users.noreply.github.com"
