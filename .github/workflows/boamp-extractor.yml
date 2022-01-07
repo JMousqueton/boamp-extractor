@@ -22,9 +22,9 @@ jobs:
       - name: run scraper
         run: |
           python -c 'import os;print(os.environ)'
-# python3 extractor.py 
+# python3 extractor.py
+        env:
           MSTEAMS_WEBHOOK: ${{ secrets.MSTEAMS_WEBHOOOK }} 
-
       - name: save changes
         run: |
           git config --global user.email "bot-parser@users.noreply.github.com"
