@@ -1,15 +1,14 @@
-infrastructures systemes
 virtualisation
 stockage NAS
 stockage SAN
-datacenter
-centre de donnees
 archivage des donnees
-sauvegarde
 veeam
 vmware
 ESX
 x86
+datacenter
+centre de donnees
+infrastructures systemes
 serveur
 multi-editeur
 microsoft

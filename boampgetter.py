@@ -42,7 +42,6 @@ class boampGetter:
         else:
             return 0
             
-
     def search(self,dateparution,strSearch):
         """Make a search request to Boamp.
             Store result in searchResponse.

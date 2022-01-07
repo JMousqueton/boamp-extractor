@@ -22,7 +22,6 @@ from datetime import timedelta
 # Other Libs
 from configparser import ConfigParser
 
-
 def getWordList(fileNme):
     """Return list of line writen in file and skip '\n' '\r'
     """
@@ -62,7 +61,6 @@ args = parser.parse_args()
 if args.debug:
     boamp.printAll = True
 
-
 if args.keyword:
     searchList = [args.keyword]
     rejectList = []
@@ -81,7 +79,5 @@ for searchWord in searchList:
     boamp.search(DateBegin,searchWord)
     adList = boamp.extractValidAd()
     for ad in adList:
-        boamp.AnalyzeAO(ad,searchWord)
-# boamp.pushAd(ad)  
-# boamp.search('2022/01/01',searchWord)    
+        boamp.AnalyzeAO(ad,searchWord)   
 boamp.makeMarkdown("docs/README.md", rejectList) 
