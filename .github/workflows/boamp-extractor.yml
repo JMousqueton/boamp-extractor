@@ -21,7 +21,7 @@ jobs:
           pip3 install -r requirements.txt
       - name: run scraper
         env:
-          MSTEAMS_WEBHOOK: ${{ secrets.MSTEAMS_WEBHOOOK }} 
+          MSTEAMS_WEBHOOK: ${{ secrets.MSTEAMS_WEBHOOK }} 
         run: |
           echo 'KEY: ' ${MSTEAMS_WEBHOOK}
 # python3 extractor.py
