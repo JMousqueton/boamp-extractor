@@ -12,12 +12,20 @@
 ## Email: julien_at_mousqueton.io 
 ##################################################
 # Generic/Built-in 
-
 import requests
 import json
 from datetime import datetime
 from datetime import timedelta
 import time
+import os
+
+# External/Other
+import pymsteams
+
+
+if os.getenv('MSTEAMS_WEBHOOK'):
+    print('Teams notification activated')
+    TeamsMessage = pymsteams.connectorcard(os.getenv('MSTEAMS_WEBHOOK'))
 
 class boampGetter:
     def __init__(self):
@@ -98,7 +106,7 @@ class boampGetter:
         fileOut = open(fileName, 'w', encoding='utf-8')
         fileOut.write('# Extraction du BOAMP\n')
         fileOut.write('> **B**ulletin **o**fficiel des **a**nnonces de **m**archés **p**ublics\n\n')
-        header = '| Référence | Dénomination | Montant | Durée | Deadline | Résumé | Mot clé|\n'
+        header = '| Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|\n'
         fileOut.write(header)
         fileOut.write('|---|---|---|---|---|---|---|\n')
         for idweb, strList in self.__dicAd.items():
@@ -113,6 +121,10 @@ class boampGetter:
             if ((datetime.strptime(strList[6], '%Y-%m-%d %H:%M:%S') + timedelta(days=int(self.NewFor))) > datetime.now()):
                 champ1 = '🔥 [{}](https://www.boamp.fr/avis/detail/{})'.format(idweb,idweb)
                 compteurnew += 1
+                TeamsTxt=('Un nouvel appel d\'offre de moins de {} jour(s) a été détecté\n Réf: {}\n URL: https://www.boamp.fr/avis/detail/{}\nAcheteur : {}\n').format(self.NewFor,idweb,idweb,strList[0])
+                TeamsMessage.text(str(TeamsTxt))
+                TeamsMessage.send()
+                print('Teams Notification sent')
             if self.printAll == True: 
                 champ1 = '[{}](https://www.boamp.fr/avis/detail/{}) [⚙️](http://api.dila.fr/opendata/api-boamp/annonces/v230/{})'.format(idweb,idweb,idweb)
                 print('\nDate AO : {}'.format(strList[6]))

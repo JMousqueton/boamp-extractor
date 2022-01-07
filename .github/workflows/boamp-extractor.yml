@@ -23,8 +23,7 @@ jobs:
         env:
           MSTEAMS_WEBHOOK: ${{ secrets.MSTEAMS_WEBHOOK }} 
         run: |
-          echo 'KEY: ' ${MSTEAMS_WEBHOOK}
-# python3 extractor.py
+          python3 extractor.py
       - name: save changes
         run: |
           git config --global user.email "bot-parser@users.noreply.github.com"
