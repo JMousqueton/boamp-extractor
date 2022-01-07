@@ -5,12 +5,12 @@ stockage SAN
 datacenter
 centre de donnees
 archivage des donnees
-serveur
 sauvegarde
 veeam
 vmware
 ESX
 x86
+serveur
 multi-editeur
 microsoft
 logiciels informatiques
@@ -19,4 +19,7 @@ firewall
 pare-feu
 parefeu
 antivirus
+EDR
+cisco
+wifi
 informatique
