@@ -12,6 +12,7 @@ jobs:
   Scrappe-boamp:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    environment: boamp-extractor
     steps:
       - name: checkout the repo
         uses: actions/checkout@v2
@@ -20,7 +21,10 @@ jobs:
           pip3 install -r requirements.txt
       - name: run scraper
         run: |
-          python3 extractor.py 
+          python -c 'import os;print(os.environ)'
+# python3 extractor.py 
+          MSTEAMS_WEBHOOK: ${{ secrets.MSTEAMS_WEBHOOOK }} 
+
       - name: save changes
         run: |
           git config --global user.email "bot-parser@users.noreply.github.com"
