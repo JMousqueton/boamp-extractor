@@ -122,7 +122,7 @@ class boampGetter:
                     if os.getenv('MSTEAMS_WEBHOOK'):
                         print('Teams notification configured')
                         TeamsMessage = pymsteams.connectorcard(os.getenv('MSTEAMS_WEBHOOK'))
-                        TeamsTxt=('Un nouvel appel d\'offre de moins de {} jour(s) basé sur le mot clef \'{}\' a été détecté\n Réf: {}\n URL: https://www.boamp.fr/avis/detail/{}\nAcheteur : {}\n').format(self.NewFor,strList[7],idweb,idweb,strList[0])
+                        TeamsTxt=('Un nouvel appel d\'offre de {} pour un montant de {} €, datant de moins de {} jour(s) et basé sur le mot clef \'{}\' a été détecté\n. https://www.boamp.fr/avis/detail/{}\n').format(strList[0],strList[2],self.NewFor,strList[7],idweb)
                         TeamsMessage.text(str(TeamsTxt))
                         TeamsMessage.send()
                         print('Teams Notification sent')
