@@ -12,7 +12,7 @@ jobs:
   Scrappe-boamp:
     runs-on: ubuntu-latest
     timeout-minutes: 45
-    environment: boamp-extractor
+    environment: CI
     steps:
       - name: checkout the repo
         uses: actions/checkout@v2
