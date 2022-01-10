@@ -75,7 +75,6 @@
 | [21-162881](https://www.boamp.fr/avis/detail/21-162881) | Université Paul-Valéry - OPC | N/C € | 24 mois | 🟢 2022-01-31 12:00:00 | Marché de fourniture et d'installation d'un ensemble d'équipement pour le déploiement d'un service téléphonique et d'une couverture WIFI dans le cadre du projet Atrium | *wifi*|
 | [21-139385](https://www.boamp.fr/avis/detail/21-139385) | COMMUNE DE SAINT-ARNOULT-EN-YVELINES | N/C € | N/C mois | 🟢 2022-11-12 14:30:00 | Marchés d'assurances | *informatique*|
 | [21-155174](https://www.boamp.fr/avis/detail/21-155174) | COMMUNE DE REMIRE MONTJOLY | N/C € | 4 mois | 🔴 2022-01-12 12:00:00 | Fourniture Et Pose D'Equipements Numeriques Dans Les Ecoles Elementaires Communales | *informatique*|
-| [21-158789](https://www.boamp.fr/avis/detail/21-158789) | CNAMTS | 685,833.33 € | 48 mois | 🔴 2022-01-10 16:00:00 | Maintenance, suivi/support, évolution des produits de sécurité réseaux et prestations complémentaires associées | *informatique*|
 | [21-156657](https://www.boamp.fr/avis/detail/21-156657) | GRENOBLE-ALPES METROPOLE | N/C € | N/C mois | 🔴 2022-01-14 15:00:00 | Réalisation de prestations topographiques sur l'ensemble du territoire de Grenoble-alpes Métropole - 2 lots techniques | *informatique*|
 | [21-159801](https://www.boamp.fr/avis/detail/21-159801) | GRENOBLE-ALPES METROPOLE | 11,600,000 € | 12 mois | 🟡 2022-01-21 15:00:00 | Fourniture de matériel informatique neuf et reconditionné et réalisation de prestations associées | *informatique*|
 | [21-160152](https://www.boamp.fr/avis/detail/21-160152) | Conseil Départemental du Nord | 1,081,667 € | 48 mois | 🔴 2022-01-10 16:30:00 | Système d'acquisition dynamique relatif à la fourniture et l'installation de matériels informatiques spécifiques, accessoires et prestations associées dans les collèges publics du Département du Nord | *informatique*|
@@ -83,7 +82,7 @@
 | [21-161970](https://www.boamp.fr/avis/detail/21-161970) | COMMUNE DE LIMOGES | 400,000 € | 12 mois | 🟡 2022-01-27 12:30:00 | Fourniture de consommables informatiques pour la Ville de Limoges et les membres de la Ccgc en 2 lots :- Fourniture de petits équipements informatiques- Fournitures de consommables d'impression | *informatique*|
 | [21-162032](https://www.boamp.fr/avis/detail/21-162032) | REGION BOURGOGNE FRANCHE COMTE | N/C € | 24 mois | 🔴 2022-01-14 12:00:00 | MARCHE DE PRESTATIONS DE SERVICES INFORMATIQUES DE TYPE   TIERCE MAINTENANCE APPLICATIVE DU SYSTEME DINFORMATION DE   LA FORMATION PROFESSIONNELLE (SIFP) | *informatique*|
 | [21-157570](https://www.boamp.fr/avis/detail/21-157570) | Ville de Baie-Mahault | 2,010,000 € | N/C mois | 🟢 2022-01-31 12:00:00 | SERVICES DASSURANCES | *informatique*|
-| [21-164122](https://www.boamp.fr/avis/detail/21-164122) | DEPARTEMENT DU RHONE | N/C € | N/C mois | 🟡 2022-01-20 16:00:00 | Restructuration du Centre d'Observation de la Nature de l'Ile du Beurre (CONIB) | *informatique*|
+| [21-164122](https://www.boamp.fr/avis/detail/21-164122) | DEPARTEMENT DU RHONE | N/C € | N/C mois | 🔴 2022-01-20 16:00:00 | Restructuration du Centre d'Observation de la Nature de l'Ile du Beurre (CONIB) | *informatique*|
 | [21-163019](https://www.boamp.fr/avis/detail/21-163019) | Conseil Régional de la Réunion | 2,390,345 € | 12 mois | 🟢 2022-02-16 12:00:00 | Travaux de relamping et réfection des systèmes de production d'eau chaude solaire | *informatique*|
 | [21-163655](https://www.boamp.fr/avis/detail/21-163655) | DJRSE | 270,000 € | 48 mois | 🔴 2022-01-17 12:00:00 | Solution de cloisonnement des réseaux informatiques et prestations associées | *informatique*|
 | [21-165649](https://www.boamp.fr/avis/detail/21-165649) | GRAND PORT FLUVIO-MARITIME DE L'AXE S | N/C € | N/C mois | 🔴 2022-01-14 17:00:00 | Le présent marché a pour objet l'exécution de prestations d'assistance aux développements WEB sur site HAROPA PORT - Le Havre, en accompagnement de projets en cours ou à venir pour la mission Informatique et Développement Numérique. | *informatique*|
@@ -127,4 +126,4 @@
 | [21-170893](https://www.boamp.fr/avis/detail/21-170893) | COMMUNAUTE DE COMMUNES PAYS CRUSEILLES | N/C € | N/C mois | 🟢 2022-01-31 16:00:00 | Maintenance du parc informatique | *informatique*|
 
 
-_Dernière mise à jour : Monday 10/01/2022 14:25:48_
+_Dernière mise à jour : Monday 10/01/2022 16:25:41_
