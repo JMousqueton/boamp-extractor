@@ -9,7 +9,7 @@ on:
 # https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
 
 jobs:
-  Scrappe-boamp:
+  boamp:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     environment: CI
@@ -23,7 +23,7 @@ jobs:
         env:
           MSTEAMS_WEBHOOK: ${{ secrets.MSTEAMS_WEBHOOK }} 
         run: |
-          python3 extractor.py
+          python3 boamp-extractor.py
       - name: save changes
         run: |
           git config --global user.email "bot-parser@users.noreply.github.com"

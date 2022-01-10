@@ -189,7 +189,7 @@ class boampGetter:
         Fichier changelog 
         """
         fileCounter = open('docs/changelog.md', 'a', encoding='utf-8')
-        fileCounter.write('|' + time.strftime('%d/%m/%Y %H:%M:%S') + ' | ' + str(compteurtotal) + ' | '+ str(compteurnew) + '| ' +  str(self.cptKeyword) + '|\n')
+        fileCounter.write('|' + time.strftime('%d/%m/%Y %H:%M:%S') + ' | ' + str(compteurtotal) + ' | '+ str(compteurnew) + ' | ' +  str(self.cptKeyword) + '|\n')
         """
         Fichier Légende
         """

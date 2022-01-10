@@ -21,7 +21,7 @@ Pour cela, renseignez les mots interdits dans le fichier `exception.txt` avec un
 
 ### En ligne de commande 💻
 
-Lancez le script `extractor.py` avec l'option `-k` suivi du mot clef recherché 
+Lancez le script `boamp-extractor.py` avec l'option `-k` suivi du mot clef recherché 
 
 ### En utilisant Github-Action ⚙️
 
@@ -46,7 +46,7 @@ Modifiez la configuration en fonction des besoins dans le fichier [config.cfg](h
 ## Usage
 
 ```
-usage: extractor.py [-h] [-d] [-k <keyword>]
+usage: boamp-extractor.py [-h] [-d] [-k <keyword>]
 
 optional arguments:
   -h, --help            show this help message and exit

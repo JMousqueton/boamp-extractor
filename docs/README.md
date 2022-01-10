@@ -127,4 +127,4 @@
 | [21-170893](https://www.boamp.fr/avis/detail/21-170893) | COMMUNAUTE DE COMMUNES PAYS CRUSEILLES | N/C € | N/C mois | 🟢 2022-01-31 16:00:00 | Maintenance du parc informatique | *informatique*|
 
 
-_Dernière mise à jour : Monday 10/01/2022 14:15:28_
+_Dernière mise à jour : Monday 10/01/2022 14:25:48_
