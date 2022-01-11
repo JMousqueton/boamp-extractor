@@ -44,7 +44,6 @@ config.read('config.cfg')
 boamp.DLRed = config.get('Deadline','DeadlineRed')
 boamp.DLYellow = config.get('Deadline','DeadlineYellow')
 boamp.NewFor = config.get('New','NewFor')
-boamp.ShowKeyword = config.get('Affichage','Keywords')
 History = config.get('Affichage','Historique')
 boamp.Teams = config.get('Notification','Teams')
 
