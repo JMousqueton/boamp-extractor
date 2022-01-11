@@ -7,7 +7,7 @@
 ##################################################
 ## Author: #JMousqueton (Julien Mousqueton)
 ## Copyright: Copyright 2022
-## Version: Pre-3.0
+## Version: 3.5
 ## Maintainer: #JMousqueton (Julien Mousqueton)
 ## Email: julien_at_mousqueton.io 
 ##################################################
