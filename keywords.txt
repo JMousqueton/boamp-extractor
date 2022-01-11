@@ -12,7 +12,7 @@ infrastructures systemes
 serveur
 multi-editeur
 microsoft
-logiciels informatiques
+logiciels
 cybersecurite
 securite informatique
 firewall
