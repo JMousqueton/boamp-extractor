@@ -14,11 +14,14 @@ multi-editeur
 microsoft
 logiciels informatiques
 cybersecurite
+securite informatique
 firewall
 pare-feu
 parefeu
+checkpoint
 antivirus
 EDR
 cisco
 wifi
+infogerence
 informatique
