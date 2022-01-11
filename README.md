@@ -76,8 +76,6 @@ optional arguments:
 | ✅ |~~Inclus OepnGraph~~ |  | 3.3 |
 | ✅ |~~Notification Microsoft Teams~~ |  | 3.5 |
 
- 
-
 #### Légende
 
 | Status | Description |
