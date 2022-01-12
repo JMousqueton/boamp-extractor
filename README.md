@@ -90,7 +90,7 @@ optional arguments:
 
 👤 **Julien Mousqueton**
 
-* Website: <https://www.julienmousqueton.fr>
+* Website: <https://julien.io>
 * LinkedIn: [Julien Mousqueton](https://linkedin.com/in/julienmousqueton)
 * Twitter: [@JMousqueton](https://twitter.com/JMousqueton)
 * Github: [@JMousqueton](https://github.com/JMousqueton)
