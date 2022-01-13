@@ -41,6 +41,7 @@
 | [21-164646](https://www.boamp.fr/avis/detail/21-164646) | VALENCE ROMANS SUD RHONE-ALPES | N/C € | 36 mois | 🔴 2022-01-19 11:00:00 | 212113 Ac Bdc Renouvellement de la Software Assurance Microsoft | *serveur*|
 | [21-168100](https://www.boamp.fr/avis/detail/21-168100) | SYNDICAT MIXTE GIRONDE NUMERIQUE | 1,200,000 € | 24 mois | 🟢 2022-02-03 11:00:00 | Fourniture de matériels informatiques neufs et prestations associées | *serveur*|
 | [21-168639](https://www.boamp.fr/avis/detail/21-168639) | CAISSE NATIONALE MILITAIRE DE SECU SOC | 233,000 € | 48 mois | 🟡 2022-01-31 16:00:00 | Hébergement des sites Internet de la CNMSS (serveurs d'application, services et prestations associés). | *serveur*|
+| [21-168591](https://www.boamp.fr/avis/detail/21-168591) | AMPA | N/C € | 48 mois | 🟡 2022-01-26 11:00:00 | Acquisition de certificats électroniques personnels RGS, signature eIDAS et certificats serveurs pour l'AMPA et ses bénéficiaires | *serveur*|
 | 🔥 [22-5076](https://www.boamp.fr/avis/detail/22-5076) | LOGE.GBM | N/C € | N/C mois | 🟡 2022-01-28 16:00:00 | Maintenance des installations de climatisation du siège de Loge.GBM | *serveur*|
 | [21-169578](https://www.boamp.fr/avis/detail/21-169578) | CCI Nouvelle-Aquitaine | N/C € | N/C mois | 🔴 2022-01-20 16:00:00 | Prestations d'hébergement et infogérance de serveurs et prestations associées | *serveur*|
 | [21-166726](https://www.boamp.fr/avis/detail/21-166726) | Conseil Départemental de l AVEYRON | N/C € | 12 mois | 🟡 2022-01-28 11:00:00 | FOURNITURE DE LOGICIELS MULTI-EDITEURS ET PRESTATIONS ASSOCIEES | *multi-editeur*|
@@ -109,7 +110,6 @@
 | [21-166018](https://www.boamp.fr/avis/detail/21-166018) | COMMUNAUTE DE COMMUNES DE PETITE TERRE | N/C € | 36 mois | 🟢 2022-02-11 10:00:00 | Accord cadre à bons de commande relatif au déploiement d'un Wifi Territorial dans la communauté de communes de Petite-Terre | *wifi*|
 | [21-162881](https://www.boamp.fr/avis/detail/21-162881) | Université Paul-Valéry - OPC | N/C € | 24 mois | 🟡 2022-01-31 11:00:00 | Marché de fourniture et d'installation d'un ensemble d'équipement pour le déploiement d'un service téléphonique et d'une couverture WIFI dans le cadre du projet Atrium | *wifi*|
 | [21-139385](https://www.boamp.fr/avis/detail/21-139385) | COMMUNE DE SAINT-ARNOULT-EN-YVELINES | N/C € | N/C mois | 🟢 2022-11-12 13:30:00 | Marchés d'assurances | *informatique*|
-| [21-156492](https://www.boamp.fr/avis/detail/21-156492) | CCAL | 268,344.3 € | 36 mois | 🔴 2022-01-20 11:00:00 | 21-40 TRAVAUX DE MISE EN CONFORMITE DE LAUTOSURVEILLANCE DU GRAND LONGWY AGGLOMERATION | *informatique*|
 | [21-156657](https://www.boamp.fr/avis/detail/21-156657) | GRENOBLE-ALPES METROPOLE | N/C € | N/C mois | 🔴 2022-01-14 14:00:00 | Réalisation de prestations topographiques sur l'ensemble du territoire de Grenoble-alpes Métropole - 2 lots techniques | *informatique*|
 | [21-159801](https://www.boamp.fr/avis/detail/21-159801) | GRENOBLE-ALPES METROPOLE | 11,600,000 € | 12 mois | 🔴 2022-01-21 14:00:00 | Fourniture de matériel informatique neuf et reconditionné et réalisation de prestations associées | *informatique*|
 | [21-162310](https://www.boamp.fr/avis/detail/21-162310) | CA DE SAINT DIE DES VOSGES | N/C € | N/C mois | 🔴 2022-01-13 11:00:00 | Rénovation du sous-sol du Site Don Suisse | *informatique*|
@@ -125,7 +125,6 @@
 | [21-165667](https://www.boamp.fr/avis/detail/21-165667) | Région Provence Alpes Côte d'Azur | N/C € | 12 mois | 🟢 2022-02-02 15:00:00 | Achat d'actions de formation pour la mise en oeuvre du programme régional de formations " Compétences professionnelles " pour la période 2022-2026 | *informatique*|
 | [21-165396](https://www.boamp.fr/avis/detail/21-165396) | CPAM Nanterre | N/C € | N/C mois | 🟡 2022-01-24 13:00:00 | Fourniture de petits matériels et de consommables informatiques | *informatique*|
 | [21-168023](https://www.boamp.fr/avis/detail/21-168023) | ESID de Metz | N/C € | N/C mois | 🟢 2022-02-15 15:00:00 | Belfort (90) - quartier de maud'huy - bâtiment 0034 - création d'un espace atlaslot 1 : gros oeuvre - plâtrerie - menuiserieslot 2 : plomberie - sanitaire - chauffage - ventilationlot 3 : électricité, éclairage, courants forts et faibles | *informatique*|
-| [21-157409](https://www.boamp.fr/avis/detail/21-157409) | EPCC CHEMINS DU PATRIMOINE | N/C € | N/C mois | 🔴 2022-01-14 11:00:00 | Emballage et transport des oeuvres présentées dans le cadre de l'exposition 'Afrique, Les religions de l'extase' qui aura lieu à l'Abbaye de Daoulas du 03/06/2022 au 04/12/2022 | *informatique*|
 | [21-167202](https://www.boamp.fr/avis/detail/21-167202) | Ville de Saint-Joseph | N/C € | N/C mois | 🟡 2022-01-31 14:00:00 | Mise à niveau des équipements informatiques des écoles primaires pour la généralisation du numérique éducatif | *informatique*|
 | [21-167166](https://www.boamp.fr/avis/detail/21-167166) | Groupe CCIR Paris Ile-de-France | 12,000,000 € | 12 mois | 🟡 2022-01-31 11:00:00 | Fourniture de matériels, de périphériques informatiques et de prestations associées pour le GIE CCI Paris Ile-de-France et ses adhérents | *informatique*|
 | [21-165476](https://www.boamp.fr/avis/detail/21-165476) | Commune de Rousset | N/C € | N/C mois | 🔴 2022-01-14 16:00:00 | Abonnements téléphoniques, services associés & maintenance infrastructure réseau de la commune de Rousset | *informatique*|
@@ -156,4 +155,4 @@
 | [21-170893](https://www.boamp.fr/avis/detail/21-170893) | COMMUNAUTE DE COMMUNES PAYS CRUSEILLES | N/C € | N/C mois | 🟡 2022-01-31 15:00:00 | Maintenance du parc informatique | *informatique*|
 
 
-_Dernière mise à jour : Thursday 13/01/2022 02:27:46_
+_Dernière mise à jour : Thursday 13/01/2022 08:37:50_
