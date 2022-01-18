@@ -1,2 +1,2 @@
 configparser==5.2.0
-pymsteams==0.1.16
+pymsteams==0.2.0
