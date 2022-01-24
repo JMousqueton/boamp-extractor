@@ -6,8 +6,9 @@
 | [21-166010](https://www.boamp.fr/avis/detail/21-166010) | Agence des Espaces Verts | N/C € | 48 mois | 🟡 2022-02-11 22:55:00 | Externalisation de l'infrastructure informatique | *stockage SAN*|
 | [21-168600](https://www.boamp.fr/avis/detail/21-168600) | Union des Groupements d'Achats Publics | 51,520,720 € | 36 mois | 🟢 2022-02-18 11:00:00 | Explorations fonctionnelles et exécution de prestations associées et annexes | *archivage des donnees*|
 | [22-9195](https://www.boamp.fr/avis/detail/22-9195) | Département de la Drôme | N/C € | N/C mois | 🟢 2022-02-17 10:00:00 | AMOA 'Apurement, gestion et archivage des données contenues dans Iodas et Multigest' | *archivage des donnees*|
+| [21-156292](https://www.boamp.fr/avis/detail/21-156292) | Conseil Régional Occitanie | N/C € | 48 mois | 🟡 2022-02-11 11:00:00 | Plan regional de formation 2023-2026 dispositif parcours qualifiants | *cloud*|
+| [21-169779](https://www.boamp.fr/avis/detail/21-169779) | GHT 92 | 302,000 € | 8 mois | 🟢 2022-02-25 11:00:00 | Le contrat a pour objet de confier la réalisation des travaux de " RAVALEMENT ET REVISION DES COUVERTURES DES BÂTIMENTS INTERNAT ET QUALITE / DALP " du site de Saint-Cloud appartenant au Centre Hospitalier des Quatre Villes.La maîtrise d'oeuvre est réalisée par la société ATELIER 11.Les caractéristiques techniques des prestations sont fixées dans le cahier des clauses techniques particulières (CCTP) propre à chaque lot. | *cloud*|
 | [21-169604](https://www.boamp.fr/avis/detail/21-169604) | Conseil général d'Eure et Loir | N/C € | 12 mois | 🟡 2022-02-03 15:00:00 | Mise en oeuvre du Datacenter cible du Département : intégration, infogérance, fourniture, installation, migration et maintenance d'équipements | *datacenter*|
-| [21-156292](https://www.boamp.fr/avis/detail/21-156292) | Conseil Régional Occitanie | N/C € | 48 mois | 🟡 2022-02-11 11:00:00 | Plan regional de formation 2023-2026 dispositif parcours qualifiants | *centre de donnees*|
 | [21-159663](https://www.boamp.fr/avis/detail/21-159663) | Université François Rabelais de Tours | N/C € | 6 mois | 🔴 2022-01-25 15:00:00 | Fourniture d'équipements scientifiques pour le Centre d'Etudes et de Recherche Technologiques en Microélectronique (CERTeM5.0 - 2ème tranche) | *centre de donnees*|
 | [21-170060](https://www.boamp.fr/avis/detail/21-170060) | Cerema | N/C € | 36 mois | 🟡 2022-02-04 11:00:00 | Développement d'un système d'information pour le pesage en marche et le contrôle des surcharges | *centre de donnees*|
 | [21-166686](https://www.boamp.fr/avis/detail/21-166686) | Voies navigables de France | 4,200,000 € | 24 mois | 🔴 2022-01-24 16:00:00 | Maintenance et développement de services applicatifs dans le cadre du centre de services Data et Interopérabilité | *centre de donnees*|
@@ -97,4 +98,4 @@
 | 🔥 [22-11895](https://www.boamp.fr/avis/detail/22-11895) | Société Aéroports de la Côte d'Azur | N/C € | N/C mois | 🟢 2022-02-24 11:00:00 | 2021-110 Accord Cadre pour la maintenance de l'infrastructure du réseau informatique administratif des Aéroports de la Côte d'Azur | *informatique*|
 
 
-_Dernière mise à jour : Monday 24/01/2022 11:51:47_
+_Dernière mise à jour : Monday 24/01/2022 12:18:58_
