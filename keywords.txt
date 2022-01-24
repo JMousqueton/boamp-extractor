@@ -6,6 +6,7 @@ veeam
 vmware
 ESX
 x86
+cloud
 datacenter
 centre de donnees
 infrastructures systemes
