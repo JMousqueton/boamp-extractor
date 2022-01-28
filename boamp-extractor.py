@@ -6,18 +6,16 @@
 ## License : MIT 
 ##################################################
 ## Author: #JMousqueton (Julien Mousqueton)
-## Copyright: Copyright 2022, 
-## Version: Pre-3.0
+## Copyright: Copyright 2022
+## Version: 3.x
 ## Maintainer: #JMousqueton (Julien Mousqueton)
 ## Email: julien_at_mousqueton.io 
 ##################################################
 # Generic/Built-in 
 import boampgetter as boamp
 import argparse
-# import datetime
 from datetime import datetime
 from datetime import timedelta
-#import time
 
 # Other Libs
 from configparser import ConfigParser
