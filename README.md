@@ -68,7 +68,7 @@ optional arguments:
 | ✅ |~~Mettre les montants au format US (avec virgule pour les milliers)~~|  |
 | ✅ |~~Suivi des modifications~~| Une page de changelog est mise à jour à chaque extraction |   |
 | ✅ |~~Nettoyer le code pour supprimer l'écrire dans un fichier texte~~|  |  |
-| ✅ |~~NCorriger les issues de chez [SonarCloud](https://sonarcloud.io/project/overview?id=JMousqueton_boamp-extractor)~~N| | 3.5 |
+| ✅ |~~Corriger les issues de chez [SonarCloud](https://sonarcloud.io/project/overview?id=JMousqueton_boamp-extractor)~~| | 3.5 |
 | ✅ |~~Faire un fichier de configuration~~| Utilisation de [config.cfg](https://github.com/JMousqueton/boamp-extractor/blob/main/config.cfg) |  3.0 |
 | ✅ |~~Utiliser la description longue si le titre est trop court~~ | | 3.1 | 
 | ✅ |~~Rendre la date de début de recherche dynamique et configurable~~|   | 3.2 |
