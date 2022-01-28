@@ -4,6 +4,7 @@ stockage SAN
 archivage des donnees
 veeam
 vmware
+virtualisation
 ESX
 x86
 cloud
@@ -25,4 +26,5 @@ EDR
 cisco
 wifi
 infogerance
+postes informatiques
 informatique
