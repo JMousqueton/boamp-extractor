@@ -25,7 +25,7 @@
 | [22-17335](https://www.boamp.fr/avis/detail/22-17335) | Ville de Marly | N/C € | N/C mois | 🔴 2022-02-18 16:00:00 | Acquisition, paramétrage, formation et maintenance d'un logiciel de gestion et d'analyse financière | *logiciels*|
 | [22-6342](https://www.boamp.fr/avis/detail/22-6342) | MINARM/DGA/DO/S2A | N/C € | N/C mois | 🟡 2022-03-01 14:00:00 | Réalisation et maintien en conditions opérationnelles d'un moyen d'essai représentatif d'un autodirecteur optronique à imagerie bi-bande (ISS FR) | *logiciels*|
 | 🔥 [22-21010](https://www.boamp.fr/avis/detail/22-21010) | EPTB Seine Grands Lacs | N/C € | N/C mois | 🟢 2022-03-03 11:00:00 | Le marché concerne le remplacement de tout ou partie des 5 récepteurs GNSS actuels dédiés à l'auscultation et à la surveillance des ouvrages des lacs-réservoirs gérés par l'EPTB. | *logiciels*|
-| 🔥 [22-19762](https://www.boamp.fr/avis/detail/22-19762) | Agglomération Maubeuge Val de Sambre | N/C € | N/C mois | 🟡 2022-02-24 11:00:00 | Acquisition d'une solution logicielle pour le traitement du courrier entrant et sortant et maintenance | *logiciels*|
+| [22-19762](https://www.boamp.fr/avis/detail/22-19762) | Agglomération Maubeuge Val de Sambre | N/C € | N/C mois | 🟡 2022-02-24 11:00:00 | Acquisition d'une solution logicielle pour le traitement du courrier entrant et sortant et maintenance | *logiciels*|
 | [22-18331](https://www.boamp.fr/avis/detail/22-18331) | Ville de Raismes | N/C € | N/C mois | 🟡 2022-02-25 11:00:00 | Fourniture, mise en oeuvre et maintenace d'un logiciel GMAO pour les services de la ville de Raismes | *logiciels*|
 | [22-19109](https://www.boamp.fr/avis/detail/22-19109) | COMMUNE DE HENIN BEAUMONT | N/C € | N/C mois | 🟢 2022-03-07 10:00:00 | Fourniture de matériels et de logiciels informatiques (groupement de commandes de la ville et du CCAS d'Hénin-Beaumont) | *logiciels*|
 | [22-14554](https://www.boamp.fr/avis/detail/22-14554) | DIRISI | N/C € | N/C mois | 🟡 2022-02-28 11:00:00 | Réalisation de prestations intellectuelles informatiques au profit des différents organismes du ministère des Armées " Catalogue d'unités d'oeuvre 4 " | *securite informatique*|
@@ -47,4 +47,4 @@
 | [22-19127](https://www.boamp.fr/avis/detail/22-19127) | Cour d'appel de Dijon | N/C € | N/C mois | 🟢 2022-03-07 15:00:00 | Travaux de transformation de logement en bureaux à la cité judiciaire de Dijon | *informatique*|
 
 
-_Dernière mise à jour : Thursday 10/02/2022 02:09:00_
+_Dernière mise à jour : Friday 11/02/2022 02:12:38_
