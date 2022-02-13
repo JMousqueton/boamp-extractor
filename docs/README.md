@@ -43,4 +43,4 @@
 | [22-19127](https://www.boamp.fr/avis/detail/22-19127) | Cour d'appel de Dijon | N/C € | N/C mois | 🟢 2022-03-07 15:00:00 | Travaux de transformation de logement en bureaux à la cité judiciaire de Dijon | *informatique*|
 
 
-_Dernière mise à jour : Saturday 12/02/2022 02:13:48_
+_Dernière mise à jour : Sunday 13/02/2022 02:10:42_
