@@ -26,11 +26,7 @@
 | [22-16475](https://www.boamp.fr/avis/detail/22-16475) | COMMUNE DE SAINT-ARNOULT-EN-YVELINES | N/C € | N/C mois | 🟡 2022-02-28 11:00:00 | Marché d'Infogérance et de support des matériels et infrastructure des différents sites de la Mairie de Saint-Arnoult-en-Yvelines | *infogerance*|
 | [22-16633](https://www.boamp.fr/avis/detail/22-16633) | COMMUNE DE SAINT-ARNOULT-EN-YVELINES | N/C € | N/C mois | 🟡 2022-02-28 11:00:00 | Marché d'Infogérance et de support des matériels et infrastructure des différents sites de la Mairie de Saint-Arnoult-en-Yvelines. | *infogerance*|
 | [22-21004](https://www.boamp.fr/avis/detail/22-21004) | Ville de Saint-Cyr-Sur-Loire | N/C € | N/C mois | 🟡 2022-03-03 11:00:00 | La présente consultation a pour objet l'acquisition de matériel informatique pour les besoins de la ville de Saint-Cyr-sur-loire | *postes informatiques*|
-| [21-163019](https://www.boamp.fr/avis/detail/21-163019) | Conseil Régional de la Réunion | 2,390,345 € | 12 mois | 🔴 2022-02-16 11:00:00 | Travaux de relamping et réfection des systèmes de production d'eau chaude solaire | *informatique*|
-| [21-168899](https://www.boamp.fr/avis/detail/21-168899) | GPSO POUR ISSY LES MOULINEAUX | 3,280,000 € | N/C mois | 🔴 2022-02-16 16:00:00 | Fourniture d'équipements divers | *informatique*|
 | [22-2872](https://www.boamp.fr/avis/detail/22-2872) | Centre Hospitalier de Laval (53) | N/C € | N/C mois | 🔴 2022-02-18 11:00:00 | Maitrise d'oeuvre (MOE) pour la restructuration du service informatique et la création d'une salle de prélèvement de cornée au Centre Hospitalier de Laval | *informatique*|
-| [21-168548](https://www.boamp.fr/avis/detail/21-168548) | Régie Ligne d'Azur | 21,000,000 € | 84 mois | 🔴 2022-02-16 11:00:00 | MISE A DISPOSITION, ENTRETIEN, MAINTENANCE ET EXPLOITATION D'UN SERVICE PUBLIC DE VELOS A ASSISTANCE ELECTRIQUE EN LOCATION LONGUE DUREE (VAELD) SUR LE TERRITOIRE DE LA METROPOLE NICE COTE D'AZUR | *informatique*|
-| [22-12116](https://www.boamp.fr/avis/detail/22-12116) | SYND MIXTE TRPT COMMUN AGGL TOULOUSAIN | N/C € | N/C mois | 🔴 2022-02-16 11:00:00 | Service de gestion du risque amiante et de sa mise en oeuvre | *informatique*|
 | [22-15091](https://www.boamp.fr/avis/detail/22-15091) | COMMUNE DE LA COUARDE SUR MER | N/C € | N/C mois | 🔴 2022-02-25 11:00:00 | Fournitures de bureau et consommables informatiques | *informatique*|
 | [22-19559](https://www.boamp.fr/avis/detail/22-19559) | Sdis 05 | N/C € | N/C mois | 🟡 2022-03-01 11:00:00 | SERVICE DE MAINTENANCE DES EQUIPEMENTS DE COMMUTATION TELEPHONIQUE ET INFORMATIQUE ALCATEL-LUCENT | *informatique*|
 | [22-11895](https://www.boamp.fr/avis/detail/22-11895) | Société Aéroports de la Côte d'Azur | N/C € | N/C mois | 🔴 2022-02-24 11:00:00 | 2021-110 Accord Cadre pour la maintenance de l'infrastructure du réseau informatique administratif des Aéroports de la Côte d'Azur | *informatique*|
@@ -39,4 +35,4 @@
 | [22-19127](https://www.boamp.fr/avis/detail/22-19127) | Cour d'appel de Dijon | N/C € | N/C mois | 🟡 2022-03-07 15:00:00 | Travaux de transformation de logement en bureaux à la cité judiciaire de Dijon | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 16/02/2022 02:19:30_
+_Dernière mise à jour : Thursday 17/02/2022 02:05:08_
