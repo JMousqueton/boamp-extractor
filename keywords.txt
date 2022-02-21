@@ -15,16 +15,19 @@ serveur
 multi-editeur
 microsoft
 logiciels
-cybersecurite
-securite informatique
 firewall
 pare-feu
 parefeu
 checkpoint
 antivirus
 EDR
+XDR
+CyberSOC
+cybersecurite
+securite informatique
 cisco
 wifi
+meraki
 infogerance
 postes informatiques
 informatique
