@@ -29,8 +29,9 @@
 | [22-23821](https://www.boamp.fr/avis/detail/22-23821) | Département de la Haute-Savoie | N/C € | N/C mois | 🔴 2022-03-02 11:00:00 | Captation audiovisuelle, retransmission en direct et interprétariat des rencontres transfrontalières de l'éducation aux médias et à l'information dans le cadre du programme Interreg France-Italie Alcotra | *informatique*|
 | [22-20473](https://www.boamp.fr/avis/detail/22-20473) | C.C. Castelnaudary Lauragais Audois | N/C € | N/C mois | 🟡 2022-03-07 11:00:00 | Accord-cadre pour les fournitures de bureau, de consommables informatiques et de papiers | *informatique*|
 | [22-24982](https://www.boamp.fr/avis/detail/22-24982) | COMMUNAUTE AGGLO PORTES DE FRANCE | N/C € | N/C mois | 🟢 2022-03-14 15:00:00 | FOURNITURE DE COMPOSANTS INFORMATIQUES, PERIPHERIQUES, CONNECTIQUES ET ACCESSOIRES | *informatique*|
+| 🔥 [22-26555](https://www.boamp.fr/avis/detail/22-26555) | Commune de Six-Fours-les-Plages | N/C € | N/C mois | 🟢 2022-03-14 15:00:00 | FOURNITURE D'ORDINATEURS POUR L'ANNEE 2022 | *informatique*|
 | [22-19127](https://www.boamp.fr/avis/detail/22-19127) | Cour d'appel de Dijon | N/C € | N/C mois | 🟡 2022-03-07 15:00:00 | Travaux de transformation de logement en bureaux à la cité judiciaire de Dijon | *informatique*|
 | [22-25701](https://www.boamp.fr/avis/detail/22-25701) | Communauté de communes de l'Estuaire | N/C € | N/C mois | 🟢 2022-03-22 11:00:00 | contrat de maintenance informatique pour les services de la CDC et son CIAS | *informatique*|
 
 
-_Dernière mise à jour : Monday 21/02/2022 15:20:34_
+_Dernière mise à jour : Tuesday 22/02/2022 02:09:48_
