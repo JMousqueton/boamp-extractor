@@ -30,4 +30,4 @@
 | [22-25701](https://www.boamp.fr/avis/detail/22-25701) | Communauté de communes de l'Estuaire | N/C € | N/C mois | 🟢 2022-03-22 11:00:00 | contrat de maintenance informatique pour les services de la CDC et son CIAS | *informatique*|
 
 
-_Dernière mise à jour : Saturday 26/02/2022 02:05:51_
+_Dernière mise à jour : Sunday 27/02/2022 02:12:56_
