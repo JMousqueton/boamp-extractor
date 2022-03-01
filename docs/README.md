@@ -3,12 +3,13 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
+| 🔥 [22-29957](https://www.boamp.fr/avis/detail/22-29957) | COMMUNE DE TOULOUSE | N/C € | N/C mois | 🟢 2022-03-25 11:00:00 | 22V0036PA - AC-JM - Transport d'enfants aux départs des sites de vacances extérieurs à la Ville de Toulouse | *centre de donnees*|
 | [21-169655](https://www.boamp.fr/avis/detail/21-169655) | Bordeaux Métropole | 4,200,000.0 € | 48 mois | 🔴 2022-03-07 11:00:00 | REMPLACEMENTS ET ACQUISITIONS DE LIAISONS DE TÉLÉCOMMUNICATION DE TYPE FAISCEAUX HERTZIENS (FH) (TETRA) | *infrastructures systemes*|
 | [22-23931](https://www.boamp.fr/avis/detail/22-23931) | CA Chauny-Tergnier-La Fère | N/C € | N/C mois | 🟢 2022-03-28 11:00:00 | Elaboration du schéma directeur ' vélo ' | *infrastructures systemes*|
 | [22-21959](https://www.boamp.fr/avis/detail/22-21959) | epcc scene nationale carre colonnes | N/C € | N/C mois | 🔴 2022-03-09 22:59:00 | Evolutions des infrastructures informatiques pour l'ensemble des utiisateurs de la Scène nationale Carré-Colonnes | *serveur*|
 | [22-29004](https://www.boamp.fr/avis/detail/22-29004) | Ville d'Illzach | N/C € | N/C mois | 🟢 2022-03-28 11:00:00 | Maîtrise d'oeuvre pour la restructuration de bureaux et le remplacement d'installations électriques à l'Espace 110 | *serveur*|
+| 🔥 [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟢 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
 | [21-165511](https://www.boamp.fr/avis/detail/21-165511) | Université Denis Diderot - Paris 7 | 4,400,000 € | 12 mois | 🔴 2022-03-01 11:00:00 | 2021FODFAAG074 -Marché de fournitures et accessoires informatiques, audiovisuels et multimédias, logiciels et prestations associées | *logiciels*|
-| [22-11776](https://www.boamp.fr/avis/detail/22-11776) | Institut du Monde Arabe | N/C € | N/C mois | 🔴 2022-02-28 15:00:00 | Solution informatique pour la gestion de la certification en langue arabe | *logiciels*|
 | [22-13051](https://www.boamp.fr/avis/detail/22-13051) | SMICTOM d'Alsace Centrale | N/C € | N/C mois | 🔴 2022-03-09 11:00:00 | La mise à disposition d'un logiciel de gestion de temps avec un paramétrage, un service d'assistance et maintenance dans l'utilisation du logiciel de gestion de temps, un service d'hébergement et de stockage des données. | *logiciels*|
 | [22-6342](https://www.boamp.fr/avis/detail/22-6342) | MINARM/DGA/DO/S2A | N/C € | N/C mois | 🔴 2022-03-01 14:00:00 | Réalisation et maintien en conditions opérationnelles d'un moyen d'essai représentatif d'un autodirecteur optronique à imagerie bi-bande (ISS FR) | *logiciels*|
 | [22-21010](https://www.boamp.fr/avis/detail/22-21010) | EPTB Seine Grands Lacs | N/C € | N/C mois | 🔴 2022-03-03 11:00:00 | Le marché concerne le remplacement de tout ou partie des 5 récepteurs GNSS actuels dédiés à l'auscultation et à la surveillance des ouvrages des lacs-réservoirs gérés par l'EPTB. | *logiciels*|
@@ -16,9 +17,6 @@
 | [22-29196](https://www.boamp.fr/avis/detail/22-29196) | E.P.L.E.F.P.A. de Haute-Corrèze | N/C € | N/C mois | 🟢 2022-03-31 16:00:00 | Acquisition de drones, d'équipements et de prestations de formation associées pour l'E.P.L.E.F.P.A. de Haute-Corrèze | *logiciels*|
 | [22-27460](https://www.boamp.fr/avis/detail/22-27460) | Territoire d'énergie Isère | N/C € | N/C mois | 🟡 2022-03-15 09:30:00 | Mise à disposition et maintenance d'un logiciel de suivi énergétique et de consommations | *logiciels*|
 | [22-25318](https://www.boamp.fr/avis/detail/22-25318) | Communauté de Communes de la Forêt | N/C € | N/C mois | 🟢 2022-04-01 11:00:00 | ACQUISITION, MISE EN PLACE ET MAINTENANCE D'UN LOGICIEL MÉTIER (ACM ET RESTAURATION SCOLAIRE) POUR LA COMMUNAUTÉ DE COMMUNES DE LA FORET ET 3 COMMUNES MEMBRES | *logiciels*|
-| [22-14554](https://www.boamp.fr/avis/detail/22-14554) | DIRISI | N/C € | N/C mois | 🔴 2022-02-28 11:00:00 | Réalisation de prestations intellectuelles informatiques au profit des différents organismes du ministère des Armées " Catalogue d'unités d'oeuvre 4 " | *securite informatique*|
-| [22-16475](https://www.boamp.fr/avis/detail/22-16475) | COMMUNE DE SAINT-ARNOULT-EN-YVELINES | N/C € | N/C mois | 🔴 2022-02-28 11:00:00 | Marché d'Infogérance et de support des matériels et infrastructure des différents sites de la Mairie de Saint-Arnoult-en-Yvelines | *infogerance*|
-| [22-16633](https://www.boamp.fr/avis/detail/22-16633) | COMMUNE DE SAINT-ARNOULT-EN-YVELINES | N/C € | N/C mois | 🔴 2022-02-28 11:00:00 | Marché d'Infogérance et de support des matériels et infrastructure des différents sites de la Mairie de Saint-Arnoult-en-Yvelines. | *infogerance*|
 | [22-21004](https://www.boamp.fr/avis/detail/22-21004) | Ville de Saint-Cyr-Sur-Loire | N/C € | N/C mois | 🔴 2022-03-03 11:00:00 | La présente consultation a pour objet l'acquisition de matériel informatique pour les besoins de la ville de Saint-Cyr-sur-loire | *postes informatiques*|
 | [22-19559](https://www.boamp.fr/avis/detail/22-19559) | Sdis 05 | N/C € | N/C mois | 🔴 2022-03-01 11:00:00 | SERVICE DE MAINTENANCE DES EQUIPEMENTS DE COMMUTATION TELEPHONIQUE ET INFORMATIQUE ALCATEL-LUCENT | *informatique*|
 | [22-23821](https://www.boamp.fr/avis/detail/22-23821) | Département de la Haute-Savoie | N/C € | N/C mois | 🔴 2022-03-02 11:00:00 | Captation audiovisuelle, retransmission en direct et interprétariat des rencontres transfrontalières de l'éducation aux médias et à l'information dans le cadre du programme Interreg France-Italie Alcotra | *informatique*|
@@ -30,4 +28,4 @@
 | [22-25701](https://www.boamp.fr/avis/detail/22-25701) | Communauté de communes de l'Estuaire | N/C € | N/C mois | 🟢 2022-03-22 11:00:00 | contrat de maintenance informatique pour les services de la CDC et son CIAS | *informatique*|
 
 
-_Dernière mise à jour : Monday 28/02/2022 02:13:39_
+_Dernière mise à jour : Tuesday 01/03/2022 02:27:14_
