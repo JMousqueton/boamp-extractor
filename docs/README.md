@@ -3,7 +3,7 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| 🔥 [22-31538](https://www.boamp.fr/avis/detail/22-31538) | COM DE COMMUNES TERRE DE CAMARGUE | N/C € | N/C mois | 🟢 2022-03-30 11:00:00 | Fourniture d'un logiciel de gestion des déchèteries et de traçabilité des déchets | *cloud*|
+| [22-31538](https://www.boamp.fr/avis/detail/22-31538) | COM DE COMMUNES TERRE DE CAMARGUE | N/C € | N/C mois | 🟢 2022-03-30 11:00:00 | Fourniture d'un logiciel de gestion des déchèteries et de traçabilité des déchets | *cloud*|
 | [22-29957](https://www.boamp.fr/avis/detail/22-29957) | COMMUNE DE TOULOUSE | N/C € | N/C mois | 🟢 2022-03-25 11:00:00 | 22V0036PA - AC-JM - Transport d'enfants aux départs des sites de vacances extérieurs à la Ville de Toulouse | *centre de donnees*|
 | [21-169655](https://www.boamp.fr/avis/detail/21-169655) | Bordeaux Métropole | 4,200,000.0 € | 48 mois | 🔴 2022-03-07 11:00:00 | REMPLACEMENTS ET ACQUISITIONS DE LIAISONS DE TÉLÉCOMMUNICATION DE TYPE FAISCEAUX HERTZIENS (FH) (TETRA) | *infrastructures systemes*|
 | [22-23931](https://www.boamp.fr/avis/detail/22-23931) | CA Chauny-Tergnier-La Fère | N/C € | N/C mois | 🟢 2022-03-28 11:00:00 | Elaboration du schéma directeur ' vélo ' | *infrastructures systemes*|
@@ -16,13 +16,13 @@
 | [22-27460](https://www.boamp.fr/avis/detail/22-27460) | Territoire d'énergie Isère | N/C € | N/C mois | 🟡 2022-03-15 09:30:00 | Mise à disposition et maintenance d'un logiciel de suivi énergétique et de consommations | *logiciels*|
 | [22-25318](https://www.boamp.fr/avis/detail/22-25318) | Communauté de Communes de la Forêt | N/C € | N/C mois | 🟢 2022-04-01 11:00:00 | ACQUISITION, MISE EN PLACE ET MAINTENANCE D'UN LOGICIEL MÉTIER (ACM ET RESTAURATION SCOLAIRE) POUR LA COMMUNAUTÉ DE COMMUNES DE LA FORET ET 3 COMMUNES MEMBRES | *logiciels*|
 | [22-20473](https://www.boamp.fr/avis/detail/22-20473) | C.C. Castelnaudary Lauragais Audois | N/C € | N/C mois | 🔴 2022-03-07 11:00:00 | Accord-cadre pour les fournitures de bureau, de consommables informatiques et de papiers | *informatique*|
-| [22-24982](https://www.boamp.fr/avis/detail/22-24982) | COMMUNAUTE AGGLO PORTES DE FRANCE | N/C € | N/C mois | 🟡 2022-03-14 15:00:00 | FOURNITURE DE COMPOSANTS INFORMATIQUES, PERIPHERIQUES, CONNECTIQUES ET ACCESSOIRES | *informatique*|
+| [22-24982](https://www.boamp.fr/avis/detail/22-24982) | COMMUNAUTE AGGLO PORTES DE FRANCE | N/C € | N/C mois | 🔴 2022-03-14 15:00:00 | FOURNITURE DE COMPOSANTS INFORMATIQUES, PERIPHERIQUES, CONNECTIQUES ET ACCESSOIRES | *informatique*|
 | [22-27422](https://www.boamp.fr/avis/detail/22-27422) | Bordeaux Métropole | N/C € | N/C mois | 🟢 2022-04-05 11:00:00 | Formation à l'environnement bureautique et informatique des agents de Bordeaux Métropole | *informatique*|
-| [22-26555](https://www.boamp.fr/avis/detail/22-26555) | Commune de Six-Fours-les-Plages | N/C € | N/C mois | 🟡 2022-03-14 15:00:00 | FOURNITURE D'ORDINATEURS POUR L'ANNEE 2022 | *informatique*|
+| [22-26555](https://www.boamp.fr/avis/detail/22-26555) | Commune de Six-Fours-les-Plages | N/C € | N/C mois | 🔴 2022-03-14 15:00:00 | FOURNITURE D'ORDINATEURS POUR L'ANNEE 2022 | *informatique*|
 | [22-19127](https://www.boamp.fr/avis/detail/22-19127) | Cour d'appel de Dijon | N/C € | N/C mois | 🔴 2022-03-07 15:00:00 | Travaux de transformation de logement en bureaux à la cité judiciaire de Dijon | *informatique*|
 | [22-25701](https://www.boamp.fr/avis/detail/22-25701) | Communauté de communes de l'Estuaire | N/C € | N/C mois | 🟡 2022-03-22 11:00:00 | contrat de maintenance informatique pour les services de la CDC et son CIAS | *informatique*|
-| 🔥 [22-32154](https://www.boamp.fr/avis/detail/22-32154) | CC DU GRAND CHAMBORD | N/C € | N/C mois | 🟢 2022-03-24 11:00:00 | Maintien en condition opérationnelle (MCO) du parc informatique de la Communauté de communes du Grand Chambord et des communes de Mont-près-Chambord et de Saint-Laurent-Nouan | *informatique*|
+| 🔥 [22-32154](https://www.boamp.fr/avis/detail/22-32154) | CC DU GRAND CHAMBORD | N/C € | N/C mois | 🟡 2022-03-24 11:00:00 | Maintien en condition opérationnelle (MCO) du parc informatique de la Communauté de communes du Grand Chambord et des communes de Mont-près-Chambord et de Saint-Laurent-Nouan | *informatique*|
 | [22-30485](https://www.boamp.fr/avis/detail/22-30485) | OPH de la Haute-Savoie | N/C € | N/C mois | 🟢 2022-04-22 11:00:00 | Fourniture d'une solution informatique pour assurer la gestion du planning du Pôle Relation Client de Haute-Savoie HABITAT | *informatique*|
 
 
-_Dernière mise à jour : Friday 04/03/2022 02:25:16_
+_Dernière mise à jour : Saturday 05/03/2022 02:15:05_
