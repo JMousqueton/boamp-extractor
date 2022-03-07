@@ -27,4 +27,4 @@
 | [22-30485](https://www.boamp.fr/avis/detail/22-30485) | OPH de la Haute-Savoie | N/C € | N/C mois | 🟢 2022-04-22 11:00:00 | Fourniture d'une solution informatique pour assurer la gestion du planning du Pôle Relation Client de Haute-Savoie HABITAT | *informatique*|
 
 
-_Dernière mise à jour : Sunday 06/03/2022 02:14:44_
+_Dernière mise à jour : Monday 07/03/2022 02:17:51_
