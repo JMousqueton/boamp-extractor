@@ -3,12 +3,12 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| [22-33139](https://www.boamp.fr/avis/detail/22-33139) | COMMUNE DE BARENTIN | N/C € | N/C mois | 🟢 2022-03-28 11:00:00 | Virtualisation des serveurs informatiques | *virtualisation*|
+| [22-33139](https://www.boamp.fr/avis/detail/22-33139) | COMMUNE DE BARENTIN | N/C € | N/C mois | 🟡 2022-03-28 11:00:00 | Virtualisation des serveurs informatiques | *virtualisation*|
 | [22-31538](https://www.boamp.fr/avis/detail/22-31538) | COM DE COMMUNES TERRE DE CAMARGUE | N/C € | N/C mois | 🟢 2022-03-30 11:00:00 | Fourniture d'un logiciel de gestion des déchèteries et de traçabilité des déchets | *cloud*|
 | [22-29957](https://www.boamp.fr/avis/detail/22-29957) | COMMUNE DE TOULOUSE | N/C € | N/C mois | 🟡 2022-03-25 11:00:00 | 22V0036PA - AC-JM - Transport d'enfants aux départs des sites de vacances extérieurs à la Ville de Toulouse | *centre de donnees*|
-| [22-23931](https://www.boamp.fr/avis/detail/22-23931) | CA Chauny-Tergnier-La Fère | N/C € | N/C mois | 🟢 2022-03-28 11:00:00 | Elaboration du schéma directeur ' vélo ' | *infrastructures systemes*|
+| [22-23931](https://www.boamp.fr/avis/detail/22-23931) | CA Chauny-Tergnier-La Fère | N/C € | N/C mois | 🟡 2022-03-28 11:00:00 | Elaboration du schéma directeur ' vélo ' | *infrastructures systemes*|
 | [22-21959](https://www.boamp.fr/avis/detail/22-21959) | epcc scene nationale carre colonnes | N/C € | N/C mois | 🔴 2022-03-09 22:59:00 | Evolutions des infrastructures informatiques pour l'ensemble des utiisateurs de la Scène nationale Carré-Colonnes | *serveur*|
-| [22-29004](https://www.boamp.fr/avis/detail/22-29004) | Ville d'Illzach | N/C € | N/C mois | 🟢 2022-03-28 11:00:00 | Maîtrise d'oeuvre pour la restructuration de bureaux et le remplacement d'installations électriques à l'Espace 110 | *serveur*|
+| [22-29004](https://www.boamp.fr/avis/detail/22-29004) | Ville d'Illzach | N/C € | N/C mois | 🟡 2022-03-28 11:00:00 | Maîtrise d'oeuvre pour la restructuration de bureaux et le remplacement d'installations électriques à l'Espace 110 | *serveur*|
 | [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟢 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
 | [22-13051](https://www.boamp.fr/avis/detail/22-13051) | SMICTOM d'Alsace Centrale | N/C € | N/C mois | 🔴 2022-03-09 11:00:00 | La mise à disposition d'un logiciel de gestion de temps avec un paramétrage, un service d'assistance et maintenance dans l'utilisation du logiciel de gestion de temps, un service d'hébergement et de stockage des données. | *logiciels*|
 | [22-29196](https://www.boamp.fr/avis/detail/22-29196) | E.P.L.E.F.P.A. de Haute-Corrèze | N/C € | N/C mois | 🟢 2022-03-31 16:00:00 | Acquisition de drones, d'équipements et de prestations de formation associées pour l'E.P.L.E.F.P.A. de Haute-Corrèze | *logiciels*|
@@ -23,4 +23,4 @@
 | [22-30485](https://www.boamp.fr/avis/detail/22-30485) | OPH de la Haute-Savoie | N/C € | N/C mois | 🟢 2022-04-22 11:00:00 | Fourniture d'une solution informatique pour assurer la gestion du planning du Pôle Relation Client de Haute-Savoie HABITAT | *informatique*|
 
 
-_Dernière mise à jour : Tuesday 08/03/2022 02:17:50_
+_Dernière mise à jour : Wednesday 09/03/2022 02:20:39_
