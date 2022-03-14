@@ -20,8 +20,8 @@
 | [22-25701](https://www.boamp.fr/avis/detail/22-25701) | Communauté de communes de l'Estuaire | N/C € | N/C mois | 🔴 2022-03-22 11:00:00 | contrat de maintenance informatique pour les services de la CDC et son CIAS | *informatique*|
 | [22-32154](https://www.boamp.fr/avis/detail/22-32154) | CC DU GRAND CHAMBORD | N/C € | N/C mois | 🟡 2022-03-24 11:00:00 | Maintien en condition opérationnelle (MCO) du parc informatique de la Communauté de communes du Grand Chambord et des communes de Mont-près-Chambord et de Saint-Laurent-Nouan | *informatique*|
 | [22-30485](https://www.boamp.fr/avis/detail/22-30485) | OPH de la Haute-Savoie | N/C € | N/C mois | 🟢 2022-04-22 11:00:00 | Fourniture d'une solution informatique pour assurer la gestion du planning du Pôle Relation Client de Haute-Savoie HABITAT | *informatique*|
-| 🔥 [22-36551](https://www.boamp.fr/avis/detail/22-36551) | COMMUNE DE VAL D ISERE | N/C € | N/C mois | 🟢 2022-04-04 12:00:00 | ACQUISITION DE MATERIELS INFORMATIQUE | *informatique*|
-| 🔥 [22-37050](https://www.boamp.fr/avis/detail/22-37050) | CENTRE HOSPITALIER GENERAL DE CHARTRES | N/C € | N/C mois | 🟢 2022-04-08 11:00:00 | Accord cadre à bons de commandes - Travaux de câblage informatique pour le CH de Chartres | *informatique*|
+| [22-36551](https://www.boamp.fr/avis/detail/22-36551) | COMMUNE DE VAL D ISERE | N/C € | N/C mois | 🟢 2022-04-04 12:00:00 | ACQUISITION DE MATERIELS INFORMATIQUE | *informatique*|
+| [22-37050](https://www.boamp.fr/avis/detail/22-37050) | CENTRE HOSPITALIER GENERAL DE CHARTRES | N/C € | N/C mois | 🟢 2022-04-08 11:00:00 | Accord cadre à bons de commandes - Travaux de câblage informatique pour le CH de Chartres | *informatique*|
 
 
-_Dernière mise à jour : Sunday 13/03/2022 02:10:17_
+_Dernière mise à jour : Monday 14/03/2022 02:19:07_
