@@ -21,7 +21,8 @@
 | [22-30485](https://www.boamp.fr/avis/detail/22-30485) | OPH de la Haute-Savoie | N/C € | N/C mois | 🟢 2022-04-22 11:00:00 | Fourniture d'une solution informatique pour assurer la gestion du planning du Pôle Relation Client de Haute-Savoie HABITAT | *informatique*|
 | [22-36551](https://www.boamp.fr/avis/detail/22-36551) | COMMUNE DE VAL D ISERE | N/C € | N/C mois | 🟡 2022-04-04 12:00:00 | ACQUISITION DE MATERIELS INFORMATIQUE | *informatique*|
 | [22-40429](https://www.boamp.fr/avis/detail/22-40429) | COMMUNE DE VRED | N/C € | N/C mois | 🟡 2022-04-08 16:00:00 | ASSISTANCE ET MAINTENANCE INFORMATIQUE | *informatique*|
+| 🔥 [22-43090](https://www.boamp.fr/avis/detail/22-43090) | GENOPOLE | N/C € | N/C mois | 🟢 2022-04-21 11:00:00 | Le marché a pour objet la fourniture, l'installation, de matériels et de solutions informatiques pour les services du GIP GENOPOLE, ainsi que les prestations associées à ces solutions. Le matériel sera livré et installé sur le site du GIP. Ce site se situe à Evry-Courcouronnes? Fourniture du matériel Audio/Vidéo dans la salle de Conférence? Prestations déploiementsLe détail des prestations figure au Cahier des Clauses Techniques Particulières (CCTP). | *informatique*|
 | [22-37050](https://www.boamp.fr/avis/detail/22-37050) | CENTRE HOSPITALIER GENERAL DE CHARTRES | N/C € | N/C mois | 🟡 2022-04-08 11:00:00 | Accord cadre à bons de commandes - Travaux de câblage informatique pour le CH de Chartres | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 23/03/2022 02:38:26_
+_Dernière mise à jour : Thursday 24/03/2022 02:28:25_
