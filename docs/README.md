@@ -14,10 +14,10 @@
 | [22-29196](https://www.boamp.fr/avis/detail/22-29196) | E.P.L.E.F.P.A. de Haute-Corrèze | N/C € | N/C mois | 🔴 2022-03-31 16:00:00 | Acquisition de drones, d'équipements et de prestations de formation associées pour l'E.P.L.E.F.P.A. de Haute-Corrèze | *logiciels*|
 | [22-25318](https://www.boamp.fr/avis/detail/22-25318) | Communauté de Communes de la Forêt | N/C € | N/C mois | 🔴 2022-04-01 11:00:00 | ACQUISITION, MISE EN PLACE ET MAINTENANCE D'UN LOGICIEL MÉTIER (ACM ET RESTAURATION SCOLAIRE) POUR LA COMMUNAUTÉ DE COMMUNES DE LA FORET ET 3 COMMUNES MEMBRES | *logiciels*|
 | [22-33140](https://www.boamp.fr/avis/detail/22-33140) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🟡 2022-04-06 11:00:00 | Maintenance, acquisition, évolutions et prestations associées au logiciel de manipulation de données spatiales FME | *logiciels*|
+| 🔥 [22-43423](https://www.boamp.fr/avis/detail/22-43423) | COMMUNE DE MONTIGNY EN GOHELLE | N/C € | N/C mois | 🟢 2022-04-15 15:00:00 | Mise en place de contrôle d'accès dans divers bâtiments communaux | *logiciels*|
 | [22-40113](https://www.boamp.fr/avis/detail/22-40113) | COMMUNE DE CHEVIGNY SAINT SAUVEUR | N/C € | N/C mois | 🟡 2022-04-11 11:00:00 | Rénovation de la station essence du centre technique municipalFourniture nouvelle pompe et solution logicielle de suivi. | *logiciels*|
 | [22-37473](https://www.boamp.fr/avis/detail/22-37473) | Ville de Gap | N/C € | N/C mois | 🟢 2022-04-15 10:00:00 | Assistance à maîtrise d'ouvrage (AMO) en vue de la passation du marché de renouvellement de l'appel malade et des systèmes de télécommunication de l'EHPAD les 3 Fontaines - Saint Mens | *wifi*|
 | [22-27422](https://www.boamp.fr/avis/detail/22-27422) | Bordeaux Métropole | N/C € | N/C mois | 🟡 2022-04-05 11:00:00 | Formation à l'environnement bureautique et informatique des agents de Bordeaux Métropole | *informatique*|
-| [22-32154](https://www.boamp.fr/avis/detail/22-32154) | CC DU GRAND CHAMBORD | N/C € | N/C mois | 🔴 2022-03-24 11:00:00 | Maintien en condition opérationnelle (MCO) du parc informatique de la Communauté de communes du Grand Chambord et des communes de Mont-près-Chambord et de Saint-Laurent-Nouan | *informatique*|
 | [22-30485](https://www.boamp.fr/avis/detail/22-30485) | OPH de la Haute-Savoie | N/C € | N/C mois | 🟢 2022-04-22 11:00:00 | Fourniture d'une solution informatique pour assurer la gestion du planning du Pôle Relation Client de Haute-Savoie HABITAT | *informatique*|
 | [22-36551](https://www.boamp.fr/avis/detail/22-36551) | COMMUNE DE VAL D ISERE | N/C € | N/C mois | 🟡 2022-04-04 12:00:00 | ACQUISITION DE MATERIELS INFORMATIQUE | *informatique*|
 | [22-40429](https://www.boamp.fr/avis/detail/22-40429) | COMMUNE DE VRED | N/C € | N/C mois | 🟡 2022-04-08 16:00:00 | ASSISTANCE ET MAINTENANCE INFORMATIQUE | *informatique*|
@@ -25,4 +25,4 @@
 | [22-37050](https://www.boamp.fr/avis/detail/22-37050) | CENTRE HOSPITALIER GENERAL DE CHARTRES | N/C € | N/C mois | 🟡 2022-04-08 11:00:00 | Accord cadre à bons de commandes - Travaux de câblage informatique pour le CH de Chartres | *informatique*|
 
 
-_Dernière mise à jour : Thursday 24/03/2022 02:28:25_
+_Dernière mise à jour : Friday 25/03/2022 02:24:11_
