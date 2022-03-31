@@ -3,12 +3,11 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| [22-31538](https://www.boamp.fr/avis/detail/22-31538) | COM DE COMMUNES TERRE DE CAMARGUE | N/C € | N/C mois | 🔴 2022-03-30 11:00:00 | Fourniture d'un logiciel de gestion des déchèteries et de traçabilité des déchets | *cloud*|
 | [22-37384](https://www.boamp.fr/avis/detail/22-37384) | OPH - Var Habitat | N/C € | N/C mois | 🔴 2022-04-04 11:00:00 | Souscription à un service de signature électronique | *cloud*|
 | [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟢 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
 | [22-35672](https://www.boamp.fr/avis/detail/22-35672) | Université Paris 8 | N/C € | N/C mois | 🔴 2022-04-04 11:00:00 | Mission de maîtrise d'oeuvreCurage, renforcement structurel et sécurisation pour deux futures salles serveurs - Campus Saint-Denis | *serveur*|
 | 🔥 [22-45955](https://www.boamp.fr/avis/detail/22-45955) | DEPARTEMENT DU TERRITOIRE DE BELFORT | N/C € | N/C mois | 🟢 2022-04-20 09:00:00 | Optimisation de la climatisation du local serveur à l'Hôtel du Département | *serveur*|
-| 🔥 [22-44768](https://www.boamp.fr/avis/detail/22-44768) | Territoire d'Energie Lot-et-Garonne | N/C € | N/C mois | 🟢 2022-04-25 11:00:00 | Fourniture de matériel informatique | *microsoft*|
+| [22-44768](https://www.boamp.fr/avis/detail/22-44768) | Territoire d'Energie Lot-et-Garonne | N/C € | N/C mois | 🟢 2022-04-25 11:00:00 | Fourniture de matériel informatique | *microsoft*|
 | [22-29196](https://www.boamp.fr/avis/detail/22-29196) | E.P.L.E.F.P.A. de Haute-Corrèze | N/C € | N/C mois | 🔴 2022-03-31 16:00:00 | Acquisition de drones, d'équipements et de prestations de formation associées pour l'E.P.L.E.F.P.A. de Haute-Corrèze | *logiciels*|
 | [22-25318](https://www.boamp.fr/avis/detail/22-25318) | Communauté de Communes de la Forêt | N/C € | N/C mois | 🔴 2022-04-01 11:00:00 | ACQUISITION, MISE EN PLACE ET MAINTENANCE D'UN LOGICIEL MÉTIER (ACM ET RESTAURATION SCOLAIRE) POUR LA COMMUNAUTÉ DE COMMUNES DE LA FORET ET 3 COMMUNES MEMBRES | *logiciels*|
 | [22-33140](https://www.boamp.fr/avis/detail/22-33140) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🔴 2022-04-06 11:00:00 | Maintenance, acquisition, évolutions et prestations associées au logiciel de manipulation de données spatiales FME | *logiciels*|
@@ -16,7 +15,8 @@
 | [22-40113](https://www.boamp.fr/avis/detail/22-40113) | COMMUNE DE CHEVIGNY SAINT SAUVEUR | N/C € | N/C mois | 🟡 2022-04-11 11:00:00 | Rénovation de la station essence du centre technique municipalFourniture nouvelle pompe et solution logicielle de suivi. | *logiciels*|
 | 🔥 [22-45510](https://www.boamp.fr/avis/detail/22-45510) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🟢 2022-05-03 11:00:00 | Acquisition, mise en oeuvre et maintenance d'un logiciel de gestion des métadonnées du Système d'Information Géographique du Département de la Savoie | *logiciels*|
 | [22-44312](https://www.boamp.fr/avis/detail/22-44312) | Troyes Champagne Métropole | N/C € | N/C mois | 🟡 2022-04-18 16:00:00 | Droit d'accès à une application de gestion pour l'aire d'accueil de camping-cars et installations connexes | *logiciels*|
-| [22-44075](https://www.boamp.fr/avis/detail/22-44075) | COMM D AGGLOMERATION DU PAYS DE L OR | N/C € | N/C mois | 🟢 2022-04-19 11:00:00 | Accès Très Haut Débit à débits garantis, VPN MPLS- sortie coeur de réseau et firewall coeur de réseau | *firewall*|
+| 🔥 [22-46195](https://www.boamp.fr/avis/detail/22-46195) | CPAM du Bas Rhin | N/C € | N/C mois | 🟢 2022-05-02 14:00:00 | Le titulaire devra fournir et installer un système complet pour l'animation et la présentation audio et vidéo au sein d'une salle de réunion afin de permettre l'organisation de réunion en mode visioconférence et permettant d'intégrer des intervenants externes. | *logiciels*|
+| [22-44075](https://www.boamp.fr/avis/detail/22-44075) | COMM D AGGLOMERATION DU PAYS DE L OR | N/C € | N/C mois | 🟡 2022-04-19 11:00:00 | Accès Très Haut Débit à débits garantis, VPN MPLS- sortie coeur de réseau et firewall coeur de réseau | *firewall*|
 | 🔥 [22-45788](https://www.boamp.fr/avis/detail/22-45788) | Comité Martiniquais du Tourisme | N/C € | N/C mois | 🟡 2022-04-15 17:00:00 | LOGISTIQUE TERRE TRANSAT CAP MARTINIQUE | *wifi*|
 | [22-37473](https://www.boamp.fr/avis/detail/22-37473) | Ville de Gap | N/C € | N/C mois | 🟡 2022-04-15 10:00:00 | Assistance à maîtrise d'ouvrage (AMO) en vue de la passation du marché de renouvellement de l'appel malade et des systèmes de télécommunication de l'EHPAD les 3 Fontaines - Saint Mens | *wifi*|
 | [22-27422](https://www.boamp.fr/avis/detail/22-27422) | Bordeaux Métropole | N/C € | N/C mois | 🔴 2022-04-05 11:00:00 | Formation à l'environnement bureautique et informatique des agents de Bordeaux Métropole | *informatique*|
@@ -27,4 +27,4 @@
 | [22-37050](https://www.boamp.fr/avis/detail/22-37050) | CENTRE HOSPITALIER GENERAL DE CHARTRES | N/C € | N/C mois | 🔴 2022-04-08 11:00:00 | Accord cadre à bons de commandes - Travaux de câblage informatique pour le CH de Chartres | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 30/03/2022 02:40:05_
+_Dernière mise à jour : Thursday 31/03/2022 02:36:54_
