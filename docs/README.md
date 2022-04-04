@@ -24,8 +24,8 @@
 | [22-43090](https://www.boamp.fr/avis/detail/22-43090) | GENOPOLE | N/C € | N/C mois | 🟡 2022-04-21 11:00:00 | Le marché a pour objet la fourniture, l'installation, de matériels et de solutions informatiques pour les services du GIP GENOPOLE, ainsi que les prestations associées à ces solutions. Le matériel sera livré et installé sur le site du GIP. Ce site se situe à Evry-Courcouronnes? Fourniture du matériel Audio/Vidéo dans la salle de Conférence? Prestations déploiementsLe détail des prestations figure au Cahier des Clauses Techniques Particulières (CCTP). | *informatique*|
 | [22-37050](https://www.boamp.fr/avis/detail/22-37050) | CENTRE HOSPITALIER GENERAL DE CHARTRES | N/C € | N/C mois | 🔴 2022-04-08 11:00:00 | Accord cadre à bons de commandes - Travaux de câblage informatique pour le CH de Chartres | *informatique*|
 | [22-47117](https://www.boamp.fr/avis/detail/22-47117) | COMMUNE DE VENISSIEUX | N/C € | N/C mois | 🟢 2022-04-26 11:00:00 | Mise à disposition de bacs roulants opérationnels pour assurer la collecte des ordures ménagères et assimilés pour les bâtiments municipaux ainsi que pour les deux cimetières | *informatique*|
-| 🔥 [22-48124](https://www.boamp.fr/avis/detail/22-48124) | SOC DE LA MOBILITE DE AGGL TOULOUSAINE | N/C € | N/C mois | 🟡 2022-04-19 11:00:00 | Le présent marché a pour objet l'acquisition et la livraison de matériels informatiques(PC portables et stations d'accueil) | *informatique*|
+| [22-48124](https://www.boamp.fr/avis/detail/22-48124) | SOC DE LA MOBILITE DE AGGL TOULOUSAINE | N/C € | N/C mois | 🟡 2022-04-19 11:00:00 | Le présent marché a pour objet l'acquisition et la livraison de matériels informatiques(PC portables et stations d'accueil) | *informatique*|
 | [22-46937](https://www.boamp.fr/avis/detail/22-46937) | CC DE SEILLE ET GRAND COURONNE | N/C € | N/C mois | 🟢 2022-04-25 11:00:00 | Acquisition de matériel informatique pour les sites scolaires | *informatique*|
 
 
-_Dernière mise à jour : Sunday 03/04/2022 02:35:22_
+_Dernière mise à jour : Monday 04/04/2022 02:46:39_
