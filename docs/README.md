@@ -3,9 +3,7 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| [22-37384](https://www.boamp.fr/avis/detail/22-37384) | OPH - Var Habitat | N/C € | N/C mois | 🔴 2022-04-04 11:00:00 | Souscription à un service de signature électronique | *cloud*|
 | [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟢 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
-| [22-35672](https://www.boamp.fr/avis/detail/22-35672) | Université Paris 8 | N/C € | N/C mois | 🔴 2022-04-04 11:00:00 | Mission de maîtrise d'oeuvreCurage, renforcement structurel et sécurisation pour deux futures salles serveurs - Campus Saint-Denis | *serveur*|
 | [22-45955](https://www.boamp.fr/avis/detail/22-45955) | DEPARTEMENT DU TERRITOIRE DE BELFORT | N/C € | N/C mois | 🟡 2022-04-20 09:00:00 | Optimisation de la climatisation du local serveur à l'Hôtel du Département | *serveur*|
 | [22-44768](https://www.boamp.fr/avis/detail/22-44768) | Territoire d'Energie Lot-et-Garonne | N/C € | N/C mois | 🟢 2022-04-25 11:00:00 | Fourniture de matériel informatique | *microsoft*|
 | [22-33140](https://www.boamp.fr/avis/detail/22-33140) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🔴 2022-04-06 11:00:00 | Maintenance, acquisition, évolutions et prestations associées au logiciel de manipulation de données spatiales FME | *logiciels*|
@@ -19,13 +17,13 @@
 | [22-37473](https://www.boamp.fr/avis/detail/22-37473) | Ville de Gap | N/C € | N/C mois | 🟡 2022-04-15 10:00:00 | Assistance à maîtrise d'ouvrage (AMO) en vue de la passation du marché de renouvellement de l'appel malade et des systèmes de télécommunication de l'EHPAD les 3 Fontaines - Saint Mens | *wifi*|
 | [22-27422](https://www.boamp.fr/avis/detail/22-27422) | Bordeaux Métropole | N/C € | N/C mois | 🔴 2022-04-05 11:00:00 | Formation à l'environnement bureautique et informatique des agents de Bordeaux Métropole | *informatique*|
 | [22-30485](https://www.boamp.fr/avis/detail/22-30485) | OPH de la Haute-Savoie | N/C € | N/C mois | 🟡 2022-04-22 11:00:00 | Fourniture d'une solution informatique pour assurer la gestion du planning du Pôle Relation Client de Haute-Savoie HABITAT | *informatique*|
-| [22-36551](https://www.boamp.fr/avis/detail/22-36551) | COMMUNE DE VAL D ISERE | N/C € | N/C mois | 🔴 2022-04-04 12:00:00 | ACQUISITION DE MATERIELS INFORMATIQUE | *informatique*|
 | [22-40429](https://www.boamp.fr/avis/detail/22-40429) | COMMUNE DE VRED | N/C € | N/C mois | 🔴 2022-04-08 16:00:00 | ASSISTANCE ET MAINTENANCE INFORMATIQUE | *informatique*|
 | [22-43090](https://www.boamp.fr/avis/detail/22-43090) | GENOPOLE | N/C € | N/C mois | 🟡 2022-04-21 11:00:00 | Le marché a pour objet la fourniture, l'installation, de matériels et de solutions informatiques pour les services du GIP GENOPOLE, ainsi que les prestations associées à ces solutions. Le matériel sera livré et installé sur le site du GIP. Ce site se situe à Evry-Courcouronnes? Fourniture du matériel Audio/Vidéo dans la salle de Conférence? Prestations déploiementsLe détail des prestations figure au Cahier des Clauses Techniques Particulières (CCTP). | *informatique*|
 | [22-37050](https://www.boamp.fr/avis/detail/22-37050) | CENTRE HOSPITALIER GENERAL DE CHARTRES | N/C € | N/C mois | 🔴 2022-04-08 11:00:00 | Accord cadre à bons de commandes - Travaux de câblage informatique pour le CH de Chartres | *informatique*|
+| 🔥 [22-48816](https://www.boamp.fr/avis/detail/22-48816) | Com d'aggloTarbes Lourdes Pyrénées | N/C € | N/C mois | 🟢 2022-05-06 16:00:00 | Services topographiques | *informatique*|
 | [22-47117](https://www.boamp.fr/avis/detail/22-47117) | COMMUNE DE VENISSIEUX | N/C € | N/C mois | 🟢 2022-04-26 11:00:00 | Mise à disposition de bacs roulants opérationnels pour assurer la collecte des ordures ménagères et assimilés pour les bâtiments municipaux ainsi que pour les deux cimetières | *informatique*|
 | [22-48124](https://www.boamp.fr/avis/detail/22-48124) | SOC DE LA MOBILITE DE AGGL TOULOUSAINE | N/C € | N/C mois | 🟡 2022-04-19 11:00:00 | Le présent marché a pour objet l'acquisition et la livraison de matériels informatiques(PC portables et stations d'accueil) | *informatique*|
 | [22-46937](https://www.boamp.fr/avis/detail/22-46937) | CC DE SEILLE ET GRAND COURONNE | N/C € | N/C mois | 🟢 2022-04-25 11:00:00 | Acquisition de matériel informatique pour les sites scolaires | *informatique*|
 
 
-_Dernière mise à jour : Monday 04/04/2022 02:46:39_
+_Dernière mise à jour : Tuesday 05/04/2022 02:36:37_
