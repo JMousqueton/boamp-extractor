@@ -7,7 +7,9 @@ vmware
 virtualisation
 ESX
 x86
+cloud public
 cloud
+hybrid
 hybride
 hypervision
 datacenter
