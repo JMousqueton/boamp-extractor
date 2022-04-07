@@ -1,7 +1,7 @@
 # Statistiques
 
 
-_Dernière mise à jour : Thursday 07/04/2022 02:35:12 (UTC)_ 
+_Dernière mise à jour : Thursday 07/04/2022 09:57:08 (UTC)_ 
 
 Il y a `21`Appels d'Offre référencés sur les mots clefs choisis
 
@@ -10,4 +10,4 @@ Il y a `21`Appels d'Offre référencés sur les mots clefs choisis
 - 🟡  `9` Appels d'Offre expirent dans moins de `20` jours
 - 🟢  `6` Appels d'Offre expirent dans plus de `20` jours
 
-- 🗝 `33` mots-clés
+- 🗝 `35` mots-clés

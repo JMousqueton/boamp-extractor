@@ -26,4 +26,4 @@
 | [22-46937](https://www.boamp.fr/avis/detail/22-46937) | CC DE SEILLE ET GRAND COURONNE | N/C € | N/C mois | 🟡 2022-04-25 11:00:00 | Acquisition de matériel informatique pour les sites scolaires | *informatique*|
 
 
-_Dernière mise à jour : Thursday 07/04/2022 02:35:12_
+_Dernière mise à jour : Thursday 07/04/2022 09:57:08_
