@@ -8,6 +8,8 @@ virtualisation
 ESX
 x86
 cloud
+hybride
+hypervision
 datacenter
 centre de donnees
 infrastructures systemes
