@@ -10,6 +10,7 @@
 | [22-40113](https://www.boamp.fr/avis/detail/22-40113) | COMMUNE DE CHEVIGNY SAINT SAUVEUR | N/C € | N/C mois | 🔴 2022-04-11 11:00:00 | Rénovation de la station essence du centre technique municipalFourniture nouvelle pompe et solution logicielle de suivi. | *logiciels*|
 | [22-45510](https://www.boamp.fr/avis/detail/22-45510) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🟢 2022-05-03 11:00:00 | Acquisition, mise en oeuvre et maintenance d'un logiciel de gestion des métadonnées du Système d'Information Géographique du Département de la Savoie | *logiciels*|
 | [22-44312](https://www.boamp.fr/avis/detail/22-44312) | Troyes Champagne Métropole | N/C € | N/C mois | 🟡 2022-04-18 16:00:00 | Droit d'accès à une application de gestion pour l'aire d'accueil de camping-cars et installations connexes | *logiciels*|
+| 🔥 [22-50830](https://www.boamp.fr/avis/detail/22-50830) | Cté d'agglo Coulommiers Pays de Brie | N/C € | N/C mois | 🟡 2022-04-26 11:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion des fluides et des contrôles d'accès dans le cadre de l'opération Ferté Confluences | *logiciels*|
 | [22-46195](https://www.boamp.fr/avis/detail/22-46195) | CPAM du Bas Rhin | N/C € | N/C mois | 🟢 2022-05-02 14:00:00 | Le titulaire devra fournir et installer un système complet pour l'animation et la présentation audio et vidéo au sein d'une salle de réunion afin de permettre l'organisation de réunion en mode visioconférence et permettant d'intégrer des intervenants externes. | *logiciels*|
 | 🔥 [22-50163](https://www.boamp.fr/avis/detail/22-50163) | Institut National de Jeunes Sourds 73 | N/C € | N/C mois | 🟢 2022-04-29 11:00:00 | FOURNITURE D'UN LOGICIEL DE GESTION FINANCIERE ET PRESTATIONS ASSOCIEES (GBCP) | *logiciels*|
 | [22-44075](https://www.boamp.fr/avis/detail/22-44075) | COMM D AGGLOMERATION DU PAYS DE L OR | N/C € | N/C mois | 🟡 2022-04-19 11:00:00 | Accès Très Haut Débit à débits garantis, VPN MPLS- sortie coeur de réseau et firewall coeur de réseau | *firewall*|
@@ -26,4 +27,4 @@
 | [22-46937](https://www.boamp.fr/avis/detail/22-46937) | CC DE SEILLE ET GRAND COURONNE | N/C € | N/C mois | 🟡 2022-04-25 11:00:00 | Acquisition de matériel informatique pour les sites scolaires | *informatique*|
 
 
-_Dernière mise à jour : Thursday 07/04/2022 09:57:08_
+_Dernière mise à jour : Friday 08/04/2022 02:44:38_
