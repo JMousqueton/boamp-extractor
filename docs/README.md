@@ -4,7 +4,7 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟢 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
-| [22-45955](https://www.boamp.fr/avis/detail/22-45955) | DEPARTEMENT DU TERRITOIRE DE BELFORT | N/C € | N/C mois | 🟡 2022-04-20 09:00:00 | Optimisation de la climatisation du local serveur à l'Hôtel du Département | *serveur*|
+| [22-45955](https://www.boamp.fr/avis/detail/22-45955) | DEPARTEMENT DU TERRITOIRE DE BELFORT | N/C € | N/C mois | 🔴 2022-04-20 09:00:00 | Optimisation de la climatisation du local serveur à l'Hôtel du Département | *serveur*|
 | [22-44768](https://www.boamp.fr/avis/detail/22-44768) | Territoire d'Energie Lot-et-Garonne | N/C € | N/C mois | 🟡 2022-04-25 11:00:00 | Fourniture de matériel informatique | *microsoft*|
 | [22-43423](https://www.boamp.fr/avis/detail/22-43423) | COMMUNE DE MONTIGNY EN GOHELLE | N/C € | N/C mois | 🔴 2022-04-15 15:00:00 | Mise en place de contrôle d'accès dans divers bâtiments communaux | *logiciels*|
 | [22-40113](https://www.boamp.fr/avis/detail/22-40113) | COMMUNE DE CHEVIGNY SAINT SAUVEUR | N/C € | N/C mois | 🔴 2022-04-11 11:00:00 | Rénovation de la station essence du centre technique municipalFourniture nouvelle pompe et solution logicielle de suivi. | *logiciels*|
@@ -25,4 +25,4 @@
 | [22-46937](https://www.boamp.fr/avis/detail/22-46937) | CC DE SEILLE ET GRAND COURONNE | N/C € | N/C mois | 🟡 2022-04-25 11:00:00 | Acquisition de matériel informatique pour les sites scolaires | *informatique*|
 
 
-_Dernière mise à jour : Sunday 10/04/2022 02:38:08_
+_Dernière mise à jour : Monday 11/04/2022 02:51:02_
