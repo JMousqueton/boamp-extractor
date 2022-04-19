@@ -9,7 +9,6 @@
 | [22-45955](https://www.boamp.fr/avis/detail/22-45955) | DEPARTEMENT DU TERRITOIRE DE BELFORT | N/C € | N/C mois | 🔴 2022-04-20 09:00:00 | Optimisation de la climatisation du local serveur à l'Hôtel du Département | *serveur*|
 | [22-44768](https://www.boamp.fr/avis/detail/22-44768) | Territoire d'Energie Lot-et-Garonne | N/C € | N/C mois | 🔴 2022-04-25 11:00:00 | Fourniture de matériel informatique | *microsoft*|
 | [22-45510](https://www.boamp.fr/avis/detail/22-45510) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🟡 2022-05-03 11:00:00 | Acquisition, mise en oeuvre et maintenance d'un logiciel de gestion des métadonnées du Système d'Information Géographique du Département de la Savoie | *logiciels*|
-| [22-44312](https://www.boamp.fr/avis/detail/22-44312) | Troyes Champagne Métropole | N/C € | N/C mois | 🔴 2022-04-18 16:00:00 | Droit d'accès à une application de gestion pour l'aire d'accueil de camping-cars et installations connexes | *logiciels*|
 | [22-50830](https://www.boamp.fr/avis/detail/22-50830) | Cté d'agglo Coulommiers Pays de Brie | N/C € | N/C mois | 🔴 2022-04-26 11:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion des fluides et des contrôles d'accès dans le cadre de l'opération Ferté Confluences | *logiciels*|
 | [22-52515](https://www.boamp.fr/avis/detail/22-52515) | Intercom Bernay Terres de Normandie | N/C € | N/C mois | 🟢 2022-05-13 15:00:00 | Fourniture d'un logiciel de gestion administrative et financière du service déchets ménagers | *logiciels*|
 | [22-55050](https://www.boamp.fr/avis/detail/22-55050) | SYMCTOM | N/C € | N/C mois | 🟢 2022-05-19 11:00:00 | Fourniture d'un logiciel de gestion des contenants de collecte des déchets ménagers et de la redevance incitative | *logiciels*|
@@ -32,4 +31,4 @@
 | [22-54715](https://www.boamp.fr/avis/detail/22-54715) | GRAND PORT MARITIME DE MARSEILLE | N/C € | N/C mois | 🟡 2022-05-03 15:00:00 | FORMATION INFORMATIQUE | *informatique*|
 
 
-_Dernière mise à jour : Monday 18/04/2022 02:57:01_
+_Dernière mise à jour : Tuesday 19/04/2022 03:02:43_
