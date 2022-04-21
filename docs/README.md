@@ -6,7 +6,6 @@
 | [22-53730](https://www.boamp.fr/avis/detail/22-53730) | COMMUNAUTE D AGGLO MARNE ET GONDOIRE | N/C € | N/C mois | 🔴 2022-04-29 11:00:00 | MISSION D'ASSISTANCE A MAITRISE D'OUVRAGE POUR L'ORGANISATION ET LA MISE EN OEUVRE DU MODE DE GESTION RETENU DANS LE CADRE DE LA CONSTRUCTION D'UN CENTRE AQUATIQUE INTERCOMMUNAL A BUSSY SAINT GEORGES | *centre de donnees*|
 | [21-111540](https://www.boamp.fr/avis/detail/21-111540) | MINARM/DMAé/SSAM33503 | N/C € | N/C mois | 🟢 2022-05-16 10:00:00 | Maintien en Condition Opérationnelle (MCO) des équipements spéciaux d'infrastructure (courants forts, courants faibles, incendie, climatisation et portes) du module durci du Système de Dernier Recours (SYDEREC) de la base aérienne 118 de Mont de Marsan | *infrastructures systemes*|
 | [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟢 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
-| [22-45955](https://www.boamp.fr/avis/detail/22-45955) | DEPARTEMENT DU TERRITOIRE DE BELFORT | N/C € | N/C mois | 🔴 2022-04-20 09:00:00 | Optimisation de la climatisation du local serveur à l'Hôtel du Département | *serveur*|
 | [22-44768](https://www.boamp.fr/avis/detail/22-44768) | Territoire d'Energie Lot-et-Garonne | N/C € | N/C mois | 🔴 2022-04-25 11:00:00 | Fourniture de matériel informatique | *microsoft*|
 | [22-45510](https://www.boamp.fr/avis/detail/22-45510) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🟡 2022-05-03 11:00:00 | Acquisition, mise en oeuvre et maintenance d'un logiciel de gestion des métadonnées du Système d'Information Géographique du Département de la Savoie | *logiciels*|
 | [22-50830](https://www.boamp.fr/avis/detail/22-50830) | Cté d'agglo Coulommiers Pays de Brie | N/C € | N/C mois | 🔴 2022-04-26 11:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion des fluides et des contrôles d'accès dans le cadre de l'opération Ferté Confluences | *logiciels*|
@@ -29,4 +28,4 @@
 | [22-54715](https://www.boamp.fr/avis/detail/22-54715) | GRAND PORT MARITIME DE MARSEILLE | N/C € | N/C mois | 🟡 2022-05-03 15:00:00 | FORMATION INFORMATIQUE | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 20/04/2022 03:11:47_
+_Dernière mise à jour : Thursday 21/04/2022 03:04:32_
