@@ -17,7 +17,6 @@
 | [22-50163](https://www.boamp.fr/avis/detail/22-50163) | Institut National de Jeunes Sourds 73 | N/C € | N/C mois | 🔴 2022-04-29 11:00:00 | FOURNITURE D'UN LOGICIEL DE GESTION FINANCIERE ET PRESTATIONS ASSOCIEES (GBCP) | *logiciels*|
 | [22-54327](https://www.boamp.fr/avis/detail/22-54327) | FEDERATION FRANCAISE RUGBY | N/C € | N/C mois | 🟢 2022-05-13 11:00:00 | Solution de digital asset management pour la médiathèque de la FFR pour la période du 01/07/2022 au 30/06/2026. | *logiciels*|
 | [22-30485](https://www.boamp.fr/avis/detail/22-30485) | OPH de la Haute-Savoie | N/C € | N/C mois | 🔴 2022-04-22 11:00:00 | Fourniture d'une solution informatique pour assurer la gestion du planning du Pôle Relation Client de Haute-Savoie HABITAT | *informatique*|
-| [22-43090](https://www.boamp.fr/avis/detail/22-43090) | GENOPOLE | N/C € | N/C mois | 🔴 2022-04-21 11:00:00 | Le marché a pour objet la fourniture, l'installation, de matériels et de solutions informatiques pour les services du GIP GENOPOLE, ainsi que les prestations associées à ces solutions. Le matériel sera livré et installé sur le site du GIP. Ce site se situe à Evry-Courcouronnes? Fourniture du matériel Audio/Vidéo dans la salle de Conférence? Prestations déploiementsLe détail des prestations figure au Cahier des Clauses Techniques Particulières (CCTP). | *informatique*|
 | [22-48816](https://www.boamp.fr/avis/detail/22-48816) | Com d'aggloTarbes Lourdes Pyrénées | N/C € | N/C mois | 🟡 2022-05-06 16:00:00 | Services topographiques | *informatique*|
 | [22-47117](https://www.boamp.fr/avis/detail/22-47117) | COMMUNE DE VENISSIEUX | N/C € | N/C mois | 🔴 2022-04-26 11:00:00 | Mise à disposition de bacs roulants opérationnels pour assurer la collecte des ordures ménagères et assimilés pour les bâtiments municipaux ainsi que pour les deux cimetières | *informatique*|
 | [22-49752](https://www.boamp.fr/avis/detail/22-49752) | COM DE COMMUNES DU PAYS DE SOMMIERES | N/C € | N/C mois | 🟡 2022-05-06 16:00:00 | FOURNITURE CLASSES MOBILES et MATERIELS INFORMATIQUE | *informatique*|
@@ -28,4 +27,4 @@
 | [22-54715](https://www.boamp.fr/avis/detail/22-54715) | GRAND PORT MARITIME DE MARSEILLE | N/C € | N/C mois | 🟡 2022-05-03 15:00:00 | FORMATION INFORMATIQUE | *informatique*|
 
 
-_Dernière mise à jour : Thursday 21/04/2022 03:04:32_
+_Dernière mise à jour : Friday 22/04/2022 03:19:19_
