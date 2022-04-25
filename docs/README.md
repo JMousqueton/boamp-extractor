@@ -20,10 +20,10 @@
 | [22-47117](https://www.boamp.fr/avis/detail/22-47117) | COMMUNE DE VENISSIEUX | N/C € | N/C mois | 🔴 2022-04-26 11:00:00 | Mise à disposition de bacs roulants opérationnels pour assurer la collecte des ordures ménagères et assimilés pour les bâtiments municipaux ainsi que pour les deux cimetières | *informatique*|
 | [22-49752](https://www.boamp.fr/avis/detail/22-49752) | COM DE COMMUNES DU PAYS DE SOMMIERES | N/C € | N/C mois | 🟡 2022-05-06 16:00:00 | FOURNITURE CLASSES MOBILES et MATERIELS INFORMATIQUE | *informatique*|
 | [22-53174](https://www.boamp.fr/avis/detail/22-53174) | SICTIAM | N/C € | N/C mois | 🟡 2022-05-06 11:00:00 | La présente consultation porte sur l'achat de petites fournitures de bureau et papier pour les besoins du fonctionnement du SICTIAM. Le mobilier du bureau ainsi que le matériel informatique sont exclus du présent accord-cadre. | *informatique*|
-| [22-54573](https://www.boamp.fr/avis/detail/22-54573) | CANGT | N/C € | N/C mois | 🟡 2022-05-04 11:00:00 | Achat de prestations dans le cadre de la mise en oeuvre du PLIE de la CANGT : " Qualifier le projet professionnel " ' Certification International Computer Driving Licence-Passeport de compétences Informatique (ICDL-PCIE) et outils numériques de communication ' | *informatique*|
+| [22-54573](https://www.boamp.fr/avis/detail/22-54573) | CANGT | N/C € | N/C mois | 🔴 2022-05-04 11:00:00 | Achat de prestations dans le cadre de la mise en oeuvre du PLIE de la CANGT : " Qualifier le projet professionnel " ' Certification International Computer Driving Licence-Passeport de compétences Informatique (ICDL-PCIE) et outils numériques de communication ' | *informatique*|
 | [22-54946](https://www.boamp.fr/avis/detail/22-54946) | SYMCTOM | N/C € | N/C mois | 🟢 2022-05-19 11:00:00 | Fourniture et installation sur les bennes de collecte d'un système électronique d'identification pour la mise en place de la redevance incitative | *informatique*|
 | [22-46937](https://www.boamp.fr/avis/detail/22-46937) | CC DE SEILLE ET GRAND COURONNE | N/C € | N/C mois | 🔴 2022-04-25 11:00:00 | Acquisition de matériel informatique pour les sites scolaires | *informatique*|
 | [22-54715](https://www.boamp.fr/avis/detail/22-54715) | GRAND PORT MARITIME DE MARSEILLE | N/C € | N/C mois | 🔴 2022-05-03 15:00:00 | FORMATION INFORMATIQUE | *informatique*|
 
 
-_Dernière mise à jour : Sunday 24/04/2022 02:36:30_
+_Dernière mise à jour : Monday 25/04/2022 02:56:23_
