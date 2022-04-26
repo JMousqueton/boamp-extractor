@@ -3,10 +3,10 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
+| 🔥 [22-58412](https://www.boamp.fr/avis/detail/22-58412) | COMMUNE DE COUSSAC-BONNEVAL | N/C € | N/C mois | 🟢 2022-05-31 11:00:00 | Étude de programmation pour une opération de réhabilitation et d'aménagement d'un site en vue de l'accueil principal d'un tiers lieu hybride à Coussac-Bonneval | *hybride*|
 | [22-53730](https://www.boamp.fr/avis/detail/22-53730) | COMMUNAUTE D AGGLO MARNE ET GONDOIRE | N/C € | N/C mois | 🔴 2022-04-29 11:00:00 | MISSION D'ASSISTANCE A MAITRISE D'OUVRAGE POUR L'ORGANISATION ET LA MISE EN OEUVRE DU MODE DE GESTION RETENU DANS LE CADRE DE LA CONSTRUCTION D'UN CENTRE AQUATIQUE INTERCOMMUNAL A BUSSY SAINT GEORGES | *centre de donnees*|
 | [21-111540](https://www.boamp.fr/avis/detail/21-111540) | MINARM/DMAé/SSAM33503 | N/C € | N/C mois | 🟢 2022-05-16 10:00:00 | Maintien en Condition Opérationnelle (MCO) des équipements spéciaux d'infrastructure (courants forts, courants faibles, incendie, climatisation et portes) du module durci du Système de Dernier Recours (SYDEREC) de la base aérienne 118 de Mont de Marsan | *infrastructures systemes*|
 | [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟢 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
-| [22-44768](https://www.boamp.fr/avis/detail/22-44768) | Territoire d'Energie Lot-et-Garonne | N/C € | N/C mois | 🔴 2022-04-25 11:00:00 | Fourniture de matériel informatique | *microsoft*|
 | [22-45510](https://www.boamp.fr/avis/detail/22-45510) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🔴 2022-05-03 11:00:00 | Acquisition, mise en oeuvre et maintenance d'un logiciel de gestion des métadonnées du Système d'Information Géographique du Département de la Savoie | *logiciels*|
 | [22-50830](https://www.boamp.fr/avis/detail/22-50830) | Cté d'agglo Coulommiers Pays de Brie | N/C € | N/C mois | 🔴 2022-04-26 11:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion des fluides et des contrôles d'accès dans le cadre de l'opération Ferté Confluences | *logiciels*|
 | [22-52515](https://www.boamp.fr/avis/detail/22-52515) | Intercom Bernay Terres de Normandie | N/C € | N/C mois | 🟡 2022-05-13 15:00:00 | Fourniture d'un logiciel de gestion administrative et financière du service déchets ménagers | *logiciels*|
@@ -22,8 +22,7 @@
 | [22-53174](https://www.boamp.fr/avis/detail/22-53174) | SICTIAM | N/C € | N/C mois | 🟡 2022-05-06 11:00:00 | La présente consultation porte sur l'achat de petites fournitures de bureau et papier pour les besoins du fonctionnement du SICTIAM. Le mobilier du bureau ainsi que le matériel informatique sont exclus du présent accord-cadre. | *informatique*|
 | [22-54573](https://www.boamp.fr/avis/detail/22-54573) | CANGT | N/C € | N/C mois | 🔴 2022-05-04 11:00:00 | Achat de prestations dans le cadre de la mise en oeuvre du PLIE de la CANGT : " Qualifier le projet professionnel " ' Certification International Computer Driving Licence-Passeport de compétences Informatique (ICDL-PCIE) et outils numériques de communication ' | *informatique*|
 | [22-54946](https://www.boamp.fr/avis/detail/22-54946) | SYMCTOM | N/C € | N/C mois | 🟢 2022-05-19 11:00:00 | Fourniture et installation sur les bennes de collecte d'un système électronique d'identification pour la mise en place de la redevance incitative | *informatique*|
-| [22-46937](https://www.boamp.fr/avis/detail/22-46937) | CC DE SEILLE ET GRAND COURONNE | N/C € | N/C mois | 🔴 2022-04-25 11:00:00 | Acquisition de matériel informatique pour les sites scolaires | *informatique*|
 | [22-54715](https://www.boamp.fr/avis/detail/22-54715) | GRAND PORT MARITIME DE MARSEILLE | N/C € | N/C mois | 🔴 2022-05-03 15:00:00 | FORMATION INFORMATIQUE | *informatique*|
 
 
-_Dernière mise à jour : Monday 25/04/2022 02:56:23_
+_Dernière mise à jour : Tuesday 26/04/2022 03:03:45_
