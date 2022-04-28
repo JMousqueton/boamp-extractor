@@ -3,7 +3,7 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| 🔥 [22-58412](https://www.boamp.fr/avis/detail/22-58412) | COMMUNE DE COUSSAC-BONNEVAL | N/C € | N/C mois | 🟢 2022-05-31 11:00:00 | Étude de programmation pour une opération de réhabilitation et d'aménagement d'un site en vue de l'accueil principal d'un tiers lieu hybride à Coussac-Bonneval | *hybride*|
+| [22-58412](https://www.boamp.fr/avis/detail/22-58412) | COMMUNE DE COUSSAC-BONNEVAL | N/C € | N/C mois | 🟢 2022-05-31 11:00:00 | Étude de programmation pour une opération de réhabilitation et d'aménagement d'un site en vue de l'accueil principal d'un tiers lieu hybride à Coussac-Bonneval | *hybride*|
 | [22-53730](https://www.boamp.fr/avis/detail/22-53730) | COMMUNAUTE D AGGLO MARNE ET GONDOIRE | N/C € | N/C mois | 🔴 2022-04-29 11:00:00 | MISSION D'ASSISTANCE A MAITRISE D'OUVRAGE POUR L'ORGANISATION ET LA MISE EN OEUVRE DU MODE DE GESTION RETENU DANS LE CADRE DE LA CONSTRUCTION D'UN CENTRE AQUATIQUE INTERCOMMUNAL A BUSSY SAINT GEORGES | *centre de donnees*|
 | [21-111540](https://www.boamp.fr/avis/detail/21-111540) | MINARM/DMAé/SSAM33503 | N/C € | N/C mois | 🟡 2022-05-16 10:00:00 | Maintien en Condition Opérationnelle (MCO) des équipements spéciaux d'infrastructure (courants forts, courants faibles, incendie, climatisation et portes) du module durci du Système de Dernier Recours (SYDEREC) de la base aérienne 118 de Mont de Marsan | *infrastructures systemes*|
 | [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟡 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
@@ -24,4 +24,4 @@
 | [22-54715](https://www.boamp.fr/avis/detail/22-54715) | GRAND PORT MARITIME DE MARSEILLE | N/C € | N/C mois | 🔴 2022-05-03 15:00:00 | FORMATION INFORMATIQUE | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 27/04/2022 03:16:06_
+_Dernière mise à jour : Thursday 28/04/2022 03:42:12_
