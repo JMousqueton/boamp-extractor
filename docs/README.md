@@ -4,7 +4,8 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-58412](https://www.boamp.fr/avis/detail/22-58412) | COMMUNE DE COUSSAC-BONNEVAL | N/C € | N/C mois | 🟢 2022-05-31 11:00:00 | Étude de programmation pour une opération de réhabilitation et d'aménagement d'un site en vue de l'accueil principal d'un tiers lieu hybride à Coussac-Bonneval | *hybride*|
-| 🔥 [22-63265](https://www.boamp.fr/avis/detail/22-63265) | CC DU GRAND CHAMBORD | N/C € | N/C mois | 🟡 2022-05-24 11:00:00 | Mission d'Assistance à Maitrise d'Ouvrage pour le renouvellement de la gestion déléguée sur le centre aquatique du Grand Chambord et plus largement sur les équipements nautiques du territoire. | *centre de donnees*|
+| [22-63265](https://www.boamp.fr/avis/detail/22-63265) | CC DU GRAND CHAMBORD | N/C € | N/C mois | 🟡 2022-05-24 11:00:00 | Mission d'Assistance à Maitrise d'Ouvrage pour le renouvellement de la gestion déléguée sur le centre aquatique du Grand Chambord et plus largement sur les équipements nautiques du territoire. | *centre de donnees*|
+| 🔥 [22-64284](https://www.boamp.fr/avis/detail/22-64284) | IMT LILLE DOUAI | N/C € | N/C mois | 🟢 2022-06-08 11:00:00 | Le présent marché a pour objet l'achat et la livraison de deux analyseurs intégrant la technologie CAPS (Cavity Attenuated Phase Shift) pour la mesure du NO2 présent dans l'air à l'état de traces.Ces équipements sont destinés à une utilisation en recherche pour répondre au besoin du Centre d'Enseignement, Recherche et Innovation en Energie et Environnement d'IMT Nord Europe (CERI EE). | *centre de donnees*|
 | [21-111540](https://www.boamp.fr/avis/detail/21-111540) | MINARM/DMAé/SSAM33503 | N/C € | N/C mois | 🟡 2022-05-16 10:00:00 | Maintien en Condition Opérationnelle (MCO) des équipements spéciaux d'infrastructure (courants forts, courants faibles, incendie, climatisation et portes) du module durci du Système de Dernier Recours (SYDEREC) de la base aérienne 118 de Mont de Marsan | *infrastructures systemes*|
 | [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🟡 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
 | [22-60588](https://www.boamp.fr/avis/detail/22-60588) | COMMUNAUTE DE COMMUNES DE LA HTE SOMME | N/C € | N/C mois | 🟢 2022-05-31 11:00:00 | Remplacement sur serveur informatique et prestations de service | *serveur*|
@@ -26,6 +27,7 @@
 | [22-54946](https://www.boamp.fr/avis/detail/22-54946) | SYMCTOM | N/C € | N/C mois | 🟡 2022-05-19 11:00:00 | Fourniture et installation sur les bennes de collecte d'un système électronique d'identification pour la mise en place de la redevance incitative | *informatique*|
 | [22-60995](https://www.boamp.fr/avis/detail/22-60995) | Département des Pyrénées-Atlantiques | N/C € | N/C mois | 🟡 2022-05-23 15:00:00 | Mise en conformité partielle des réseaux courants faibles du collège Henri IV à Nay | *informatique*|
 | [22-62006](https://www.boamp.fr/avis/detail/22-62006) | Ville de Gisors | N/C € | N/C mois | 🟡 2022-05-17 07:00:00 | Achat de matériels et licences informatiques | *informatique*|
+| 🔥 [22-64433](https://www.boamp.fr/avis/detail/22-64433) | Commune de Sallaumines | N/C € | N/C mois | 🟢 2022-06-03 15:30:00 | Matériels vidéos et informatiques à destination des écoles sallauminoises | *informatique*|
 
 
-_Dernière mise à jour : Thursday 05/05/2022 02:58:40_
+_Dernière mise à jour : Friday 06/05/2022 02:46:35_
