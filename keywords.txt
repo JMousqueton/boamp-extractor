@@ -1,8 +1,10 @@
 virtualisation
 stockage NAS
 stockage SAN
+stockage objet
 archivage des donnees
 veeam
+sauvegarde
 vmware
 virtualisation
 ESX
