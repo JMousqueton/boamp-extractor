@@ -19,6 +19,7 @@
 | [22-63187](https://www.boamp.fr/avis/detail/22-63187) | VILLE DE LA SENTINELLE | N/C € | N/C mois | 🟡 2022-05-24 11:00:00 | Fourniture de photocopieurs multifonctions en location avec maintenance | *logiciels*|
 | [22-54327](https://www.boamp.fr/avis/detail/22-54327) | FEDERATION FRANCAISE RUGBY | N/C € | N/C mois | 🔴 2022-05-13 11:00:00 | Solution de digital asset management pour la médiathèque de la FFR pour la période du 01/07/2022 au 30/06/2026. | *logiciels*|
 | [22-63771](https://www.boamp.fr/avis/detail/22-63771) | Ville de Bourg de Péage | N/C € | N/C mois | 🟢 2022-05-30 15:00:00 | Maintenance des bâtiments communaux | *logiciels*|
+| 🔥 [22-65961](https://www.boamp.fr/avis/detail/22-65961) | COMMUNE DE TERGNIER | N/C € | N/C mois | 🟢 2022-06-10 11:00:00 | Migration superviseur GTC TREND 963 en superviseur TREND IQVision et maintenance, pour la Ville de Tergnier et l'EPL Conservatoire Municipal de Musique de TergnierDans le cadre des travaux réalisés ces dernières années, la Ville de Tergnier et l'EPL Conservatoire Municipal de Musique de Tergnier se sont dotés de systèmes de GTC (Gestion Technique Centralisée) afin de réguler et contrôler les équipements techniques (domaine chauffage) de leurs bâtiments.-. | *logiciels*|
 | [22-65315](https://www.boamp.fr/avis/detail/22-65315) | OPH - Var Habitat | N/C € | N/C mois | 🟡 2022-05-23 11:00:00 | Logiciel de prise de contrôle à distance (PC, mobiles Android et Ios) | *logiciels*|
 | [22-65556](https://www.boamp.fr/avis/detail/22-65556) | Cté d'Agglo du centre de la Martinique | N/C € | N/C mois | 🟢 2022-06-08 11:00:00 | Le contrat porte sur les prestations suivantes : Fourniture, mise en oeuvre et maintenance d'une solution de firewall Nouvelle Génération redondée pour les services de la CACEM | *firewall*|
 | [22-59575](https://www.boamp.fr/avis/detail/22-59575) | COMMUNE DE TERGNIER | N/C € | N/C mois | 🟢 2022-06-03 11:00:00 | Acquisition de matériel informatique pour la Ville de TergnierAjout d'ordinateurs de bureau, de portables et de système d'impression utilisés par l'ensemble des services de la commune et des établissements scolaires.Concerne également l'achat de fournitures réseaux et de matériel de vidéo-projection.-. | *wifi*|
@@ -29,4 +30,4 @@
 | [22-65269](https://www.boamp.fr/avis/detail/22-65269) | Ville de Billy-Berclau | N/C € | N/C mois | 🟢 2022-05-31 11:00:00 | Fourniture de matériel informatique avec maintenance et assistance | *informatique*|
 
 
-_Dernière mise à jour : Monday 09/05/2022 17:34:13_
+_Dernière mise à jour : Tuesday 10/05/2022 02:24:22_
