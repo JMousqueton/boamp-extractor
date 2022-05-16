@@ -4,10 +4,10 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-64284](https://www.boamp.fr/avis/detail/22-64284) | IMT LILLE DOUAI | N/C € | N/C mois | 🟢 2022-06-08 11:00:00 | Le présent marché a pour objet l'achat et la livraison de deux analyseurs intégrant la technologie CAPS (Cavity Attenuated Phase Shift) pour la mesure du NO2 présent dans l'air à l'état de traces.Ces équipements sont destinés à une utilisation en recherche pour répondre au besoin du Centre d'Enseignement, Recherche et Innovation en Energie et Environnement d'IMT Nord Europe (CERI EE). | *stockage objet*|
-| 🔥 [22-68752](https://www.boamp.fr/avis/detail/22-68752) | Métropole de Lyon | N/C € | N/C mois | 🟢 2022-06-24 16:00:00 | Marché de maintenance des armoires rotatives de classement de la Métropole de Lyon | *stockage objet*|
+| [22-68752](https://www.boamp.fr/avis/detail/22-68752) | Métropole de Lyon | N/C € | N/C mois | 🟢 2022-06-24 16:00:00 | Marché de maintenance des armoires rotatives de classement de la Métropole de Lyon | *stockage objet*|
 | [22-67931](https://www.boamp.fr/avis/detail/22-67931) | GRENOBLE-ALPES METROPOLE | N/C € | N/C mois | 🟢 2022-06-16 14:00:00 | Prestation de géomètre pour la mise à jour du plan cadastrale de la crique centrale et de la crique sud de la galerie d'Arlequin à Villeneuve à Grenoble | *sauvegarde*|
 | [22-66776](https://www.boamp.fr/avis/detail/22-66776) | Maison Depart de Retraite de l'Yonne | N/C € | N/C mois | 🟢 2022-06-09 11:00:00 | Projet de mise en oeuvre d'une infrastructure de serveurs virtuels et de sauvegarde | *sauvegarde*|
-| 🔥 [22-68694](https://www.boamp.fr/avis/detail/22-68694) | Communauté Communes Parthenay-Gâtine | N/C € | N/C mois | 🟢 2022-06-20 11:00:00 | Prestation de service pour le nettoyage des vitreries des bâtiments communautaires - Communauté de Communes Parthenay-Gâtine | *cloud public*|
+| [22-68694](https://www.boamp.fr/avis/detail/22-68694) | Communauté Communes Parthenay-Gâtine | N/C € | N/C mois | 🟢 2022-06-20 11:00:00 | Prestation de service pour le nettoyage des vitreries des bâtiments communautaires - Communauté de Communes Parthenay-Gâtine | *cloud public*|
 | [22-58412](https://www.boamp.fr/avis/detail/22-58412) | COMMUNE DE COUSSAC-BONNEVAL | N/C € | N/C mois | 🟡 2022-05-31 11:00:00 | Étude de programmation pour une opération de réhabilitation et d'aménagement d'un site en vue de l'accueil principal d'un tiers lieu hybride à Coussac-Bonneval | *hybride*|
 | [22-63265](https://www.boamp.fr/avis/detail/22-63265) | CC DU GRAND CHAMBORD | N/C € | N/C mois | 🔴 2022-05-24 11:00:00 | Mission d'Assistance à Maitrise d'Ouvrage pour le renouvellement de la gestion déléguée sur le centre aquatique du Grand Chambord et plus largement sur les équipements nautiques du territoire. | *centre de donnees*|
 | [21-111540](https://www.boamp.fr/avis/detail/21-111540) | MINARM/DMAé/SSAM33503 | N/C € | N/C mois | 🔴 2022-05-16 10:00:00 | Maintien en Condition Opérationnelle (MCO) des équipements spéciaux d'infrastructure (courants forts, courants faibles, incendie, climatisation et portes) du module durci du Système de Dernier Recours (SYDEREC) de la base aérienne 118 de Mont de Marsan | *infrastructures systemes*|
@@ -34,4 +34,4 @@
 | [22-65269](https://www.boamp.fr/avis/detail/22-65269) | Ville de Billy-Berclau | N/C € | N/C mois | 🟡 2022-05-31 11:00:00 | Fourniture de matériel informatique avec maintenance et assistance | *informatique*|
 
 
-_Dernière mise à jour : Sunday 15/05/2022 02:56:35_
+_Dernière mise à jour : Monday 16/05/2022 02:41:10_
