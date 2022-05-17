@@ -8,10 +8,9 @@
 | [22-67931](https://www.boamp.fr/avis/detail/22-67931) | GRENOBLE-ALPES METROPOLE | N/C € | N/C mois | 🟢 2022-06-16 14:00:00 | Prestation de géomètre pour la mise à jour du plan cadastrale de la crique centrale et de la crique sud de la galerie d'Arlequin à Villeneuve à Grenoble | *sauvegarde*|
 | [22-66776](https://www.boamp.fr/avis/detail/22-66776) | Maison Depart de Retraite de l'Yonne | N/C € | N/C mois | 🟢 2022-06-09 11:00:00 | Projet de mise en oeuvre d'une infrastructure de serveurs virtuels et de sauvegarde | *sauvegarde*|
 | [22-68694](https://www.boamp.fr/avis/detail/22-68694) | Communauté Communes Parthenay-Gâtine | N/C € | N/C mois | 🟢 2022-06-20 11:00:00 | Prestation de service pour le nettoyage des vitreries des bâtiments communautaires - Communauté de Communes Parthenay-Gâtine | *cloud public*|
+| 🔥 [22-69738](https://www.boamp.fr/avis/detail/22-69738) | Centre Hospitalier Simone Veil | N/C € | N/C mois | 🟡 2022-06-01 11:00:00 | Diagnostic fonctionnel d'un EHPAD du Centre Hospitalier Simone Veil de Blois | *cloud*|
 | [22-58412](https://www.boamp.fr/avis/detail/22-58412) | COMMUNE DE COUSSAC-BONNEVAL | N/C € | N/C mois | 🟡 2022-05-31 11:00:00 | Étude de programmation pour une opération de réhabilitation et d'aménagement d'un site en vue de l'accueil principal d'un tiers lieu hybride à Coussac-Bonneval | *hybride*|
 | [22-63265](https://www.boamp.fr/avis/detail/22-63265) | CC DU GRAND CHAMBORD | N/C € | N/C mois | 🔴 2022-05-24 11:00:00 | Mission d'Assistance à Maitrise d'Ouvrage pour le renouvellement de la gestion déléguée sur le centre aquatique du Grand Chambord et plus largement sur les équipements nautiques du territoire. | *centre de donnees*|
-| [21-111540](https://www.boamp.fr/avis/detail/21-111540) | MINARM/DMAé/SSAM33503 | N/C € | N/C mois | 🔴 2022-05-16 10:00:00 | Maintien en Condition Opérationnelle (MCO) des équipements spéciaux d'infrastructure (courants forts, courants faibles, incendie, climatisation et portes) du module durci du Système de Dernier Recours (SYDEREC) de la base aérienne 118 de Mont de Marsan | *infrastructures systemes*|
-| [22-29840](https://www.boamp.fr/avis/detail/22-29840) | EAU DU MORBIHAN | N/C € | N/C mois | 🔴 2022-05-16 11:00:00 | Plan de Reprise d'Activité - Hébergement de données répliquées | *serveur*|
 | [22-60588](https://www.boamp.fr/avis/detail/22-60588) | COMMUNAUTE DE COMMUNES DE LA HTE SOMME | N/C € | N/C mois | 🟡 2022-05-31 11:00:00 | Remplacement sur serveur informatique et prestations de service | *serveur*|
 | [22-62262](https://www.boamp.fr/avis/detail/22-62262) | SCA/PFAF SO | N/C € | N/C mois | 🟢 2022-06-07 11:00:00 | Réalisation de documentation technique au profit du Centre de Documentation Technique de l'Armée de l'Air (CDTAA) de Romorantin (41) | *microsoft*|
 | [22-55050](https://www.boamp.fr/avis/detail/22-55050) | SYMCTOM | N/C € | N/C mois | 🔴 2022-05-19 11:00:00 | Fourniture d'un logiciel de gestion des contenants de collecte des déchets ménagers et de la redevance incitative | *logiciels*|
@@ -34,4 +33,4 @@
 | [22-65269](https://www.boamp.fr/avis/detail/22-65269) | Ville de Billy-Berclau | N/C € | N/C mois | 🟡 2022-05-31 11:00:00 | Fourniture de matériel informatique avec maintenance et assistance | *informatique*|
 
 
-_Dernière mise à jour : Monday 16/05/2022 02:41:10_
+_Dernière mise à jour : Tuesday 17/05/2022 03:03:15_
