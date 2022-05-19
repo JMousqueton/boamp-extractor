@@ -1,13 +1,13 @@
 # Statistiques
 
 
-_Dernière mise à jour : Wednesday 18/05/2022 02:58:17 (UTC)_ 
+_Dernière mise à jour : Thursday 19/05/2022 03:05:12 (UTC)_ 
 
-Il y a `28`Appels d'Offre référencés sur les mots clefs choisis
+Il y a `31`Appels d'Offre référencés sur les mots clefs choisis
 
-- 🔥 `2` nouveaux Appels d'Offre sont appararus dans les derniers `3` jours
+- 🔥 `5` nouveaux Appels d'Offre sont appararus dans les derniers `3` jours
 - 🔴  `8` Appels d'Offre expirent dans moins de `10` jours
-- 🟡  `8` Appels d'Offre expirent dans moins de `20` jours
-- 🟢  `12` Appels d'Offre expirent dans plus de `20` jours
+- 🟡  `10` Appels d'Offre expirent dans moins de `20` jours
+- 🟢  `13` Appels d'Offre expirent dans plus de `20` jours
 
 - 🗝 `39` mots-clés
