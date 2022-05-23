@@ -5,6 +5,7 @@
 |---|---|---|---|---|---|---|
 | [22-64284](https://www.boamp.fr/avis/detail/22-64284) | IMT LILLE DOUAI | N/C € | N/C mois | 🟡 2022-06-08 11:00:00 | Le présent marché a pour objet l'achat et la livraison de deux analyseurs intégrant la technologie CAPS (Cavity Attenuated Phase Shift) pour la mesure du NO2 présent dans l'air à l'état de traces.Ces équipements sont destinés à une utilisation en recherche pour répondre au besoin du Centre d'Enseignement, Recherche et Innovation en Energie et Environnement d'IMT Nord Europe (CERI EE). | *stockage objet*|
 | [22-68752](https://www.boamp.fr/avis/detail/22-68752) | Métropole de Lyon | N/C € | N/C mois | 🟢 2022-06-24 16:00:00 | Marché de maintenance des armoires rotatives de classement de la Métropole de Lyon | *stockage objet*|
+| 🔥 [22-72587](https://www.boamp.fr/avis/detail/22-72587) | Atelier Idustriel de l'Aéronautique | N/C € | N/C mois | 🟢 2022-06-23 13:00:00 | Maintenance préventive et curative des stockeurs rotatifs et des tours de stockage à l'AIA CF, démantèlement des matériels réformés et transfert des unités de stockage du site de Toul à Clermont-Ferrand | *stockage objet*|
 | [22-67931](https://www.boamp.fr/avis/detail/22-67931) | GRENOBLE-ALPES METROPOLE | N/C € | N/C mois | 🟢 2022-06-16 14:00:00 | Prestation de géomètre pour la mise à jour du plan cadastrale de la crique centrale et de la crique sud de la galerie d'Arlequin à Villeneuve à Grenoble | *sauvegarde*|
 | [22-66776](https://www.boamp.fr/avis/detail/22-66776) | Maison Depart de Retraite de l'Yonne | N/C € | N/C mois | 🟡 2022-06-09 11:00:00 | Projet de mise en oeuvre d'une infrastructure de serveurs virtuels et de sauvegarde | *sauvegarde*|
 | [22-71211](https://www.boamp.fr/avis/detail/22-71211) | Etablissement Public Foncier IDF | N/C € | N/C mois | 🟢 2022-06-30 11:00:00 | Conception et animation d'un cycle de conférences à destination des copropriétaires et/ou habitants, portant sur les enjeux de la copropriété, du plan de sauvegarde et de l'ORCOD | *sauvegarde*|
@@ -31,8 +32,8 @@
 | [22-70448](https://www.boamp.fr/avis/detail/22-70448) | Sceaux Bourg-La-Reine Habitat | N/C € | N/C mois | 🟡 2022-06-03 13:00:00 | Marché de prestations de service d'assistance et de maintenance informatique | *informatique*|
 | [22-70965](https://www.boamp.fr/avis/detail/22-70965) | SPL Paris et Métropole aménagement | N/C € | N/C mois | 🟢 2022-06-13 11:00:00 | Accord-cadre à bons de commande portant sur des prestations de maintenance du parc informatique de Paris & Métropole aménagement et d'assistance | *informatique*|
 | [22-71918](https://www.boamp.fr/avis/detail/22-71918) | Cté de Communes du canton de Blaye | N/C € | N/C mois | 🟡 2022-06-07 09:00:00 | Maintenance du matériel informatique des bâtiments de la Communauté de Communes de Blaye et de son Centre Intercommunal d'Action Sociale | *informatique*|
-| 🔥 [22-72292](https://www.boamp.fr/avis/detail/22-72292) | COMMUNE DE HARNES | N/C € | N/C mois | 🟢 2022-06-27 11:00:00 | Fourniture de matériels informatiques, réseaux et systèmes d'impression | *informatique*|
+| [22-72292](https://www.boamp.fr/avis/detail/22-72292) | COMMUNE DE HARNES | N/C € | N/C mois | 🟢 2022-06-27 11:00:00 | Fourniture de matériels informatiques, réseaux et systèmes d'impression | *informatique*|
 | [22-65269](https://www.boamp.fr/avis/detail/22-65269) | Ville de Billy-Berclau | N/C € | N/C mois | 🔴 2022-05-31 11:00:00 | Fourniture de matériel informatique avec maintenance et assistance | *informatique*|
 
 
-_Dernière mise à jour : Sunday 22/05/2022 02:50:09_
+_Dernière mise à jour : Monday 23/05/2022 02:59:20_
