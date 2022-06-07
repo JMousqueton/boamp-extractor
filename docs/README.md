@@ -7,7 +7,7 @@
 | [22-68752](https://www.boamp.fr/avis/detail/22-68752) | Métropole de Lyon | N/C € | N/C mois | 🟡 2022-06-24 16:00:00 | Marché de maintenance des armoires rotatives de classement de la Métropole de Lyon | *stockage objet*|
 | [22-72587](https://www.boamp.fr/avis/detail/22-72587) | Atelier Idustriel de l'Aéronautique | N/C € | N/C mois | 🟡 2022-06-23 13:00:00 | Maintenance préventive et curative des stockeurs rotatifs et des tours de stockage à l'AIA CF, démantèlement des matériels réformés et transfert des unités de stockage du site de Toul à Clermont-Ferrand | *stockage objet*|
 | [22-75008](https://www.boamp.fr/avis/detail/22-75008) | MINARM/DMAé | N/C € | N/C mois | 🟢 2022-07-13 11:00:00 | Approvisionnement des gaz à usage aéronautique, fourniture et soutien des matériels de la chaine d'approvisionnement associée au profit du ministère des Armées | *stockage objet*|
-| [22-67931](https://www.boamp.fr/avis/detail/22-67931) | GRENOBLE-ALPES METROPOLE | N/C € | N/C mois | 🟡 2022-06-16 14:00:00 | Prestation de géomètre pour la mise à jour du plan cadastrale de la crique centrale et de la crique sud de la galerie d'Arlequin à Villeneuve à Grenoble | *sauvegarde*|
+| [22-67931](https://www.boamp.fr/avis/detail/22-67931) | GRENOBLE-ALPES METROPOLE | N/C € | N/C mois | 🔴 2022-06-16 14:00:00 | Prestation de géomètre pour la mise à jour du plan cadastrale de la crique centrale et de la crique sud de la galerie d'Arlequin à Villeneuve à Grenoble | *sauvegarde*|
 | [22-66776](https://www.boamp.fr/avis/detail/22-66776) | Maison Depart de Retraite de l'Yonne | N/C € | N/C mois | 🔴 2022-06-09 11:00:00 | Projet de mise en oeuvre d'une infrastructure de serveurs virtuels et de sauvegarde | *sauvegarde*|
 | [22-71211](https://www.boamp.fr/avis/detail/22-71211) | Etablissement Public Foncier IDF | N/C € | N/C mois | 🟢 2022-06-30 11:00:00 | Conception et animation d'un cycle de conférences à destination des copropriétaires et/ou habitants, portant sur les enjeux de la copropriété, du plan de sauvegarde et de l'ORCOD | *sauvegarde*|
 | [22-68694](https://www.boamp.fr/avis/detail/22-68694) | Communauté Communes Parthenay-Gâtine | N/C € | N/C mois | 🟡 2022-06-20 11:00:00 | Prestation de service pour le nettoyage des vitreries des bâtiments communautaires - Communauté de Communes Parthenay-Gâtine | *cloud public*|
@@ -33,4 +33,4 @@
 | [22-79065](https://www.boamp.fr/avis/detail/22-79065) | ANGDM | N/C € | N/C mois | 🟡 2022-06-20 11:00:00 | AMO en vue de la réhabilitation thermique du bâtiment Maurice André | *informatique*|
 
 
-_Dernière mise à jour : Monday 06/06/2022 02:58:44_
+_Dernière mise à jour : Tuesday 07/06/2022 02:59:04_
