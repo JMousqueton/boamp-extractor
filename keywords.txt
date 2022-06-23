@@ -25,6 +25,7 @@ firewall
 pare-feu
 parefeu
 checkpoint
+proxy 
 antivirus
 EDR
 XDR
@@ -35,5 +36,6 @@ cisco
 wifi
 meraki
 infogerance
+services managés
 postes informatiques
 informatique
