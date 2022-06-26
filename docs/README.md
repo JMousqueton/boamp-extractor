@@ -5,7 +5,7 @@
 |---|---|---|---|---|---|---|
 | [22-75008](https://www.boamp.fr/avis/detail/22-75008) | MINARM/DMAé | N/C € | N/C mois | 🟡 2022-07-13 11:00:00 | Approvisionnement des gaz à usage aéronautique, fourniture et soutien des matériels de la chaine d'approvisionnement associée au profit du ministère des Armées | *stockage objet*|
 | [22-71211](https://www.boamp.fr/avis/detail/22-71211) | Etablissement Public Foncier IDF | N/C € | N/C mois | 🔴 2022-06-30 11:00:00 | Conception et animation d'un cycle de conférences à destination des copropriétaires et/ou habitants, portant sur les enjeux de la copropriété, du plan de sauvegarde et de l'ORCOD | *sauvegarde*|
-| [22-83005](https://www.boamp.fr/avis/detail/22-83005) | Conseil Général de la Dordogne | N/C € | N/C mois | 🟡 2022-07-05 13:00:00 | Pêche de sauvegarde de l'étang de Rouffiac | *sauvegarde*|
+| [22-83005](https://www.boamp.fr/avis/detail/22-83005) | Conseil Général de la Dordogne | N/C € | N/C mois | 🔴 2022-07-05 13:00:00 | Pêche de sauvegarde de l'étang de Rouffiac | *sauvegarde*|
 | [22-85185](https://www.boamp.fr/avis/detail/22-85185) | CA DES DEUX BAIES EN MONTREUILLOIS | N/C € | N/C mois | 🟡 2022-07-13 11:00:00 | FOURNITURE, INSTALLATION ET MAINTENANCE D'UN SYSTEME DE SAUVEGARDE DES DONNEES INFORMATIQUES DE LA CA2BM | *sauvegarde*|
 | [22-86513](https://www.boamp.fr/avis/detail/22-86513) | COMMUNE DE VAL D ISERE | N/C € | N/C mois | 🟢 2022-07-20 11:00:00 | REFONTE DU PLAN COMMUNAL DE SAUVEGARDE DE VAL D'ISERE | *sauvegarde*|
 | [22-83828](https://www.boamp.fr/avis/detail/22-83828) | CPAM LOIR-ET-CHER | N/C € | N/C mois | 🟡 2022-07-06 15:00:00 | Acquisition d'automobiles neuves et reprise d'un nombre équivalent de véhicules appartenant à la CPAM de Loir-et-Cher. | *hybride*|
@@ -29,4 +29,4 @@
 | [22-87668](https://www.boamp.fr/avis/detail/22-87668) | Comité Martiniquais du Tourisme | N/C € | N/C mois | 🟢 2022-08-03 13:00:00 | Fournitures de bureau et de consommables Informatiques | *informatique*|
 
 
-_Dernière mise à jour : Saturday 25/06/2022 03:10:29_
+_Dernière mise à jour : Sunday 26/06/2022 03:15:28_
