@@ -28,4 +28,4 @@
 | [22-87668](https://www.boamp.fr/avis/detail/22-87668) | Comité Martiniquais du Tourisme | N/C € | N/C mois | 🟢 2022-08-03 13:00:00 | Fournitures de bureau et de consommables Informatiques | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 29/06/2022 03:21:42_
+_Dernière mise à jour : Thursday 30/06/2022 03:17:13_
