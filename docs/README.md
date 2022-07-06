@@ -4,8 +4,8 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-75008](https://www.boamp.fr/avis/detail/22-75008) | MINARM/DMAé | N/C € | N/C mois | 🔴 2022-07-13 11:00:00 | Approvisionnement des gaz à usage aéronautique, fourniture et soutien des matériels de la chaine d'approvisionnement associée au profit du ministère des Armées | *stockage objet*|
-| [22-83005](https://www.boamp.fr/avis/detail/22-83005) | Conseil Général de la Dordogne | N/C € | N/C mois | 🔴 2022-07-05 13:00:00 | Pêche de sauvegarde de l'étang de Rouffiac | *sauvegarde*|
 | [22-85185](https://www.boamp.fr/avis/detail/22-85185) | CA DES DEUX BAIES EN MONTREUILLOIS | N/C € | N/C mois | 🔴 2022-07-13 11:00:00 | FOURNITURE, INSTALLATION ET MAINTENANCE D'UN SYSTEME DE SAUVEGARDE DES DONNEES INFORMATIQUES DE LA CA2BM | *sauvegarde*|
+| 🔥 [22-94192](https://www.boamp.fr/avis/detail/22-94192) | Conseil Général de Saône-et-Loire | N/C € | N/C mois | 🟢 2022-08-03 11:00:00 | Etude hydrogéologique pour la préservation d'une ressource en eau stratégique - SAE Saône Grosne | *sauvegarde*|
 | [22-86513](https://www.boamp.fr/avis/detail/22-86513) | COMMUNE DE VAL D ISERE | N/C € | N/C mois | 🟡 2022-07-20 11:00:00 | REFONTE DU PLAN COMMUNAL DE SAUVEGARDE DE VAL D'ISERE | *sauvegarde*|
 | [22-83828](https://www.boamp.fr/avis/detail/22-83828) | CPAM LOIR-ET-CHER | N/C € | N/C mois | 🔴 2022-07-06 15:00:00 | Acquisition d'automobiles neuves et reprise d'un nombre équivalent de véhicules appartenant à la CPAM de Loir-et-Cher. | *hybride*|
 | [22-81656](https://www.boamp.fr/avis/detail/22-81656) | Centre hospitalier de Valenciennes | N/C € | N/C mois | 🔴 2022-07-08 15:00:00 | MAPA 2022-2123 PRESTATION D'ASSISTANCE A MAITRISE D'OUVRAGE RELATIVE A " LA RESTRUCTURATION ET A LA RELOCALISATION DE L'UHR DU BATIMENT LES CHENES" POUR LE CENTRE HOSPITALIER DE LE QUESNOY | *centre de donnees*|
@@ -25,7 +25,8 @@
 | [22-86044](https://www.boamp.fr/avis/detail/22-86044) | UNION RECOUVREMENT COTISATIONS SECU SO | N/C € | N/C mois | 🟡 2022-07-22 10:30:00 | Achat de prestations de déménagement, de manutention, de transport d'objets, de mobiliers et de matériels divers, y compris de matériel informatique, pour le site au Puy-en-Velay (10 avenue André Soulier) de l'URSSAF d'Auvergne vers son nouveau site de relogement à Vals-pre-le Puy (16 avenue Jeanne d'Arc) | *informatique*|
 | [22-82460](https://www.boamp.fr/avis/detail/22-82460) | Syndicat mixte Hérault Transport | N/C € | N/C mois | 🔴 2022-07-13 11:00:00 | Achat de fournitures et accessoires de bureau et consommables informatiques | *informatique*|
 | [22-87668](https://www.boamp.fr/avis/detail/22-87668) | Comité Martiniquais du Tourisme | N/C € | N/C mois | 🟢 2022-08-03 13:00:00 | Fournitures de bureau et de consommables Informatiques | *informatique*|
+| 🔥 [22-93731](https://www.boamp.fr/avis/detail/22-93731) | C.I.V.I.S. | N/C € | N/C mois | 🟢 2022-08-01 11:00:00 | Acquisition de pièces détachées informatiques pour les services de la CIVIS | *informatique*|
 | 🔥 [22-93219](https://www.boamp.fr/avis/detail/22-93219) | Fondation Bon Sauveur Alby | N/C € | N/C mois | 🟢 2022-08-03 11:00:00 | La présente consultation porte sur l'achat de matériel informatique et prestation d'installation, de recyclage et d'inventaire du matériel pour la Fondation Bon Sauveur d'Alby. | *informatique*|
 
 
-_Dernière mise à jour : Tuesday 05/07/2022 03:17:36_
+_Dernière mise à jour : Wednesday 06/07/2022 03:24:11_
