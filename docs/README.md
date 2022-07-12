@@ -14,7 +14,6 @@
 | [22-79669](https://www.boamp.fr/avis/detail/22-79669) | SDEC ENERGIE | N/C € | N/C mois | 🔴 2022-07-12 11:00:00 | MISE EN PLACE D'UN CADASTRE SOLAIRE | *logiciels*|
 | [22-93147](https://www.boamp.fr/avis/detail/22-93147) | CENTRE HOSPITALIER PIERRE OUDOT | N/C € | N/C mois | 🟢 2022-08-29 11:00:00 | FOURNITURE DE DISPOSITIFS ET CONSOMMABLES D'ADMINISTRATION ET DE DISTRIBUTION DES FLUIDES MÉDICAUX POUR LE GHND | *logiciels*|
 | [22-95583](https://www.boamp.fr/avis/detail/22-95583) | Commune de Saint-Herblain | N/C € | N/C mois | 🟢 2022-08-05 11:00:00 | Audit sur le SI Famille (portail famille et logiciels métiers associés) de la Ville de Saint-Herblain | *logiciels*|
-| [22-86236](https://www.boamp.fr/avis/detail/22-86236) | IMT LILLE DOUAI | N/C € | N/C mois | 🔴 2022-07-11 11:00:00 | La présente consultation a pour objet l'acquisition d'un analyseur de carbone organique total (COT mètre) dans des échantillons liquides. Cet analyseur de carbone organique total sera muni d'un passeur automatisé pour le compte de l'Institut Mines-Télécom Nord Europe. | *logiciels*|
 | [22-94389](https://www.boamp.fr/avis/detail/22-94389) | C.C. des Pays du Sel et du Vermois | N/C € | N/C mois | 🟢 2022-08-22 11:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion facturation des abonnés du service eau potable de la communauté de communes des pays du sel et du vermois | *logiciels*|
 | [22-95022](https://www.boamp.fr/avis/detail/22-95022) | GCS BIH St GERMAIN | N/C € | N/C mois | 🟢 2022-09-15 15:00:00 | Le présent marché a pour objet la fourniture, l'installation, la mise en service et la maintenance d'un logiciel de gestion de textile informatisé pour le GCS Blanchisserie Inter-Hospitalière de St Germain en Laye. | *logiciels*|
 | [22-96235](https://www.boamp.fr/avis/detail/22-96235) | Société Aéroports de la Côte d'Azur | N/C € | N/C mois | 🟡 2022-07-25 11:00:00 | 2022-041 Contrat de maintenance Meridian Aéroport Nice Côte d'Azur | *logiciels*|
@@ -29,4 +28,4 @@
 | [22-93219](https://www.boamp.fr/avis/detail/22-93219) | Fondation Bon Sauveur Alby | N/C € | N/C mois | 🟢 2022-08-03 11:00:00 | La présente consultation porte sur l'achat de matériel informatique et prestation d'installation, de recyclage et d'inventaire du matériel pour la Fondation Bon Sauveur d'Alby. | *informatique*|
 
 
-_Dernière mise à jour : Monday 11/07/2022 03:13:26_
+_Dernière mise à jour : Tuesday 12/07/2022 03:31:23_
