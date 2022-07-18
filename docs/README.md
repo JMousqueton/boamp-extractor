@@ -26,4 +26,4 @@
 | [22-99086](https://www.boamp.fr/avis/detail/22-99086) | UNIVERSITE DE TECHNOLOGIE DE TROYES | N/C € | N/C mois | 🟡 2022-07-29 15:00:00 | Acquisition livraison installation d'un système informatique de simulation d'efficacité énergétique dans le cadre du projet FFCA de l'Université de Technologie de Troyes (UTT) | *informatique*|
 
 
-_Dernière mise à jour : Sunday 17/07/2022 03:17:38_
+_Dernière mise à jour : Monday 18/07/2022 03:16:12_
