@@ -7,8 +7,6 @@
 | [22-86513](https://www.boamp.fr/avis/detail/22-86513) | COMMUNE DE VAL D ISERE | N/C € | N/C mois | 🔴 2022-07-20 11:00:00 | REFONTE DU PLAN COMMUNAL DE SAUVEGARDE DE VAL D'ISERE | *sauvegarde*|
 | [22-83034](https://www.boamp.fr/avis/detail/22-83034) | Centre francilien pour l'égalité fh | N/C € | N/C mois | 🟡 2022-07-30 22:59:00 | Appel à projets pour la réalisation de la nouvelle étude 'Cybersexisme : une étude sociologique dans des établissements scolaires franciliens' | *centre de donnees*|
 | [22-95349](https://www.boamp.fr/avis/detail/22-95349) | CONSEIL DEPARTEMENTAL BDR | N/C € | N/C mois | 🟢 2022-08-31 16:00:00 | Ce marché porte sur la mise à jour, l'hébergement et la maintenance du serveur vocal 'Envie de Balade' | *serveur*|
-| [22-84578](https://www.boamp.fr/avis/detail/22-84578) | UNIVERSITE GUSTAVE EIFFEL | N/C € | N/C mois | 🔴 2022-07-18 11:00:00 | Fourniture matérielle et logicielle pour la mesure en continu du bruit de roulement | *logiciels*|
-| [22-87250](https://www.boamp.fr/avis/detail/22-87250) | UNIVERSITE Côte d'Azur | N/C € | N/C mois | 🔴 2022-07-18 11:00:00 | Mise en place d'un système d'information partagé labellisé par l'ANS au sein du centre de santé d'Université Côte d'Azur | *logiciels*|
 | [22-93147](https://www.boamp.fr/avis/detail/22-93147) | CENTRE HOSPITALIER PIERRE OUDOT | N/C € | N/C mois | 🟢 2022-08-29 11:00:00 | FOURNITURE DE DISPOSITIFS ET CONSOMMABLES D'ADMINISTRATION ET DE DISTRIBUTION DES FLUIDES MÉDICAUX POUR LE GHND | *logiciels*|
 | [22-95583](https://www.boamp.fr/avis/detail/22-95583) | Commune de Saint-Herblain | N/C € | N/C mois | 🟡 2022-08-05 11:00:00 | Audit sur le SI Famille (portail famille et logiciels métiers associés) de la Ville de Saint-Herblain | *logiciels*|
 | [22-97890](https://www.boamp.fr/avis/detail/22-97890) | CA EPERNAY COTEAUX ET PLAINE CHAMPAGNE | N/C € | N/C mois | 🟢 2022-09-05 11:00:00 | 2022-36CA FOURNITURE, INSTALLATION ET INTERFACE DE GESTION LOGICIELLE RELATIF A L'EVALUATION DE LA FREQUENTATION DE SITES TOURISTIQUES ET PATRIMONIAUX | *logiciels*|
@@ -26,4 +24,4 @@
 | [22-99086](https://www.boamp.fr/avis/detail/22-99086) | UNIVERSITE DE TECHNOLOGIE DE TROYES | N/C € | N/C mois | 🟡 2022-07-29 15:00:00 | Acquisition livraison installation d'un système informatique de simulation d'efficacité énergétique dans le cadre du projet FFCA de l'Université de Technologie de Troyes (UTT) | *informatique*|
 
 
-_Dernière mise à jour : Monday 18/07/2022 03:16:12_
+_Dernière mise à jour : Tuesday 19/07/2022 03:30:43_
