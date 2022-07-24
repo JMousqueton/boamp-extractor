@@ -17,7 +17,7 @@
 | 🔥 [22-103139](https://www.boamp.fr/avis/detail/22-103139) | Lycée polyvalent Joseph Gallieni | N/C € | N/C mois | 🟢 2022-09-16 17:00:00 | Équipement et installation d'une plateforme pour la formation et la recherche sur les véhicules électriques, autonomes et connectés | *logiciels*|
 | [22-95022](https://www.boamp.fr/avis/detail/22-95022) | GCS BIH St GERMAIN | N/C € | N/C mois | 🟢 2022-09-15 15:00:00 | Le présent marché a pour objet la fourniture, l'installation, la mise en service et la maintenance d'un logiciel de gestion de textile informatisé pour le GCS Blanchisserie Inter-Hospitalière de St Germain en Laye. | *logiciels*|
 | [22-96235](https://www.boamp.fr/avis/detail/22-96235) | Société Aéroports de la Côte d'Azur | N/C € | N/C mois | 🔴 2022-07-25 11:00:00 | 2022-041 Contrat de maintenance Meridian Aéroport Nice Côte d'Azur | *logiciels*|
-| 🔥 [22-102291](https://www.boamp.fr/avis/detail/22-102291) | BRGM | N/C € | N/C mois | 🟢 2022-09-05 16:00:00 | Le présent marché a pour objet la fourniture, la maintenance et l'assistance du parc matériel et logiciel de systèmes DGPS du BRGM, ainsi que l'achat et la location de matériel GPS. | *logiciels*|
+| [22-102291](https://www.boamp.fr/avis/detail/22-102291) | BRGM | N/C € | N/C mois | 🟢 2022-09-05 16:00:00 | Le présent marché a pour objet la fourniture, la maintenance et l'assistance du parc matériel et logiciel de systèmes DGPS du BRGM, ainsi que l'achat et la location de matériel GPS. | *logiciels*|
 | 🔥 [22-102876](https://www.boamp.fr/avis/detail/22-102876) | ADAPAH 08 | N/C € | N/C mois | 🟢 2022-08-26 11:00:00 | FOURNITURE, INSTALLATION, MAINTENANCE ET PRESTATIONS DE SERVICES ASSOCIES POUR LA MISE EN PLACE D'UNE SOLUTION DE DOSSIER DE L'USAGER INFORMATISE POUR LES ETABLISSEMENTS ET SERVICES MEDICO-SOCIAUX | *logiciels*|
 | [22-85920](https://www.boamp.fr/avis/detail/22-85920) | MINARM/TERRE/SIMMT | N/C € | 84 mois | 🔴 2022-08-01 11:00:00 | Acquisition de services de management no2 des Systèmes d'information du Maintien en Condition Opérationnelle des matériels Terrestres (SM2 SI MCO-T) | *securite informatique*|
 | [22-87668](https://www.boamp.fr/avis/detail/22-87668) | Comité Martiniquais du Tourisme | N/C € | N/C mois | 🟡 2022-08-03 13:00:00 | Fournitures de bureau et de consommables Informatiques | *informatique*|
@@ -27,4 +27,4 @@
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟢 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Saturday 23/07/2022 03:10:22_
+_Dernière mise à jour : Sunday 24/07/2022 03:16:17_
