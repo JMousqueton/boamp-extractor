@@ -6,7 +6,7 @@
 | [22-94192](https://www.boamp.fr/avis/detail/22-94192) | Conseil Général de Saône-et-Loire | N/C € | N/C mois | 🔴 2022-08-03 11:00:00 | Etude hydrogéologique pour la préservation d'une ressource en eau stratégique - SAE Saône Grosne | *sauvegarde*|
 | [22-83034](https://www.boamp.fr/avis/detail/22-83034) | Centre francilien pour l'égalité fh | N/C € | N/C mois | 🔴 2022-07-30 22:59:00 | Appel à projets pour la réalisation de la nouvelle étude 'Cybersexisme : une étude sociologique dans des établissements scolaires franciliens' | *centre de donnees*|
 | [22-95349](https://www.boamp.fr/avis/detail/22-95349) | CONSEIL DEPARTEMENTAL BDR | N/C € | N/C mois | 🟢 2022-08-31 16:00:00 | Ce marché porte sur la mise à jour, l'hébergement et la maintenance du serveur vocal 'Envie de Balade' | *serveur*|
-| [22-102108](https://www.boamp.fr/avis/detail/22-102108) | Ville d'AIX-LES-BAINS | N/C € | N/C mois | 🟢 2022-08-16 11:00:00 | Fourniture d'un logiciel pour la taxe locale sur la publicité extérieure et d'un logiciel pour les droits de voirie | *serveur*|
+| [22-102108](https://www.boamp.fr/avis/detail/22-102108) | Ville d'AIX-LES-BAINS | N/C € | N/C mois | 🟡 2022-08-16 11:00:00 | Fourniture d'un logiciel pour la taxe locale sur la publicité extérieure et d'un logiciel pour les droits de voirie | *serveur*|
 | [22-93147](https://www.boamp.fr/avis/detail/22-93147) | CENTRE HOSPITALIER PIERRE OUDOT | N/C € | N/C mois | 🟢 2022-08-29 11:00:00 | FOURNITURE DE DISPOSITIFS ET CONSOMMABLES D'ADMINISTRATION ET DE DISTRIBUTION DES FLUIDES MÉDICAUX POUR LE GHND | *logiciels*|
 | [22-95583](https://www.boamp.fr/avis/detail/22-95583) | Commune de Saint-Herblain | N/C € | N/C mois | 🔴 2022-08-05 11:00:00 | Audit sur le SI Famille (portail famille et logiciels métiers associés) de la Ville de Saint-Herblain | *logiciels*|
 | [22-97890](https://www.boamp.fr/avis/detail/22-97890) | CA EPERNAY COTEAUX ET PLAINE CHAMPAGNE | N/C € | N/C mois | 🟢 2022-09-05 11:00:00 | 2022-36CA FOURNITURE, INSTALLATION ET INTERFACE DE GESTION LOGICIELLE RELATIF A L'EVALUATION DE LA FREQUENTATION DE SITES TOURISTIQUES ET PATRIMONIAUX | *logiciels*|
@@ -26,4 +26,4 @@
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟢 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 27/07/2022 03:23:19_
+_Dernière mise à jour : Thursday 28/07/2022 03:15:08_
