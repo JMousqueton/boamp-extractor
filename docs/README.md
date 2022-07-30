@@ -3,7 +3,7 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| 🔥 [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟢 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
+| [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟢 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
 | [22-94192](https://www.boamp.fr/avis/detail/22-94192) | Conseil Général de Saône-et-Loire | N/C € | N/C mois | 🔴 2022-08-03 11:00:00 | Etude hydrogéologique pour la préservation d'une ressource en eau stratégique - SAE Saône Grosne | *sauvegarde*|
 | [22-83034](https://www.boamp.fr/avis/detail/22-83034) | Centre francilien pour l'égalité fh | N/C € | N/C mois | 🔴 2022-07-30 22:59:00 | Appel à projets pour la réalisation de la nouvelle étude 'Cybersexisme : une étude sociologique dans des établissements scolaires franciliens' | *centre de donnees*|
 | [22-95349](https://www.boamp.fr/avis/detail/22-95349) | CONSEIL DEPARTEMENTAL BDR | N/C € | N/C mois | 🟢 2022-08-31 16:00:00 | Ce marché porte sur la mise à jour, l'hébergement et la maintenance du serveur vocal 'Envie de Balade' | *serveur*|
@@ -23,10 +23,9 @@
 | [22-87668](https://www.boamp.fr/avis/detail/22-87668) | Comité Martiniquais du Tourisme | N/C € | N/C mois | 🔴 2022-08-03 13:00:00 | Fournitures de bureau et de consommables Informatiques | *informatique*|
 | [22-93731](https://www.boamp.fr/avis/detail/22-93731) | C.I.V.I.S. | N/C € | N/C mois | 🔴 2022-08-01 11:00:00 | Acquisition de pièces détachées informatiques pour les services de la CIVIS | *informatique*|
 | [22-93219](https://www.boamp.fr/avis/detail/22-93219) | Fondation Bon Sauveur Alby | N/C € | N/C mois | 🔴 2022-08-03 11:00:00 | La présente consultation porte sur l'achat de matériel informatique et prestation d'installation, de recyclage et d'inventaire du matériel pour la Fondation Bon Sauveur d'Alby. | *informatique*|
-| [22-99086](https://www.boamp.fr/avis/detail/22-99086) | UNIVERSITE DE TECHNOLOGIE DE TROYES | N/C € | N/C mois | 🔴 2022-07-29 15:00:00 | Acquisition livraison installation d'un système informatique de simulation d'efficacité énergétique dans le cadre du projet FFCA de l'Université de Technologie de Troyes (UTT) | *informatique*|
-| 🔥 [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
-| 🔥 [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🟢 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
+| [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
+| [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🟢 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟢 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Friday 29/07/2022 03:28:07_
+_Dernière mise à jour : Saturday 30/07/2022 03:19:01_
