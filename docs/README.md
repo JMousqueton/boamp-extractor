@@ -5,7 +5,7 @@
 |---|---|---|---|---|---|---|
 | [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟢 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
 | [22-94192](https://www.boamp.fr/avis/detail/22-94192) | Conseil Général de Saône-et-Loire | N/C € | N/C mois | 🔴 2022-08-03 11:00:00 | Etude hydrogéologique pour la préservation d'une ressource en eau stratégique - SAE Saône Grosne | *sauvegarde*|
-| [22-83034](https://www.boamp.fr/avis/detail/22-83034) | Centre francilien pour l'égalité fh | N/C € | N/C mois | 🔴 2022-07-30 22:59:00 | Appel à projets pour la réalisation de la nouvelle étude 'Cybersexisme : une étude sociologique dans des établissements scolaires franciliens' | *centre de donnees*|
+| 🔥 [22-105680](https://www.boamp.fr/avis/detail/22-105680) | ESID de Metz | N/C € | N/C mois | 🟢 2022-09-20 15:00:00 | MUTZIG (67) - Assistance à maîtrise d'ouvrage pour la conception, le suivi travaux et l'homologation des systèmes industriels d'infrastructures (hors contrôle d'accès, détection intrusion, vidéo-surveillance) | *infrastructures systemes*|
 | [22-95349](https://www.boamp.fr/avis/detail/22-95349) | CONSEIL DEPARTEMENTAL BDR | N/C € | N/C mois | 🟢 2022-08-31 16:00:00 | Ce marché porte sur la mise à jour, l'hébergement et la maintenance du serveur vocal 'Envie de Balade' | *serveur*|
 | [22-102108](https://www.boamp.fr/avis/detail/22-102108) | Ville d'AIX-LES-BAINS | N/C € | N/C mois | 🟡 2022-08-16 11:00:00 | Fourniture d'un logiciel pour la taxe locale sur la publicité extérieure et d'un logiciel pour les droits de voirie | *serveur*|
 | [22-93147](https://www.boamp.fr/avis/detail/22-93147) | CENTRE HOSPITALIER PIERRE OUDOT | N/C € | N/C mois | 🟢 2022-08-29 11:00:00 | FOURNITURE DE DISPOSITIFS ET CONSOMMABLES D'ADMINISTRATION ET DE DISTRIBUTION DES FLUIDES MÉDICAUX POUR LE GHND | *logiciels*|
@@ -28,4 +28,4 @@
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟢 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Saturday 30/07/2022 03:19:01_
+_Dernière mise à jour : Sunday 31/07/2022 03:19:36_
