@@ -4,7 +4,6 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟢 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
-| [22-94192](https://www.boamp.fr/avis/detail/22-94192) | Conseil Général de Saône-et-Loire | N/C € | N/C mois | 🔴 2022-08-03 11:00:00 | Etude hydrogéologique pour la préservation d'une ressource en eau stratégique - SAE Saône Grosne | *sauvegarde*|
 | [22-105680](https://www.boamp.fr/avis/detail/22-105680) | ESID de Metz | N/C € | N/C mois | 🟢 2022-09-20 15:00:00 | MUTZIG (67) - Assistance à maîtrise d'ouvrage pour la conception, le suivi travaux et l'homologation des systèmes industriels d'infrastructures (hors contrôle d'accès, détection intrusion, vidéo-surveillance) | *infrastructures systemes*|
 | [22-95349](https://www.boamp.fr/avis/detail/22-95349) | CONSEIL DEPARTEMENTAL BDR | N/C € | N/C mois | 🟢 2022-08-31 16:00:00 | Ce marché porte sur la mise à jour, l'hébergement et la maintenance du serveur vocal 'Envie de Balade' | *serveur*|
 | [22-102108](https://www.boamp.fr/avis/detail/22-102108) | Ville d'AIX-LES-BAINS | N/C € | N/C mois | 🟡 2022-08-16 11:00:00 | Fourniture d'un logiciel pour la taxe locale sur la publicité extérieure et d'un logiciel pour les droits de voirie | *serveur*|
@@ -19,11 +18,9 @@
 | [22-95022](https://www.boamp.fr/avis/detail/22-95022) | GCS BIH St GERMAIN | N/C € | N/C mois | 🟢 2022-09-15 15:00:00 | Le présent marché a pour objet la fourniture, l'installation, la mise en service et la maintenance d'un logiciel de gestion de textile informatisé pour le GCS Blanchisserie Inter-Hospitalière de St Germain en Laye. | *logiciels*|
 | [22-102291](https://www.boamp.fr/avis/detail/22-102291) | BRGM | N/C € | N/C mois | 🟢 2022-09-05 16:00:00 | Le présent marché a pour objet la fourniture, la maintenance et l'assistance du parc matériel et logiciel de systèmes DGPS du BRGM, ainsi que l'achat et la location de matériel GPS. | *logiciels*|
 | [22-102876](https://www.boamp.fr/avis/detail/22-102876) | ADAPAH 08 | N/C € | N/C mois | 🟢 2022-08-26 11:00:00 | FOURNITURE, INSTALLATION, MAINTENANCE ET PRESTATIONS DE SERVICES ASSOCIES POUR LA MISE EN PLACE D'UNE SOLUTION DE DOSSIER DE L'USAGER INFORMATISE POUR LES ETABLISSEMENTS ET SERVICES MEDICO-SOCIAUX | *logiciels*|
-| [22-87668](https://www.boamp.fr/avis/detail/22-87668) | Comité Martiniquais du Tourisme | N/C € | N/C mois | 🔴 2022-08-03 13:00:00 | Fournitures de bureau et de consommables Informatiques | *informatique*|
-| [22-93219](https://www.boamp.fr/avis/detail/22-93219) | Fondation Bon Sauveur Alby | N/C € | N/C mois | 🔴 2022-08-03 11:00:00 | La présente consultation porte sur l'achat de matériel informatique et prestation d'installation, de recyclage et d'inventaire du matériel pour la Fondation Bon Sauveur d'Alby. | *informatique*|
 | [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
 | [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🟢 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟢 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 03/08/2022 03:24:48_
+_Dernière mise à jour : Thursday 04/08/2022 03:05:26_
