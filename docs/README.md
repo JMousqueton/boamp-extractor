@@ -17,11 +17,11 @@
 | [22-95022](https://www.boamp.fr/avis/detail/22-95022) | GCS BIH St GERMAIN | N/C € | N/C mois | 🟢 2022-09-15 15:00:00 | Le présent marché a pour objet la fourniture, l'installation, la mise en service et la maintenance d'un logiciel de gestion de textile informatisé pour le GCS Blanchisserie Inter-Hospitalière de St Germain en Laye. | *logiciels*|
 | [22-102291](https://www.boamp.fr/avis/detail/22-102291) | BRGM | N/C € | N/C mois | 🟢 2022-09-05 16:00:00 | Le présent marché a pour objet la fourniture, la maintenance et l'assistance du parc matériel et logiciel de systèmes DGPS du BRGM, ainsi que l'achat et la location de matériel GPS. | *logiciels*|
 | [22-102876](https://www.boamp.fr/avis/detail/22-102876) | ADAPAH 08 | N/C € | N/C mois | 🟡 2022-08-26 11:00:00 | FOURNITURE, INSTALLATION, MAINTENANCE ET PRESTATIONS DE SERVICES ASSOCIES POUR LA MISE EN PLACE D'UNE SOLUTION DE DOSSIER DE L'USAGER INFORMATISE POUR LES ETABLISSEMENTS ET SERVICES MEDICO-SOCIAUX | *logiciels*|
-| 🔥 [22-109263](https://www.boamp.fr/avis/detail/22-109263) | St Gilles Croix de Vie Agglomération | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Fourniture et livraison d'un drone multi-capteur : lidar /thermique/photo | *logiciels*|
+| [22-109263](https://www.boamp.fr/avis/detail/22-109263) | St Gilles Croix de Vie Agglomération | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Fourniture et livraison d'un drone multi-capteur : lidar /thermique/photo | *logiciels*|
 | [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
 | [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🟢 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
 | [22-108820](https://www.boamp.fr/avis/detail/22-108820) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🟢 2022-09-19 16:00:00 | Conception et mise en place d'un jeu d'énigmes grandeur nature et d'immersion au Donjon de Rouen (Tour Jeanne d'Arc) | *informatique*|
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟢 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Sunday 07/08/2022 03:06:02_
+_Dernière mise à jour : Monday 08/08/2022 03:13:07_
