@@ -4,6 +4,7 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟢 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
+| 🔥 [22-109702](https://www.boamp.fr/avis/detail/22-109702) | Ville de Metz | N/C € | N/C mois | 🟢 2022-09-05 11:00:00 | Fourniture d'un véhicule 7 places hybride type VAN / monospace pour la ville de Metz | *hybride*|
 | [22-105680](https://www.boamp.fr/avis/detail/22-105680) | ESID de Metz | N/C € | N/C mois | 🟢 2022-09-20 15:00:00 | MUTZIG (67) - Assistance à maîtrise d'ouvrage pour la conception, le suivi travaux et l'homologation des systèmes industriels d'infrastructures (hors contrôle d'accès, détection intrusion, vidéo-surveillance) | *infrastructures systemes*|
 | [22-95349](https://www.boamp.fr/avis/detail/22-95349) | CONSEIL DEPARTEMENTAL BDR | N/C € | N/C mois | 🟢 2022-08-31 16:00:00 | Ce marché porte sur la mise à jour, l'hébergement et la maintenance du serveur vocal 'Envie de Balade' | *serveur*|
 | [22-102108](https://www.boamp.fr/avis/detail/22-102108) | Ville d'AIX-LES-BAINS | N/C € | N/C mois | 🔴 2022-08-16 11:00:00 | Fourniture d'un logiciel pour la taxe locale sur la publicité extérieure et d'un logiciel pour les droits de voirie | *serveur*|
@@ -15,6 +16,7 @@
 | [22-94389](https://www.boamp.fr/avis/detail/22-94389) | C.C. des Pays du Sel et du Vermois | N/C € | N/C mois | 🟡 2022-08-22 11:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion facturation des abonnés du service eau potable de la communauté de communes des pays du sel et du vermois | *logiciels*|
 | [22-103139](https://www.boamp.fr/avis/detail/22-103139) | Lycée polyvalent Joseph Gallieni | N/C € | N/C mois | 🟢 2022-09-16 17:00:00 | Équipement et installation d'une plateforme pour la formation et la recherche sur les véhicules électriques, autonomes et connectés | *logiciels*|
 | [22-95022](https://www.boamp.fr/avis/detail/22-95022) | GCS BIH St GERMAIN | N/C € | N/C mois | 🟢 2022-09-15 15:00:00 | Le présent marché a pour objet la fourniture, l'installation, la mise en service et la maintenance d'un logiciel de gestion de textile informatisé pour le GCS Blanchisserie Inter-Hospitalière de St Germain en Laye. | *logiciels*|
+| 🔥 [22-109639](https://www.boamp.fr/avis/detail/22-109639) | Ville de Villeurbanne | N/C € | N/C mois | 🟢 2022-09-20 11:00:00 | INTEGRATION D'UNE PLATE-FORME D'ARCHIVAGE ELECTRONIQUE (systèmed'archivage électronique As@lae) | *logiciels*|
 | [22-102291](https://www.boamp.fr/avis/detail/22-102291) | BRGM | N/C € | N/C mois | 🟢 2022-09-05 16:00:00 | Le présent marché a pour objet la fourniture, la maintenance et l'assistance du parc matériel et logiciel de systèmes DGPS du BRGM, ainsi que l'achat et la location de matériel GPS. | *logiciels*|
 | [22-102876](https://www.boamp.fr/avis/detail/22-102876) | ADAPAH 08 | N/C € | N/C mois | 🟡 2022-08-26 11:00:00 | FOURNITURE, INSTALLATION, MAINTENANCE ET PRESTATIONS DE SERVICES ASSOCIES POUR LA MISE EN PLACE D'UNE SOLUTION DE DOSSIER DE L'USAGER INFORMATISE POUR LES ETABLISSEMENTS ET SERVICES MEDICO-SOCIAUX | *logiciels*|
 | [22-109263](https://www.boamp.fr/avis/detail/22-109263) | St Gilles Croix de Vie Agglomération | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Fourniture et livraison d'un drone multi-capteur : lidar /thermique/photo | *logiciels*|
@@ -24,4 +26,4 @@
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟢 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Monday 08/08/2022 03:13:07_
+_Dernière mise à jour : Tuesday 09/08/2022 03:18:29_
