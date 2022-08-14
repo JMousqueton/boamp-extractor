@@ -23,7 +23,7 @@
 | [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
 | [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🟢 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
 | [22-108820](https://www.boamp.fr/avis/detail/22-108820) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🟢 2022-09-19 16:00:00 | Conception et mise en place d'un jeu d'énigmes grandeur nature et d'immersion au Donjon de Rouen (Tour Jeanne d'Arc) | *informatique*|
-| [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟢 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
+| [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟡 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Saturday 13/08/2022 02:59:13_
+_Dernière mise à jour : Sunday 14/08/2022 03:13:03_
