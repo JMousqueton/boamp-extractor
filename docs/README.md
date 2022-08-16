@@ -26,4 +26,4 @@
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟡 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Monday 15/08/2022 03:28:28_
+_Dernière mise à jour : Tuesday 16/08/2022 03:20:34_
