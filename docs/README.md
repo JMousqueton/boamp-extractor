@@ -4,8 +4,9 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟢 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
+| 🔥 [22-113187](https://www.boamp.fr/avis/detail/22-113187) | Conseil Départemental du Var | N/C € | N/C mois | 🟢 2022-09-19 15:00:00 | Maintenance des Progiciels AS@LAE, PASTELL et i-PARAPHEUR | *archivage des donnees*|
 | [22-109702](https://www.boamp.fr/avis/detail/22-109702) | Ville de Metz | N/C € | N/C mois | 🟡 2022-09-05 11:00:00 | Fourniture d'un véhicule 7 places hybride type VAN / monospace pour la ville de Metz | *hybride*|
-| 🔥 [22-112119](https://www.boamp.fr/avis/detail/22-112119) | Conseil départemental de l'Essonne | N/C € | N/C mois | 🟡 2022-09-06 11:00:00 | AMO MAISON DES 1000 PREMIERS JOURS | *centre de donnees*|
+| [22-112119](https://www.boamp.fr/avis/detail/22-112119) | Conseil départemental de l'Essonne | N/C € | N/C mois | 🟡 2022-09-06 11:00:00 | AMO MAISON DES 1000 PREMIERS JOURS | *centre de donnees*|
 | [22-105680](https://www.boamp.fr/avis/detail/22-105680) | ESID de Metz | N/C € | N/C mois | 🟢 2022-09-20 15:00:00 | MUTZIG (67) - Assistance à maîtrise d'ouvrage pour la conception, le suivi travaux et l'homologation des systèmes industriels d'infrastructures (hors contrôle d'accès, détection intrusion, vidéo-surveillance) | *infrastructures systemes*|
 | [22-95349](https://www.boamp.fr/avis/detail/22-95349) | CONSEIL DEPARTEMENTAL BDR | N/C € | N/C mois | 🟡 2022-08-31 16:00:00 | Ce marché porte sur la mise à jour, l'hébergement et la maintenance du serveur vocal 'Envie de Balade' | *serveur*|
 | [22-93147](https://www.boamp.fr/avis/detail/22-93147) | CENTRE HOSPITALIER PIERRE OUDOT | N/C € | N/C mois | 🟡 2022-08-29 11:00:00 | FOURNITURE DE DISPOSITIFS ET CONSOMMABLES D'ADMINISTRATION ET DE DISTRIBUTION DES FLUIDES MÉDICAUX POUR LE GHND | *logiciels*|
@@ -26,4 +27,4 @@
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟡 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Thursday 18/08/2022 03:31:31_
+_Dernière mise à jour : Friday 19/08/2022 03:22:23_
