@@ -3,7 +3,7 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟢 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
+| [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟡 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
 | [22-113187](https://www.boamp.fr/avis/detail/22-113187) | Conseil Départemental du Var | N/C € | N/C mois | 🟢 2022-09-19 15:00:00 | Maintenance des Progiciels AS@LAE, PASTELL et i-PARAPHEUR | *archivage des donnees*|
 | [22-109702](https://www.boamp.fr/avis/detail/22-109702) | Ville de Metz | N/C € | N/C mois | 🟡 2022-09-05 11:00:00 | Fourniture d'un véhicule 7 places hybride type VAN / monospace pour la ville de Metz | *hybride*|
 | [22-112119](https://www.boamp.fr/avis/detail/22-112119) | Conseil départemental de l'Essonne | N/C € | N/C mois | 🟡 2022-09-06 11:00:00 | AMO MAISON DES 1000 PREMIERS JOURS | *centre de donnees*|
@@ -20,11 +20,11 @@
 | [22-109639](https://www.boamp.fr/avis/detail/22-109639) | Ville de Villeurbanne | N/C € | N/C mois | 🟢 2022-09-20 11:00:00 | INTEGRATION D'UNE PLATE-FORME D'ARCHIVAGE ELECTRONIQUE (systèmed'archivage électronique As@lae) | *logiciels*|
 | [22-102291](https://www.boamp.fr/avis/detail/22-102291) | BRGM | N/C € | N/C mois | 🟡 2022-09-05 16:00:00 | Le présent marché a pour objet la fourniture, la maintenance et l'assistance du parc matériel et logiciel de systèmes DGPS du BRGM, ainsi que l'achat et la location de matériel GPS. | *logiciels*|
 | [22-102876](https://www.boamp.fr/avis/detail/22-102876) | ADAPAH 08 | N/C € | N/C mois | 🔴 2022-08-26 11:00:00 | FOURNITURE, INSTALLATION, MAINTENANCE ET PRESTATIONS DE SERVICES ASSOCIES POUR LA MISE EN PLACE D'UNE SOLUTION DE DOSSIER DE L'USAGER INFORMATISE POUR LES ETABLISSEMENTS ET SERVICES MEDICO-SOCIAUX | *logiciels*|
-| [22-109263](https://www.boamp.fr/avis/detail/22-109263) | St Gilles Croix de Vie Agglomération | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Fourniture et livraison d'un drone multi-capteur : lidar /thermique/photo | *logiciels*|
-| [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🟢 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
+| [22-109263](https://www.boamp.fr/avis/detail/22-109263) | St Gilles Croix de Vie Agglomération | N/C € | N/C mois | 🟡 2022-09-12 11:00:00 | Fourniture et livraison d'un drone multi-capteur : lidar /thermique/photo | *logiciels*|
+| [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🟡 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
 | [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🟢 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
 | [22-108820](https://www.boamp.fr/avis/detail/22-108820) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🟢 2022-09-19 16:00:00 | Conception et mise en place d'un jeu d'énigmes grandeur nature et d'immersion au Donjon de Rouen (Tour Jeanne d'Arc) | *informatique*|
-| [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🟡 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
+| [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🔴 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
 
 
-_Dernière mise à jour : Tuesday 23/08/2022 03:38:22_
+_Dernière mise à jour : Wednesday 24/08/2022 03:38:52_
