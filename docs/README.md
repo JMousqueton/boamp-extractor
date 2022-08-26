@@ -4,6 +4,7 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🟡 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
+| 🔥 [22-115228](https://www.boamp.fr/avis/detail/22-115228) | SMICTOM d'Alsace Centrale | N/C € | N/C mois | 🟢 2022-09-26 11:00:00 | Le présent marché a principalement pour objet la mise à disposition d'une solution de Gestion de Maintenance Assistée par Ordinateur un paramétrage, un service d'assistance et de maintenance dans l'utilisation du logiciel. Il a pour objet également un service d'hébergement et de stockage des données extérieur. | *stockage objet*|
 | [22-113187](https://www.boamp.fr/avis/detail/22-113187) | Conseil Départemental du Var | N/C € | N/C mois | 🟢 2022-09-19 15:00:00 | Maintenance des Progiciels AS@LAE, PASTELL et i-PARAPHEUR | *archivage des donnees*|
 | [22-109702](https://www.boamp.fr/avis/detail/22-109702) | Ville de Metz | N/C € | N/C mois | 🟡 2022-09-05 11:00:00 | Fourniture d'un véhicule 7 places hybride type VAN / monospace pour la ville de Metz | *hybride*|
 | [22-112119](https://www.boamp.fr/avis/detail/22-112119) | Conseil départemental de l'Essonne | N/C € | N/C mois | 🟡 2022-09-06 11:00:00 | AMO MAISON DES 1000 PREMIERS JOURS | *centre de donnees*|
@@ -26,6 +27,7 @@
 | [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🟢 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
 | [22-108820](https://www.boamp.fr/avis/detail/22-108820) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🟢 2022-09-19 16:00:00 | Conception et mise en place d'un jeu d'énigmes grandeur nature et d'immersion au Donjon de Rouen (Tour Jeanne d'Arc) | *informatique*|
 | [22-100564](https://www.boamp.fr/avis/detail/22-100564) | Département de Maine-et-Loire | N/C € | N/C mois | 🔴 2022-09-02 11:00:00 | ACQUISITION ET MISE EN OEUVRE D'UN OBSERVATOIRE CARTOGRAPHIQUE INTERACTIF | *informatique*|
+| 🔥 [22-115381](https://www.boamp.fr/avis/detail/22-115381) | CC DE PONT AUDEMER VAL DE RISLE | N/C € | N/C mois | 🟢 2022-09-19 09:00:00 | Matériel informatique et numérique de la Communauté de communes Pont Audemer Val de Risle | *informatique*|
 
 
-_Dernière mise à jour : Thursday 25/08/2022 03:41:00_
+_Dernière mise à jour : Friday 26/08/2022 03:47:00_
