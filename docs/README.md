@@ -20,7 +20,7 @@
 | [22-95022](https://www.boamp.fr/avis/detail/22-95022) | GCS BIH St GERMAIN | N/C € | N/C mois | 🟡 2022-09-15 15:00:00 | Le présent marché a pour objet la fourniture, l'installation, la mise en service et la maintenance d'un logiciel de gestion de textile informatisé pour le GCS Blanchisserie Inter-Hospitalière de St Germain en Laye. | *logiciels*|
 | [22-109639](https://www.boamp.fr/avis/detail/22-109639) | Ville de Villeurbanne | N/C € | N/C mois | 🟢 2022-09-20 11:00:00 | INTEGRATION D'UNE PLATE-FORME D'ARCHIVAGE ELECTRONIQUE (systèmed'archivage électronique As@lae) | *logiciels*|
 | [22-102291](https://www.boamp.fr/avis/detail/22-102291) | BRGM | N/C € | N/C mois | 🔴 2022-09-05 16:00:00 | Le présent marché a pour objet la fourniture, la maintenance et l'assistance du parc matériel et logiciel de systèmes DGPS du BRGM, ainsi que l'achat et la location de matériel GPS. | *logiciels*|
-| 🔥 [22-116219](https://www.boamp.fr/avis/detail/22-116219) | Comm comm du pays de chalindrey | N/C € | N/C mois | 🟢 2022-09-19 16:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion financière et de gestion des ressources humaines en version WEB-. | *logiciels*|
+| [22-116219](https://www.boamp.fr/avis/detail/22-116219) | Comm comm du pays de chalindrey | N/C € | N/C mois | 🟢 2022-09-19 16:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion financière et de gestion des ressources humaines en version WEB-. | *logiciels*|
 | [22-109263](https://www.boamp.fr/avis/detail/22-109263) | St Gilles Croix de Vie Agglomération | N/C € | N/C mois | 🟡 2022-09-12 11:00:00 | Fourniture et livraison d'un drone multi-capteur : lidar /thermique/photo | *logiciels*|
 | [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🟡 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
 | [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🟡 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
@@ -29,4 +29,4 @@
 | [22-115381](https://www.boamp.fr/avis/detail/22-115381) | CC DE PONT AUDEMER VAL DE RISLE | N/C € | N/C mois | 🟢 2022-09-19 09:00:00 | Matériel informatique et numérique de la Communauté de communes Pont Audemer Val de Risle | *informatique*|
 
 
-_Dernière mise à jour : Sunday 28/08/2022 03:30:12_
+_Dernière mise à jour : Monday 29/08/2022 03:40:11_
