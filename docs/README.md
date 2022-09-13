@@ -3,7 +3,6 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| [22-104852](https://www.boamp.fr/avis/detail/22-104852) | HOPITAUX DES PORTES DE CAMARGUE | N/C € | N/C mois | 🔴 2022-09-12 13:00:00 | Location de containers de stockage | *stockage objet*|
 | [22-115228](https://www.boamp.fr/avis/detail/22-115228) | SMICTOM d'Alsace Centrale | N/C € | N/C mois | 🟡 2022-09-26 11:00:00 | Le présent marché a principalement pour objet la mise à disposition d'une solution de Gestion de Maintenance Assistée par Ordinateur un paramétrage, un service d'assistance et de maintenance dans l'utilisation du logiciel. Il a pour objet également un service d'hébergement et de stockage des données extérieur. | *stockage objet*|
 | [22-113187](https://www.boamp.fr/avis/detail/22-113187) | Conseil Départemental du Var | N/C € | N/C mois | 🔴 2022-09-19 15:00:00 | Maintenance des Progiciels AS@LAE, PASTELL et i-PARAPHEUR | *archivage des donnees*|
 | [22-105680](https://www.boamp.fr/avis/detail/22-105680) | ESID de Metz | N/C € | N/C mois | 🔴 2022-09-20 15:00:00 | MUTZIG (67) - Assistance à maîtrise d'ouvrage pour la conception, le suivi travaux et l'homologation des systèmes industriels d'infrastructures (hors contrôle d'accès, détection intrusion, vidéo-surveillance) | *infrastructures systemes*|
@@ -14,16 +13,15 @@
 | [22-95022](https://www.boamp.fr/avis/detail/22-95022) | GCS BIH St GERMAIN | N/C € | N/C mois | 🔴 2022-09-15 15:00:00 | Le présent marché a pour objet la fourniture, l'installation, la mise en service et la maintenance d'un logiciel de gestion de textile informatisé pour le GCS Blanchisserie Inter-Hospitalière de St Germain en Laye. | *logiciels*|
 | [22-109639](https://www.boamp.fr/avis/detail/22-109639) | Ville de Villeurbanne | N/C € | N/C mois | 🔴 2022-09-20 11:00:00 | INTEGRATION D'UNE PLATE-FORME D'ARCHIVAGE ELECTRONIQUE (systèmed'archivage électronique As@lae) | *logiciels*|
 | [22-116219](https://www.boamp.fr/avis/detail/22-116219) | Comm comm du pays de chalindrey | N/C € | N/C mois | 🔴 2022-09-19 16:00:00 | Acquisition, installation et maintenance d'un logiciel de gestion financière et de gestion des ressources humaines en version WEB-. | *logiciels*|
-| [22-109263](https://www.boamp.fr/avis/detail/22-109263) | St Gilles Croix de Vie Agglomération | N/C € | N/C mois | 🔴 2022-09-12 11:00:00 | Fourniture et livraison d'un drone multi-capteur : lidar /thermique/photo | *logiciels*|
 | [22-119411](https://www.boamp.fr/avis/detail/22-119411) | DEPARTEMENT DE LA MANCHE | N/C € | N/C mois | 🟡 2022-09-27 11:00:00 | Prestations de maintenance matérielle et logicielle pour les environnements de téléphonies fixes du Département de la Manche | *logiciels*|
 | [22-119047](https://www.boamp.fr/avis/detail/22-119047) | COMMUNE D ECULLY | N/C € | N/C mois | 🟢 2022-11-07 11:00:00 | Prestation de service pour la gestion de la mise en oeuvre de la taxe locale sur la publicité extérieure (TLPE) et pour la gestion des dossiers d'enseignes | *logiciels*|
 | [22-120073](https://www.boamp.fr/avis/detail/22-120073) | SDIS 62 | N/C € | N/C mois | 🟡 2022-09-27 11:00:00 | Fourniture et installation de logiciels dans le domaine financier et prestations de formation et maintenance associées | *logiciels*|
 | [22-120113](https://www.boamp.fr/avis/detail/22-120113) | BNU STRASBOURG | N/C € | N/C mois | 🟡 2022-09-30 09:00:00 | Location de postes informatiques pour la Bibliothèque Nationale et Universitaire de Strasbourg | *postes informatiques*|
-| [22-105092](https://www.boamp.fr/avis/detail/22-105092) | Communauté de communes du Pont du Gard | N/C € | N/C mois | 🔴 2022-09-12 11:00:00 | Services d'assistance et de maintenance informatique | *informatique*|
 | [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🔴 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
 | [22-108820](https://www.boamp.fr/avis/detail/22-108820) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🔴 2022-09-19 16:00:00 | Conception et mise en place d'un jeu d'énigmes grandeur nature et d'immersion au Donjon de Rouen (Tour Jeanne d'Arc) | *informatique*|
 | [22-115381](https://www.boamp.fr/avis/detail/22-115381) | CC DE PONT AUDEMER VAL DE RISLE | N/C € | N/C mois | 🔴 2022-09-19 09:00:00 | Matériel informatique et numérique de la Communauté de communes Pont Audemer Val de Risle | *informatique*|
+| 🔥 [22-121968](https://www.boamp.fr/avis/detail/22-121968) | COMMUNE DE TOURRETTES | N/C € | N/C mois | 🟡 2022-09-27 11:00:00 | Fourniture et pose d'équipement mobilier pour la médiathèque 'la Bastide du Coulet' - 83440 | *informatique*|
 | [22-117903](https://www.boamp.fr/avis/detail/22-117903) | Société Aéroports de la Côte d'Azur | N/C € | N/C mois | 🔴 2022-09-21 11:00:00 | 2022/080 LOCATION ET MAINTENANCE DE PRESSES NUMERIQUES MIXTES | *informatique*|
 
 
-_Dernière mise à jour : Monday 12/09/2022 03:54:19_
+_Dernière mise à jour : Tuesday 13/09/2022 03:49:45_
