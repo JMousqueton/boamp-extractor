@@ -20,8 +20,8 @@
 | [22-103438](https://www.boamp.fr/avis/detail/22-103438) | MINARM/DMAé | N/C € | N/C mois | 🔴 2022-09-15 11:00:00 | Acquisition de châssis de cabines de simulation dans le cadre du projet de simulation massive en réseau à destination des armées | *informatique*|
 | [22-108820](https://www.boamp.fr/avis/detail/22-108820) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🔴 2022-09-19 16:00:00 | Conception et mise en place d'un jeu d'énigmes grandeur nature et d'immersion au Donjon de Rouen (Tour Jeanne d'Arc) | *informatique*|
 | [22-115381](https://www.boamp.fr/avis/detail/22-115381) | CC DE PONT AUDEMER VAL DE RISLE | N/C € | N/C mois | 🔴 2022-09-19 09:00:00 | Matériel informatique et numérique de la Communauté de communes Pont Audemer Val de Risle | *informatique*|
-| 🔥 [22-121968](https://www.boamp.fr/avis/detail/22-121968) | COMMUNE DE TOURRETTES | N/C € | N/C mois | 🟡 2022-09-27 11:00:00 | Fourniture et pose d'équipement mobilier pour la médiathèque 'la Bastide du Coulet' - 83440 | *informatique*|
+| [22-121968](https://www.boamp.fr/avis/detail/22-121968) | COMMUNE DE TOURRETTES | N/C € | N/C mois | 🟡 2022-09-27 11:00:00 | Fourniture et pose d'équipement mobilier pour la médiathèque 'la Bastide du Coulet' - 83440 | *informatique*|
 | [22-117903](https://www.boamp.fr/avis/detail/22-117903) | Société Aéroports de la Côte d'Azur | N/C € | N/C mois | 🔴 2022-09-21 11:00:00 | 2022/080 LOCATION ET MAINTENANCE DE PRESSES NUMERIQUES MIXTES | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 14/09/2022 03:44:13_
+_Dernière mise à jour : Thursday 15/09/2022 03:51:17_
