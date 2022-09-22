@@ -11,9 +11,9 @@
 | [22-119047](https://www.boamp.fr/avis/detail/22-119047) | COMMUNE D ECULLY | N/C € | N/C mois | 🟢 2022-11-07 11:00:00 | Prestation de service pour la gestion de la mise en oeuvre de la taxe locale sur la publicité extérieure (TLPE) et pour la gestion des dossiers d'enseignes | *logiciels*|
 | [22-120073](https://www.boamp.fr/avis/detail/22-120073) | SDIS 62 | N/C € | N/C mois | 🔴 2022-09-27 11:00:00 | Fourniture et installation de logiciels dans le domaine financier et prestations de formation et maintenance associées | *logiciels*|
 | 🔥 [22-126179](https://www.boamp.fr/avis/detail/22-126179) | VILLE DE LOURDES | N/C € | N/C mois | 🟡 2022-10-07 10:00:00 | FOURNITURE, INSTALLATION, PARAMETRAGE ET MAINTENANCE DE LOGICIELS COURRIER ET METIERS POUR LES SERVICES A LA POPULATION | *logiciels*|
+| 🔥 [22-126468](https://www.boamp.fr/avis/detail/22-126468) | COMMUNE DE HARNES | N/C € | N/C mois | 🟡 2022-10-11 11:00:00 | Hébergement et maintenance en mode SAAS d'un logiciel Ressources Humaines | *logiciels*|
 | [22-120113](https://www.boamp.fr/avis/detail/22-120113) | BNU STRASBOURG | N/C € | N/C mois | 🔴 2022-09-30 09:00:00 | Location de postes informatiques pour la Bibliothèque Nationale et Universitaire de Strasbourg | *postes informatiques*|
 | [22-121968](https://www.boamp.fr/avis/detail/22-121968) | COMMUNE DE TOURRETTES | N/C € | N/C mois | 🔴 2022-09-27 11:00:00 | Fourniture et pose d'équipement mobilier pour la médiathèque 'la Bastide du Coulet' - 83440 | *informatique*|
-| [22-117903](https://www.boamp.fr/avis/detail/22-117903) | Société Aéroports de la Côte d'Azur | N/C € | N/C mois | 🔴 2022-09-21 11:00:00 | 2022/080 LOCATION ET MAINTENANCE DE PRESSES NUMERIQUES MIXTES | *informatique*|
 
 
-_Dernière mise à jour : Wednesday 21/09/2022 03:52:48_
+_Dernière mise à jour : Thursday 22/09/2022 03:42:05_
