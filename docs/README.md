@@ -16,4 +16,4 @@
 | [22-121968](https://www.boamp.fr/avis/detail/22-121968) | COMMUNE DE TOURRETTES | N/C € | N/C mois | 🔴 2022-09-27 11:00:00 | Fourniture et pose d'équipement mobilier pour la médiathèque 'la Bastide du Coulet' - 83440 | *informatique*|
 
 
-_Dernière mise à jour : Saturday 24/09/2022 03:45:47_
+_Dernière mise à jour : Sunday 25/09/2022 03:41:36_
