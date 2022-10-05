@@ -13,6 +13,8 @@
 | [22-126179](https://www.boamp.fr/avis/detail/22-126179) | VILLE DE LOURDES | N/C € | N/C mois | 🔴 2022-10-07 10:00:00 | FOURNITURE, INSTALLATION, PARAMETRAGE ET MAINTENANCE DE LOGICIELS COURRIER ET METIERS POUR LES SERVICES A LA POPULATION | *logiciels*|
 | [22-126468](https://www.boamp.fr/avis/detail/22-126468) | COMMUNE DE HARNES | N/C € | N/C mois | 🔴 2022-10-11 11:00:00 | Hébergement et maintenance en mode SAAS d'un logiciel Ressources Humaines | *logiciels*|
 | [22-128575](https://www.boamp.fr/avis/detail/22-128575) | ville de Sartrouville | N/C € | N/C mois | 🔴 2022-10-13 11:00:00 | INFRASTRUCTURE RÉSEAU ET WIFI SANS RUPTURE SUR LES ÉCOLES ÉLÉMENTAIRES TURGOT 1, TURGOT 2, JOLIOT CURIE 1 | *wifi*|
+| [22-129182](https://www.boamp.fr/avis/detail/22-129182) | Ville d'HAUBOURDIN | N/C € | N/C mois | 🟡 2022-10-20 11:00:00 | assurances CCAS | *informatique*|
+| [22-131349](https://www.boamp.fr/avis/detail/22-131349) | GRAND PORT FLUVIO-MARITIME DE L'AXE S | N/C € | N/C mois | 🟢 2022-10-25 16:00:00 | La présente consultation a pour objet la réalisation et l'interprétation de mesures inclinométriques sur le quai du Havre, ainsi que sur l'ouvrage de fermeture de l'ancien bassin aux pétroles.Les mesures seront effectuées dans les tubes inclinométriques de la phase 2 de Port 2000, ainsi que ceux de l'ouvrage de fermeture de l'ancien Bassin aux Pétroles lors de campagnes annuelles. | *informatique*|
 
 
-_Dernière mise à jour : Tuesday 04/10/2022 03:12:51_
+_Dernière mise à jour : Wednesday 05/10/2022 03:11:57_
