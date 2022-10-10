@@ -13,8 +13,8 @@
 | [22-126468](https://www.boamp.fr/avis/detail/22-126468) | COMMUNE DE HARNES | N/C € | N/C mois | 🔴 2022-10-11 11:00:00 | Hébergement et maintenance en mode SAAS d'un logiciel Ressources Humaines | *logiciels*|
 | [22-128575](https://www.boamp.fr/avis/detail/22-128575) | ville de Sartrouville | N/C € | N/C mois | 🔴 2022-10-13 11:00:00 | INFRASTRUCTURE RÉSEAU ET WIFI SANS RUPTURE SUR LES ÉCOLES ÉLÉMENTAIRES TURGOT 1, TURGOT 2, JOLIOT CURIE 1 | *wifi*|
 | [22-129182](https://www.boamp.fr/avis/detail/22-129182) | Ville d'HAUBOURDIN | N/C € | N/C mois | 🟡 2022-10-20 11:00:00 | assurances CCAS | *informatique*|
-| 🔥 [22-134258](https://www.boamp.fr/avis/detail/22-134258) | COMMUNE DE MARTIGUES | N/C € | N/C mois | 🟢 2022-11-07 11:00:00 | Commune de Martigues - Mission d'Assistance à Maitrise d'ouvrage sur l'utilisation de l'application métier de gestion des activités Education/Enfance | *informatique*|
+| [22-134258](https://www.boamp.fr/avis/detail/22-134258) | COMMUNE DE MARTIGUES | N/C € | N/C mois | 🟢 2022-11-07 11:00:00 | Commune de Martigues - Mission d'Assistance à Maitrise d'ouvrage sur l'utilisation de l'application métier de gestion des activités Education/Enfance | *informatique*|
 | [22-131349](https://www.boamp.fr/avis/detail/22-131349) | GRAND PORT FLUVIO-MARITIME DE L'AXE S | N/C € | N/C mois | 🟡 2022-10-25 16:00:00 | La présente consultation a pour objet la réalisation et l'interprétation de mesures inclinométriques sur le quai du Havre, ainsi que sur l'ouvrage de fermeture de l'ancien bassin aux pétroles.Les mesures seront effectuées dans les tubes inclinométriques de la phase 2 de Port 2000, ainsi que ceux de l'ouvrage de fermeture de l'ancien Bassin aux Pétroles lors de campagnes annuelles. | *informatique*|
 
 
-_Dernière mise à jour : Sunday 09/10/2022 03:35:28_
+_Dernière mise à jour : Monday 10/10/2022 03:41:09_
