@@ -4,7 +4,9 @@
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
 | [22-135254](https://www.boamp.fr/avis/detail/22-135254) | Mas Grenier | N/C € | N/C mois | 🟡 2022-11-02 11:00:00 | Maîtrise d'oeuvre pour la construction de vestiaires de football | *stockage objet*|
+| 🔥 [22-138300](https://www.boamp.fr/avis/detail/22-138300) | COMMUNE DE VITRY SUR SEINE | N/C € | N/C mois | 🟢 2022-11-14 16:30:00 | Le présent marché a pour objet l'exécution d'une mission de programmation architecturale, paysagère et technique préalable à la restructuration du Centre technique du Service Maintenance et Entretien des Espaces Verts. Cette étude programmatique établira les besoins en stockage, ateliers et locaux associés au fonctionnement du centre technique et à la production horticole du site. | *stockage objet*|
 | 🔥 [22-137706](https://www.boamp.fr/avis/detail/22-137706) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🟢 2022-11-08 11:00:00 | Collecte et reconditionnement du matériel informatique (éco-TIC) | *stockage objet*|
+| 🔥 [22-138004](https://www.boamp.fr/avis/detail/22-138004) | SDEC ENERGIE | N/C € | N/C mois | 🟢 2022-11-14 11:00:00 | TRAITEMENT DES TRANSFORMATEURS HTA-BT DÉPOSÉS | *stockage objet*|
 | [22-129940](https://www.boamp.fr/avis/detail/22-129940) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🟡 2022-10-31 15:00:00 | Fourniture et mise en oeuvre de la nouvelle solution active de continuité INPT MS71 dans le tunnel Beauvoisine - Théâtre des Arts | *infrastructures systemes*|
 | [22-128192](https://www.boamp.fr/avis/detail/22-128192) | CC ARBOIS POLIGNY SALINS COEUR DU JURA | N/C € | N/C mois | 🔴 2022-10-17 11:00:00 | Marché de prestations de service portant évaluation des compétences informatiques (Pix) des agents de la CCAPSCJ, analyse de l'utilisations des outils collaboratifs de type M365 et formation des agents de la CCAPSCJ aux outils collaboratifs type Microsoft 365 | *microsoft*|
 | [22-119047](https://www.boamp.fr/avis/detail/22-119047) | COMMUNE D ECULLY | N/C € | N/C mois | 🟢 2022-11-07 11:00:00 | Prestation de service pour la gestion de la mise en oeuvre de la taxe locale sur la publicité extérieure (TLPE) et pour la gestion des dossiers d'enseignes | *logiciels*|
@@ -16,4 +18,4 @@
 | [22-131349](https://www.boamp.fr/avis/detail/22-131349) | GRAND PORT FLUVIO-MARITIME DE L'AXE S | N/C € | N/C mois | 🟡 2022-10-25 16:00:00 | La présente consultation a pour objet la réalisation et l'interprétation de mesures inclinométriques sur le quai du Havre, ainsi que sur l'ouvrage de fermeture de l'ancien bassin aux pétroles.Les mesures seront effectuées dans les tubes inclinométriques de la phase 2 de Port 2000, ainsi que ceux de l'ouvrage de fermeture de l'ancien Bassin aux Pétroles lors de campagnes annuelles. | *informatique*|
 
 
-_Dernière mise à jour : Friday 14/10/2022 03:50:30_
+_Dernière mise à jour : Saturday 15/10/2022 03:40:17_
