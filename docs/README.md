@@ -3,7 +3,7 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| 🔥 [22-143119](https://www.boamp.fr/avis/detail/22-143119) | Ville de Saint Mandrier sur Mer | N/C € | N/C mois | 🟢 2022-11-18 11:00:00 | MARCHÉ RELATIF A L'ACQUISITION D'UN SERVEUR - VIRTUALISATION DES POSTES ET CONTRAT DE MAINTENANCE ASSOCIE | *virtualisation*|
+| [22-143119](https://www.boamp.fr/avis/detail/22-143119) | Ville de Saint Mandrier sur Mer | N/C € | N/C mois | 🟢 2022-11-18 11:00:00 | MARCHÉ RELATIF A L'ACQUISITION D'UN SERVEUR - VIRTUALISATION DES POSTES ET CONTRAT DE MAINTENANCE ASSOCIE | *virtualisation*|
 | [22-135254](https://www.boamp.fr/avis/detail/22-135254) | Mas Grenier | N/C € | N/C mois | 🔴 2022-11-02 11:00:00 | Maîtrise d'oeuvre pour la construction de vestiaires de football | *stockage objet*|
 | [22-138300](https://www.boamp.fr/avis/detail/22-138300) | COMMUNE DE VITRY SUR SEINE | N/C € | N/C mois | 🟡 2022-11-14 16:30:00 | Le présent marché a pour objet l'exécution d'une mission de programmation architecturale, paysagère et technique préalable à la restructuration du Centre technique du Service Maintenance et Entretien des Espaces Verts. Cette étude programmatique établira les besoins en stockage, ateliers et locaux associés au fonctionnement du centre technique et à la production horticole du site. | *stockage objet*|
 | [22-137706](https://www.boamp.fr/avis/detail/22-137706) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🟡 2022-11-08 11:00:00 | Collecte et reconditionnement du matériel informatique (éco-TIC) | *stockage objet*|
@@ -21,4 +21,4 @@
 | [22-140568](https://www.boamp.fr/avis/detail/22-140568) | DIRISI | N/C € | N/C mois | 🟢 2022-11-22 09:00:00 | Acquisition de matériels informatiques certifiés TEMPEST | *informatique*|
 
 
-_Dernière mise à jour : Thursday 27/10/2022 03:12:58_
+_Dernière mise à jour : Friday 28/10/2022 03:20:44_
