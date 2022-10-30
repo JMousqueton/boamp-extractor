@@ -3,10 +3,10 @@
 
 | Référence | Acheteur | Montant | Durée | Deadline | Résumé | Mot clé|
 |---|---|---|---|---|---|---|
-| [22-143119](https://www.boamp.fr/avis/detail/22-143119) | Ville de Saint Mandrier sur Mer | N/C € | N/C mois | 🟢 2022-11-18 11:00:00 | MARCHÉ RELATIF A L'ACQUISITION D'UN SERVEUR - VIRTUALISATION DES POSTES ET CONTRAT DE MAINTENANCE ASSOCIE | *virtualisation*|
+| [22-143119](https://www.boamp.fr/avis/detail/22-143119) | Ville de Saint Mandrier sur Mer | N/C € | N/C mois | 🟡 2022-11-18 11:00:00 | MARCHÉ RELATIF A L'ACQUISITION D'UN SERVEUR - VIRTUALISATION DES POSTES ET CONTRAT DE MAINTENANCE ASSOCIE | *virtualisation*|
 | [22-135254](https://www.boamp.fr/avis/detail/22-135254) | Mas Grenier | N/C € | N/C mois | 🔴 2022-11-02 11:00:00 | Maîtrise d'oeuvre pour la construction de vestiaires de football | *stockage objet*|
 | [22-138300](https://www.boamp.fr/avis/detail/22-138300) | COMMUNE DE VITRY SUR SEINE | N/C € | N/C mois | 🟡 2022-11-14 16:30:00 | Le présent marché a pour objet l'exécution d'une mission de programmation architecturale, paysagère et technique préalable à la restructuration du Centre technique du Service Maintenance et Entretien des Espaces Verts. Cette étude programmatique établira les besoins en stockage, ateliers et locaux associés au fonctionnement du centre technique et à la production horticole du site. | *stockage objet*|
-| [22-137706](https://www.boamp.fr/avis/detail/22-137706) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🟡 2022-11-08 11:00:00 | Collecte et reconditionnement du matériel informatique (éco-TIC) | *stockage objet*|
+| [22-137706](https://www.boamp.fr/avis/detail/22-137706) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🔴 2022-11-08 11:00:00 | Collecte et reconditionnement du matériel informatique (éco-TIC) | *stockage objet*|
 | [22-138004](https://www.boamp.fr/avis/detail/22-138004) | SDEC ENERGIE | N/C € | N/C mois | 🟡 2022-11-14 11:00:00 | TRAITEMENT DES TRANSFORMATEURS HTA-BT DÉPOSÉS | *stockage objet*|
 | [22-129940](https://www.boamp.fr/avis/detail/22-129940) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🔴 2022-10-31 15:00:00 | Fourniture et mise en oeuvre de la nouvelle solution active de continuité INPT MS71 dans le tunnel Beauvoisine - Théâtre des Arts | *infrastructures systemes*|
 | 🔥 [22-145798](https://www.boamp.fr/avis/detail/22-145798) | Commune d'Hyères-les-Palmiers | N/C € | N/C mois | 🟢 2022-11-23 15:30:00 | INFRASTRUCTURES ET SYSTEMES NUMERIQUES / COMMANDE PUBLIQUE / CAISSE DES ECOLES - Solution de plateforme externe de dématérialisation des marchés publics | *infrastructures systemes*|
@@ -15,11 +15,11 @@
 | [22-119047](https://www.boamp.fr/avis/detail/22-119047) | COMMUNE D ECULLY | N/C € | N/C mois | 🔴 2022-11-07 11:00:00 | Prestation de service pour la gestion de la mise en oeuvre de la taxe locale sur la publicité extérieure (TLPE) et pour la gestion des dossiers d'enseignes | *logiciels*|
 | [22-142244](https://www.boamp.fr/avis/detail/22-142244) | VILLE DE PETIT-BOURG | N/C € | N/C mois | 🔴 2022-11-04 11:00:00 | ACHAT DE MATERIEL INFORMATIQUE ET D'EQUIPEMENTS AUDIOVISUELS POUR LES ECOLES PRIMAIRES DE LA VILLE DE PETIT-BOURG | *logiciels*|
 | [22-137017](https://www.boamp.fr/avis/detail/22-137017) | COLLECTIVITE TERRITORIALE MARTINIQUE | N/C € | N/C mois | 🟡 2022-11-14 11:00:00 | Acquisition, installation, maintenance d'une armoire à clés électroniques sécurisées pour la direction de la gestion du patrimoine de la collectivité territoriale de martinique | *logiciels*|
-| [22-142737](https://www.boamp.fr/avis/detail/22-142737) | Université d'Artois | N/C € | N/C mois | 🟢 2022-11-18 11:00:00 | Prestation de service pour l'installation, l'intégration et le déploiement du logiciel open source Ametys pour les besoins de gestion de l'offre de formation de l'Université d'Artois, formation et maintenance. | *logiciels*|
+| [22-142737](https://www.boamp.fr/avis/detail/22-142737) | Université d'Artois | N/C € | N/C mois | 🟡 2022-11-18 11:00:00 | Prestation de service pour l'installation, l'intégration et le déploiement du logiciel open source Ametys pour les besoins de gestion de l'offre de formation de l'Université d'Artois, formation et maintenance. | *logiciels*|
 | [22-134258](https://www.boamp.fr/avis/detail/22-134258) | COMMUNE DE MARTIGUES | N/C € | N/C mois | 🔴 2022-11-07 11:00:00 | Commune de Martigues - Mission d'Assistance à Maitrise d'ouvrage sur l'utilisation de l'application métier de gestion des activités Education/Enfance | *informatique*|
 | [22-141672](https://www.boamp.fr/avis/detail/22-141672) | Ville d'Issoire | N/C € | N/C mois | 🟡 2022-11-17 11:00:00 | Aménagement du tiers lieux situé 44/46 rue de la Berbiziale à Issoire. | *informatique*|
-| [22-142026](https://www.boamp.fr/avis/detail/22-142026) | Commune de Blaye | N/C € | N/C mois | 🟢 2022-11-18 15:30:00 | Maintenance et entretien du parc informatique | *informatique*|
+| [22-142026](https://www.boamp.fr/avis/detail/22-142026) | Commune de Blaye | N/C € | N/C mois | 🟡 2022-11-18 15:30:00 | Maintenance et entretien du parc informatique | *informatique*|
 | [22-140568](https://www.boamp.fr/avis/detail/22-140568) | DIRISI | N/C € | N/C mois | 🟢 2022-11-22 09:00:00 | Acquisition de matériels informatiques certifiés TEMPEST | *informatique*|
 
 
-_Dernière mise à jour : Saturday 29/10/2022 03:07:33_
+_Dernière mise à jour : Sunday 30/10/2022 03:24:07_
