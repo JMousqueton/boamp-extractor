@@ -8,7 +8,8 @@
 | [22-138300](https://www.boamp.fr/avis/detail/22-138300) | COMMUNE DE VITRY SUR SEINE | N/C € | N/C mois | 🟡 2022-11-14 16:30:00 | Le présent marché a pour objet l'exécution d'une mission de programmation architecturale, paysagère et technique préalable à la restructuration du Centre technique du Service Maintenance et Entretien des Espaces Verts. Cette étude programmatique établira les besoins en stockage, ateliers et locaux associés au fonctionnement du centre technique et à la production horticole du site. | *stockage objet*|
 | [22-137706](https://www.boamp.fr/avis/detail/22-137706) | DEPARTEMENT DE LA SAVOIE | N/C € | N/C mois | 🔴 2022-11-08 11:00:00 | Collecte et reconditionnement du matériel informatique (éco-TIC) | *stockage objet*|
 | [22-138004](https://www.boamp.fr/avis/detail/22-138004) | SDEC ENERGIE | N/C € | N/C mois | 🟡 2022-11-14 11:00:00 | TRAITEMENT DES TRANSFORMATEURS HTA-BT DÉPOSÉS | *stockage objet*|
-| [22-129940](https://www.boamp.fr/avis/detail/22-129940) | METROPOLE ROUEN NORMANDIE | N/C € | N/C mois | 🔴 2022-10-31 15:00:00 | Fourniture et mise en oeuvre de la nouvelle solution active de continuité INPT MS71 dans le tunnel Beauvoisine - Théâtre des Arts | *infrastructures systemes*|
+| 🔥 [22-146197](https://www.boamp.fr/avis/detail/22-146197) | Orléans Métropole | N/C € | N/C mois | 🟢 2022-11-30 11:00:00 | Diagnostics d'ouvrages de stockage d'eau potable | *stockage objet*|
+| 🔥 [22-146427](https://www.boamp.fr/avis/detail/22-146427) | Ville de Gap | N/C € | N/C mois | 🟢 2022-11-25 10:00:00 | Etude de faisabilité pour l'aménagement d'un lieu de diffusion culturel en plein air sur le site de Puymaure - Ville de Gap | *sauvegarde*|
 | [22-145798](https://www.boamp.fr/avis/detail/22-145798) | Commune d'Hyères-les-Palmiers | N/C € | N/C mois | 🟢 2022-11-23 15:30:00 | INFRASTRUCTURES ET SYSTEMES NUMERIQUES / COMMANDE PUBLIQUE / CAISSE DES ECOLES - Solution de plateforme externe de dématérialisation des marchés publics | *infrastructures systemes*|
 | [22-142727](https://www.boamp.fr/avis/detail/22-142727) | FEDERATION FRANCAISE RUGBY | N/C € | N/C mois | 🟢 2022-11-25 11:00:00 | Réalisation des programmes officiels des matchs suivants du XV DE FRANCE masculin. | *serveur*|
 | [22-141869](https://www.boamp.fr/avis/detail/22-141869) | Ville de Mandelieu La Napoule | N/C € | N/C mois | 🟡 2022-11-15 15:00:00 | Réalisation d'un audit de sécurité informatique avec tests d'intrusion dans le cadre de l'accompagnement au pack initial du parcours de cybersécurité France RELANCE-ANSSI | *serveur*|
@@ -22,4 +23,4 @@
 | [22-140568](https://www.boamp.fr/avis/detail/22-140568) | DIRISI | N/C € | N/C mois | 🟢 2022-11-22 09:00:00 | Acquisition de matériels informatiques certifiés TEMPEST | *informatique*|
 
 
-_Dernière mise à jour : Monday 31/10/2022 03:20:41_
+_Dernière mise à jour : Tuesday 01/11/2022 03:34:42_
