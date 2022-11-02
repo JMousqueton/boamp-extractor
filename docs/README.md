@@ -23,4 +23,4 @@
 | [22-140568](https://www.boamp.fr/avis/detail/22-140568) | DIRISI | N/C € | N/C mois | 🟢 2022-11-22 09:00:00 | Acquisition de matériels informatiques certifiés TEMPEST | *informatique*|
 
 
-_Dernière mise à jour : Tuesday 01/11/2022 03:34:42_
+_Dernière mise à jour : Wednesday 02/11/2022 03:24:16_
