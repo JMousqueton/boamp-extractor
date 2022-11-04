@@ -9,7 +9,7 @@
 | [22-138004](https://www.boamp.fr/avis/detail/22-138004) | SDEC ENERGIE | N/C € | N/C mois | 🟡 2022-11-14 11:00:00 | TRAITEMENT DES TRANSFORMATEURS HTA-BT DÉPOSÉS | *stockage objet*|
 | [22-146197](https://www.boamp.fr/avis/detail/22-146197) | Orléans Métropole | N/C € | N/C mois | 🟢 2022-11-30 11:00:00 | Diagnostics d'ouvrages de stockage d'eau potable | *stockage objet*|
 | [22-146427](https://www.boamp.fr/avis/detail/22-146427) | Ville de Gap | N/C € | N/C mois | 🟢 2022-11-25 10:00:00 | Etude de faisabilité pour l'aménagement d'un lieu de diffusion culturel en plein air sur le site de Puymaure - Ville de Gap | *sauvegarde*|
-| [22-145798](https://www.boamp.fr/avis/detail/22-145798) | Commune d'Hyères-les-Palmiers | N/C € | N/C mois | 🟢 2022-11-23 15:30:00 | INFRASTRUCTURES ET SYSTEMES NUMERIQUES / COMMANDE PUBLIQUE / CAISSE DES ECOLES - Solution de plateforme externe de dématérialisation des marchés publics | *infrastructures systemes*|
+| [22-145798](https://www.boamp.fr/avis/detail/22-145798) | Commune d'Hyères-les-Palmiers | N/C € | N/C mois | 🟡 2022-11-23 15:30:00 | INFRASTRUCTURES ET SYSTEMES NUMERIQUES / COMMANDE PUBLIQUE / CAISSE DES ECOLES - Solution de plateforme externe de dématérialisation des marchés publics | *infrastructures systemes*|
 | [22-142727](https://www.boamp.fr/avis/detail/22-142727) | FEDERATION FRANCAISE RUGBY | N/C € | N/C mois | 🟢 2022-11-25 11:00:00 | Réalisation des programmes officiels des matchs suivants du XV DE FRANCE masculin. | *serveur*|
 | [22-141869](https://www.boamp.fr/avis/detail/22-141869) | Ville de Mandelieu La Napoule | N/C € | N/C mois | 🟡 2022-11-15 15:00:00 | Réalisation d'un audit de sécurité informatique avec tests d'intrusion dans le cadre de l'accompagnement au pack initial du parcours de cybersécurité France RELANCE-ANSSI | *serveur*|
 | [22-119047](https://www.boamp.fr/avis/detail/22-119047) | COMMUNE D ECULLY | N/C € | N/C mois | 🔴 2022-11-07 11:00:00 | Prestation de service pour la gestion de la mise en oeuvre de la taxe locale sur la publicité extérieure (TLPE) et pour la gestion des dossiers d'enseignes | *logiciels*|
@@ -22,4 +22,4 @@
 | [22-140568](https://www.boamp.fr/avis/detail/22-140568) | DIRISI | N/C € | N/C mois | 🟡 2022-11-22 09:00:00 | Acquisition de matériels informatiques certifiés TEMPEST | *informatique*|
 
 
-_Dernière mise à jour : Thursday 03/11/2022 03:05:39_
+_Dernière mise à jour : Friday 04/11/2022 03:11:38_
