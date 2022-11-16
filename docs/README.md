@@ -5,12 +5,11 @@
 |---|---|---|---|---|---|---|
 | [22-143119](https://www.boamp.fr/avis/detail/22-143119) | Ville de Saint Mandrier sur Mer | N/C € | N/C mois | 🔴 2022-11-18 11:00:00 | MARCHÉ RELATIF A L'ACQUISITION D'UN SERVEUR - VIRTUALISATION DES POSTES ET CONTRAT DE MAINTENANCE ASSOCIE | *virtualisation*|
 | [22-146197](https://www.boamp.fr/avis/detail/22-146197) | Orléans Métropole | N/C € | N/C mois | 🟡 2022-11-30 11:00:00 | Diagnostics d'ouvrages de stockage d'eau potable | *stockage objet*|
-| [22-146427](https://www.boamp.fr/avis/detail/22-146427) | Ville de Gap | N/C € | N/C mois | 🟡 2022-11-25 10:00:00 | Etude de faisabilité pour l'aménagement d'un lieu de diffusion culturel en plein air sur le site de Puymaure - Ville de Gap | *sauvegarde*|
+| [22-146427](https://www.boamp.fr/avis/detail/22-146427) | Ville de Gap | N/C € | N/C mois | 🔴 2022-11-25 10:00:00 | Etude de faisabilité pour l'aménagement d'un lieu de diffusion culturel en plein air sur le site de Puymaure - Ville de Gap | *sauvegarde*|
 | [22-149312](https://www.boamp.fr/avis/detail/22-149312) | C.H. Jacques Coeur de Bourges | N/C € | N/C mois | 🟢 2022-12-09 10:00:00 | Maintenance sauvegarde DELL NETVAULT du Centre Hospitalier Jacques Coeur de Bourges | *sauvegarde*|
 | [22-148134](https://www.boamp.fr/avis/detail/22-148134) | Syndicat Mixte Ports de Normandie | N/C € | N/C mois | 🔴 2022-11-21 12:30:00 | Fourniture et livraison de matériel réseau informatique - SD- WAN | *cloud public*|
 | [22-145798](https://www.boamp.fr/avis/detail/22-145798) | Commune d'Hyères-les-Palmiers | N/C € | N/C mois | 🔴 2022-11-23 15:30:00 | INFRASTRUCTURES ET SYSTEMES NUMERIQUES / COMMANDE PUBLIQUE / CAISSE DES ECOLES - Solution de plateforme externe de dématérialisation des marchés publics | *infrastructures systemes*|
-| [22-142727](https://www.boamp.fr/avis/detail/22-142727) | FEDERATION FRANCAISE RUGBY | N/C € | N/C mois | 🟡 2022-11-25 11:00:00 | Réalisation des programmes officiels des matchs suivants du XV DE FRANCE masculin. | *serveur*|
-| [22-141869](https://www.boamp.fr/avis/detail/22-141869) | Ville de Mandelieu La Napoule | N/C € | N/C mois | 🔴 2022-11-15 15:00:00 | Réalisation d'un audit de sécurité informatique avec tests d'intrusion dans le cadre de l'accompagnement au pack initial du parcours de cybersécurité France RELANCE-ANSSI | *serveur*|
+| [22-142727](https://www.boamp.fr/avis/detail/22-142727) | FEDERATION FRANCAISE RUGBY | N/C € | N/C mois | 🔴 2022-11-25 11:00:00 | Réalisation des programmes officiels des matchs suivants du XV DE FRANCE masculin. | *serveur*|
 | [22-148256](https://www.boamp.fr/avis/detail/22-148256) | E.C.P.A.D | N/C € | N/C mois | 🔴 2022-11-24 11:00:00 | MARCHÉ D'ACQUISITION DE DEUX SERVEURS VIDÉO POUR LA MISE À NIVEAU DES MOYENS TECHNIQUES DE LA POST-PRODUCTION de l'ECPAD-2 LOTS- | *serveur*|
 | [22-142737](https://www.boamp.fr/avis/detail/22-142737) | Université d'Artois | N/C € | N/C mois | 🔴 2022-11-18 11:00:00 | Prestation de service pour l'installation, l'intégration et le déploiement du logiciel open source Ametys pour les besoins de gestion de l'offre de formation de l'Université d'Artois, formation et maintenance. | *logiciels*|
 | [22-141672](https://www.boamp.fr/avis/detail/22-141672) | Ville d'Issoire | N/C € | N/C mois | 🔴 2022-11-17 11:00:00 | Aménagement du tiers lieux situé 44/46 rue de la Berbiziale à Issoire. | *informatique*|
@@ -21,4 +20,4 @@
 | [22-149280](https://www.boamp.fr/avis/detail/22-149280) | mairie saint nom la bretèche | N/C € | N/C mois | 🟢 2022-12-09 11:00:00 | Le présent marché a pour objet l'assistance aux utilisateurs ainsi que la maintenance du parc informatique de la Commune de Saint-Nom-la-Bretèche | *informatique*|
 
 
-_Dernière mise à jour : Tuesday 15/11/2022 02:53:25_
+_Dernière mise à jour : Wednesday 16/11/2022 02:54:36_
