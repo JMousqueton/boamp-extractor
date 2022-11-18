@@ -12,7 +12,6 @@
 | [22-142727](https://www.boamp.fr/avis/detail/22-142727) | FEDERATION FRANCAISE RUGBY | N/C € | N/C mois | 🔴 2022-11-25 11:00:00 | Réalisation des programmes officiels des matchs suivants du XV DE FRANCE masculin. | *serveur*|
 | [22-148256](https://www.boamp.fr/avis/detail/22-148256) | E.C.P.A.D | N/C € | N/C mois | 🔴 2022-11-24 11:00:00 | MARCHÉ D'ACQUISITION DE DEUX SERVEURS VIDÉO POUR LA MISE À NIVEAU DES MOYENS TECHNIQUES DE LA POST-PRODUCTION de l'ECPAD-2 LOTS- | *serveur*|
 | [22-142737](https://www.boamp.fr/avis/detail/22-142737) | Université d'Artois | N/C € | N/C mois | 🔴 2022-11-18 11:00:00 | Prestation de service pour l'installation, l'intégration et le déploiement du logiciel open source Ametys pour les besoins de gestion de l'offre de formation de l'Université d'Artois, formation et maintenance. | *logiciels*|
-| [22-141672](https://www.boamp.fr/avis/detail/22-141672) | Ville d'Issoire | N/C € | N/C mois | 🔴 2022-11-17 11:00:00 | Aménagement du tiers lieux situé 44/46 rue de la Berbiziale à Issoire. | *informatique*|
 | [22-142026](https://www.boamp.fr/avis/detail/22-142026) | Commune de Blaye | N/C € | N/C mois | 🔴 2022-11-18 15:30:00 | Maintenance et entretien du parc informatique | *informatique*|
 | [22-140568](https://www.boamp.fr/avis/detail/22-140568) | DIRISI | N/C € | N/C mois | 🔴 2022-11-22 09:00:00 | Acquisition de matériels informatiques certifiés TEMPEST | *informatique*|
 | [22-148314](https://www.boamp.fr/avis/detail/22-148314) | CC DU PAYS D'ALESIA ET DE LA SEINE | N/C € | N/C mois | 🟢 2022-12-12 11:00:00 | Souscription des contrats d'assurance pour la Communauté de communes du Pays d'Alésia et de la Seine | *informatique*|
@@ -20,4 +19,4 @@
 | [22-149280](https://www.boamp.fr/avis/detail/22-149280) | mairie saint nom la bretèche | N/C € | N/C mois | 🟢 2022-12-09 11:00:00 | Le présent marché a pour objet l'assistance aux utilisateurs ainsi que la maintenance du parc informatique de la Commune de Saint-Nom-la-Bretèche | *informatique*|
 
 
-_Dernière mise à jour : Thursday 17/11/2022 02:49:57_
+_Dernière mise à jour : Friday 18/11/2022 02:55:15_
