@@ -10,4 +10,4 @@
 | [22-149280](https://www.boamp.fr/avis/detail/22-149280) | mairie saint nom la bretèche | N/C € | N/C mois | 🟡 2022-12-09 11:00:00 | Le présent marché a pour objet l'assistance aux utilisateurs ainsi que la maintenance du parc informatique de la Commune de Saint-Nom-la-Bretèche | *informatique*|
 
 
-_Dernière mise à jour : Saturday 26/11/2022 02:26:42_
+_Dernière mise à jour : Sunday 27/11/2022 02:42:05_
