@@ -6,4 +6,4 @@
 | [22-148314](https://www.boamp.fr/avis/detail/22-148314) | CC DU PAYS D'ALESIA ET DE LA SEINE | N/C € | N/C mois | 🔴 2022-12-12 11:00:00 | Souscription des contrats d'assurance pour la Communauté de communes du Pays d'Alésia et de la Seine | *informatique*|
 
 
-_Dernière mise à jour : Sunday 11/12/2022 02:26:19_
+_Dernière mise à jour : Monday 12/12/2022 02:22:30_
