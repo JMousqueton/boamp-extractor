@@ -50,7 +50,7 @@ class boampGetter:
         lineOut = 'http://api.dila.fr/opendata/api-boamp/annonces/search?criterion=dateparution>{} ET {}'.format(dateparution,strSearch)
         self.__searchResponse = requests.get(lineOut).json()
         print('{} Responses found'.format(self.__searchSize()))
-        for i in self
+        for i in self:
             print(i)
 
     def saveJsonFile(self, idweb):
