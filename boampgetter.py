@@ -48,6 +48,7 @@ class boampGetter:
         """
         print('Boamp search: \'{}\' after \'{}\''.format(strSearch,dateparution))
         lineOut = 'http://api.dila.fr/opendata/api-boamp/annonces/search?criterion=dateparution>{} ET {}'.format(dateparution,strSearch)
+        print (lineOut)
         self.__searchResponse = requests.get(lineOut).json()
         print('{} Responses found'.format(self.__searchSize()))
 
